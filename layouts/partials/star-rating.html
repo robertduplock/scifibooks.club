@@ -1,0 +1,14 @@
+{{ $rating := ($.Param "rating") }}
+<div class="w2 mw2 mb4 h2 flex" aria-label="Score is {{ $rating }} out of 5">
+  {{ range $i, $sequence := (seq 5) }}
+    {{ if lt $i $rating }}
+      {{ if eq (sub $rating $i) 0.5 }}
+        <i class="fa fa-star-half-o fa-2x mr1 yellow" aria-hidden="true"></i>
+      {{ else }}
+        <i class="fa fa-star fa-2x mr1 yellow" aria-hidden="true"></i>
+      {{ end }}
+    {{ else }}
+      <i class="fa fa-star-o fa-2x mr1 yellow" aria-hidden="true"></i>
+    {{ end }}    
+  {{ end }}
+</div>

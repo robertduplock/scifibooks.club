@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  width: 100%;
+
+  .header-wrapper {
+    padding: 1.5em;
+    background-size: cover;
+    flex: 1 1 100%;
+    text-align: center;
+  }
+
+  nav {
+    max-width: 320px;
+    margin: 0 auto;
+    
+    ul {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+    }
+  }
+
+  &, a {
+    color: #fff;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  .site-title {
+    margin-top: 3em;
+    padding-bottom: 1.5em;
+  }
+
+}

@@ -1,0 +1,81 @@
+title = "Sci-fi Books Club"
+baseURL = "https://startrekbook.club"
+languageCode = "en-us"
+theme = "ananke"
+# themesDir = "../.."
+# resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 9
+googleAnalytics = "G-0Y46HHD8R2"
+enableRobotsTXT = true
+disqusShortname = ""
+
+[languages]
+  [languages.en]
+    title = "Sci-fi Books Club"
+    weight = 1
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "/favicon.ico"
+  site_logo = "/images/icon2.png"
+  description = "Reading the Star Trek relaunch books (post Nemesis) in sensible order."
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/bg1.jpg"
+  recent_posts_number = 3
+  custom_js = ["js/script.js"]
+  custom_css = ["css/styles.css"]
+  recent_copy = "Latest reviews"
+
+[taxonomyPageList]
+  other = "Results for “{{ .Title }}”"
+
+[menu]
+  [[menu.top]]
+    identifier = "reviews"
+    name = "Reviews"
+    URL = '/reviews'
+    weight = 1
+  [[menu.top]]
+    name = "About"
+    URL = '/about'
+    weight = 3
+  [[menu.top]]
+    name = "Contact"
+    URL = '/contact'
+    weight = 5
+
+  [[menu.top]]
+    name = "All books"
+    URL = '/reviews'
+    weight = 1
+    parent = "reviews"
+  # [[menu.top]]
+  #   name = "Star Trek (all)"
+  #   URL = '/tags/star-trek'
+  #   weight = 3
+  #   parent = "reviews"
+  [[menu.top]]
+    name = "Star Trek (relaunch)"
+    URL = '/tags/relaunch'
+    weight = 5
+    parent = "reviews"

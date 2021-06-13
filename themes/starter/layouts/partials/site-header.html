@@ -1,0 +1,15 @@
+<header>
+	<div class="header-wrapper" style="background-image: url(/maxresdefault.jpg);">
+		{{ partial "site-navigation.html" . }}
+		<div class="site-title">
+			<h1>
+				{{ .Title }}
+			</h1>
+			{{ with .Params.description }}
+			<h2>
+				{{ . }}
+			</h2>
+			{{ end }}
+		</div>
+	</div>
+</header>
