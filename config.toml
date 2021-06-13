@@ -1,5 +1,5 @@
 title = "Sci-fi Books Club"
-baseURL = "https://startrekbook.club"
+baseURL = "https://scifibooks.club"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
@@ -79,3 +79,4 @@ disqusShortname = ""
     URL = '/tags/relaunch'
     weight = 5
     parent = "reviews"
+
