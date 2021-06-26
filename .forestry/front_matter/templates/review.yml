@@ -1,0 +1,31 @@
+---
+label: Review
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: inline_image
+  label: inline_image
+- type: number
+  name: rating
+  label: rating
+- type: boolean
+  name: show_reading_time
+  label: show_reading_time
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: phase
+  label: phase
