@@ -8,9 +8,6 @@ fields:
 - type: text
   name: description
   label: description
-- type: file
-  name: inline_image
-  label: inline_image
 - type: number
   name: rating
   label: rating
@@ -29,3 +26,8 @@ fields:
 - type: text
   name: phase
   label: phase
+- name: inline_image
+  type: text
+  config:
+    required: false
+  label: Inline image
