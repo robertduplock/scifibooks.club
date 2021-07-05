@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <ul>
+  {{ range $.Site.Pages }}
+	  <li>
+    
+      <p><a href="{{ .Permalink }}"> {{ cond ( isset .Params "description" ) .Description .Title }}</a> </p>
+    </li>
+	{{ end }}
+  </ul>
+{{ end }}
