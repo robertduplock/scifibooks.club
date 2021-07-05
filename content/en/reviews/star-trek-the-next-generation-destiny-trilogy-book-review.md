@@ -18,6 +18,8 @@ The epic Star Trek: Destiny trilogy is finally upon us. This three-book, litvers
 
 ### History
 
+Coming soon...
+
 ### Story
 
 ### Opinion
