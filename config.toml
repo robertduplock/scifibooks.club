@@ -45,6 +45,7 @@ disqusShortname = ""
   custom_js = ["js/script.js"]
   custom_css = ["css/styles.css"]
   recent_copy = "Latest reviews"
+  env = "production"
 
 [taxonomyPageList]
   other = "Results for “{{ .Title }}”"
