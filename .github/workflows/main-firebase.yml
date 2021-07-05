@@ -10,5 +10,5 @@ jobs:
     - uses: ryank90/action-hugo-firebase-deploy@master
       with:
         firebase-token: ${{ secrets.firebase_token }} 
-        alias: ""
-        hugo-params: ""
+        alias: ${{ alias }}
+        hugo-params: HUGO_ENV="production"
