@@ -58,4 +58,11 @@ Mack said in an interview that the book did, and continue to, sell very well.
 
 ### The Final Verdict
 
+The _Destiny_ trilogy is big, bold, gutsy and well written. But best of all its a lot of fun. While I wish I had read a few more of the preceding books first, but I still enjoyed it. There is no question that the Star Trek Litverse will never be the same. 
+
 ### Links
+
+* [http://www.treklit.com/2019/11/Destiny1.html](http://www.treklit.com/2019/11/Destiny1.html "http://www.treklit.com/2019/11/Destiny1.html")
+* [https://blog.trekcore.com/2020/01/prelude-to-star-trek-picard-retro-review-destiny/](https://blog.trekcore.com/2020/01/prelude-to-star-trek-picard-retro-review-destiny/ "https://blog.trekcore.com/2020/01/prelude-to-star-trek-picard-retro-review-destiny/")
+* [https://trekmovie.com/2008/11/20/library-computer-review-star-trek-destiny-book-3-lost-souls/](https://trekmovie.com/2008/11/20/library-computer-review-star-trek-destiny-book-3-lost-souls/ "https://trekmovie.com/2008/11/20/library-computer-review-star-trek-destiny-book-3-lost-souls/")
+* [http://www.thediscriminatingfangirl.com/2011/01/29/review-star-trek-destiny-trilogy/](http://www.thediscriminatingfangirl.com/2011/01/29/review-star-trek-destiny-trilogy/ "http://www.thediscriminatingfangirl.com/2011/01/29/review-star-trek-destiny-trilogy/")
