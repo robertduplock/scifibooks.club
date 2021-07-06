@@ -30,6 +30,14 @@ Since I read these books a little while ago, I've decided to review all three at
 
 ### Story
 
+A mysterious wreck is found by some of the _Deep Space 9_ crew, which turns out to be a long lost Federation ship. Fast forward 8 years and the Borg have launched their devastating attack in the Alpha quadrant. Captain Dax eventually figures out the wrecked ship is linked to the Borg incursion.
+
+Rewind a century or two, and the early Starfleet vessel _Columbia_ is going about its merry way, until some Romulans show up and, long story short, they kept captured by the Caeliar. These guys love their privacy, so leaving is a no go.
+
+Eventually _Titan_ find the Caeliar too, and they're also captured. Except a long time as passed and now former _Columbia_ captain Erika Hernandez is now in possession of some seriously Jedi like powers. She helps the Titan crew escape. Meanwhile, Federation President Nan Bacco gets an intergalactic Borg fighting band together, and they march off to fight the Borg.
+
+Finally, the power Erika Hernandez poses as the Borg queen, in an attempt to liberate, rather than destroy the drones. We also find out, far into the past, the very first Borg is born... a bitter, angry, sick and confused Caeliar assimilates it's first victim.
+
 ### Opinion
 
 ### Reception
