@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/en/reviews
+  label: Reviews
+  create: all
+  match: "**/*"
+  templates:
+  - review
+- type: directory
   path: content/en
   label: En
   create: all
