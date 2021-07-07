@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+collections:
+  - name: "review"
+    label: "Review"
+    folder: "content/en/reviews"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Inline image", name: "inline_image", widget: "string"}
+      - {label: "Phase", name: "phase", widget: "string"}
+      - {label: "Show reading time", name: "show_reading_time", widget: "boolean", default: true}
+      - {label: "Rating", name: "rating", widget: "number"}
+      - {label: "Weight", name: "weight", widget: "number"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["Star Trek"]}
