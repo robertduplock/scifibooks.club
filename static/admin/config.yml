@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+  netlify_url: affectionate-carson-2b7b42.netlify.app
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
