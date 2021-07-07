@@ -1,5 +1,5 @@
 title = "Sci-fi Books Club"
-baseURL = "https://scifibooks.club"
+baseURL = "http://scifibooks.club"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
@@ -21,7 +21,7 @@ disqusShortname = ""
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
-  filename = "sitemap.xml"
+  filename = "all/sitemap.xml"
 
 [params]
   favicon = "/favicon.ico"
