@@ -3,7 +3,7 @@ name: startrekbook.club github pages
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - master
 
 jobs:
   deploy:
@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true 
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -21,7 +21,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: HUGO_ENV="production" hugo
+        run: HUGO_ENV="production" hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

@@ -64,17 +64,11 @@ disqusShortname = ""
     name = "Contact"
     URL = '/contact'
     weight = 5
-
   [[menu.top]]
     name = "All books"
     URL = '/reviews'
     weight = 1
     parent = "reviews"
-  # [[menu.top]]
-  #   name = "Star Trek (all)"
-  #   URL = '/tags/star-trek'
-  #   weight = 3
-  #   parent = "reviews"
   [[menu.top]]
     name = "Star Trek (relaunch)"
     URL = '/tags/relaunch'
