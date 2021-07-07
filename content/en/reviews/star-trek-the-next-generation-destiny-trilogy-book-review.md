@@ -52,7 +52,7 @@ But Mack holds the huge, twisty, timey-wimey story together will impressive skil
 
 ### Reception
 
-The Destiny trilogy received positive reviews online. All three books hold an "excellent" rating on TrekBBS. TrekLit described Gods Of Night as being, "\[...\] an incredibly strong start to the _Destiny_ trilogy." While Trek Core said it was, "\[...\] an excellent trilogy." Trek Movie described the trilogy as achieving, "a startling transformation of the Star Trek universe." While The Discriminating Fangirl described the trilogy as, "A masterpiece."
+The Destiny trilogy received positive reviews online. All three books hold an "excellent" rating on TrekBBS. TrekLit described Gods Of Night as being, "\[...\] an incredibly strong start to the _Destiny_ trilogy." While Trek Core said it was, "\[...\] an excellent trilogy." Trek Movie described the trilogy as achieving, "a startling transformation of the Star Trek universe." While The Discriminating Fangirl described the trilogy as, "A masterpiece." Needless to say the general reception was positive.
 
 Mack said in an interview that the book did, and continues to, sell very well.
 
