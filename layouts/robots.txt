@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://scifibooks.club/all/sitemap.xml
