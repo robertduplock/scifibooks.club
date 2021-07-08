@@ -7,11 +7,15 @@ fields:
   label: date
   default: now
 - type: text
-  name: title
+  name: Title
   label: title
+  config:
+    required: true
+  default: BOOK_NAME book review
 - type: text
-  name: description
+  name: Description
   label: description
+  default: Book review of BOOK_NAME by AUTHOR
 - name: inline_image
   type: text
   config:
