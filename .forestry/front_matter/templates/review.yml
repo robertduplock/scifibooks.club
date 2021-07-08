@@ -27,7 +27,7 @@ fields:
   name: phase
   label: phase
   config:
-    default: "Phase Two: Destiny and Aftermath"
+    default: 'Phase Two: Destiny and Aftermath'
 - name: inline_image
   type: text
   config:
