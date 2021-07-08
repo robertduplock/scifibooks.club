@@ -5,32 +5,35 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: description
-  label: description
-- type: number
-  name: rating
-  label: rating
-- type: boolean
-  name: show_reading_time
-  label: show_reading_time
-- type: list
-  name: tags
-  label: tags
+  default: now
 - type: text
   name: title
   label: title
-- type: number
-  name: weight
-  label: weight
 - type: text
-  name: phase
-  label: phase
+  name: description
+  label: description
 - name: inline_image
   type: text
   config:
     required: false
   label: Inline image
+- type: text
+  name: phase
+  label: phase
+  default: 'Phase Two: Destiny and Aftermath'
+- type: list
+  name: tags
+  label: tags
+- type: number
+  name: rating
+  label: rating
+- type: number
+  name: weight
+  label: weight
+- type: boolean
+  name: show_reading_time
+  label: show_reading_time
+  default: true
 pages:
 - content/en/reviews/star-trek-the-next-generation-destiny-trilogy-book-review.md
 - content/en/reviews/star-trek-the-next-generation-destiny-trilogy-book-review.md
