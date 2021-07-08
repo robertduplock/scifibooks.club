@@ -44,6 +44,10 @@ A lot of people say that the _Destiny_ trilogy is a great jumping-on point for n
 
 Don't get me wrong, _Destiny_ is some of the best Trek out there, at least in book form. But man it's complicated. While it's sold as a crossover series, when I first read it I thought it would be a crossover in the style of Star Trek: Generations; something akin to "_Kirk and Picard team up to fight the bad guys"_. But Destiny is a _litverse_ crossover. That means a lot of new characters. A lot of details outlined in the preceding books.
 
+{{< pullout >}}
+Mack holds the huge, twisty, timey-wimey story together will impressive skill
+{{< /pullout >}}
+
 That aside, _Destiny_ is just about everything it promised to be. The trilogy does not pull any punches. It was a gutsy move, exploring both the origin of the Borg and, in the end, defeating them for good. That's right, we know how the Borg came about and we see the Borg threat neutralised once and for all.
 
 Like a lot of people, I found the _Enterprise_ era story, featuring Hernandez, Inyx, and the MACOs, the most interesting. The story constantly shifts viewpoints, and some things that seem unrelated eventually come together. There were a few points where I found myself a little lost, or a bit impatient to get back to a more critical part of the story.
