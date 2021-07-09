@@ -21,7 +21,7 @@ disqusShortname = ""
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
-  filename = "all/sitemap.xml"
+  filename = "sitemap.xml"
 
 [params]
   favicon = "/favicon.ico"
