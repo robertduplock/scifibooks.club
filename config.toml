@@ -1,5 +1,5 @@
 title = "Sci-fi Books Club"
-baseURL = "https://scifibooks.club"
+baseURL = "https://www.scifibooks.club/"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
