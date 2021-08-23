@@ -29,4 +29,12 @@ Some people, in online reviews, complained that the main story thread was preach
 
 Leisner has a good grasp of character. It was nice spending some time exploring Crusher's backstory; specifically her time after the death of her husband but before joining Enterprise as the chief medical officer. I've always felt Crusher was an under-utilised character, so it's nice to see her front and centre in the story.
 
- 
+We also say goodbye to Kadohata in this book. She was always a bit of a blah character to me, and I don't think anyone was too upset that she was written out of the series. At this point, most of the original characters introduced early in the relaunch are now replaced with better characters such as Chen.
+
+The book ends with Picard being offered a promotion to Admiral. He declines, quoting what Kirk said to him in Generations. To paraphrase; _Don't let them promote you. Stay a captain._
+
+I can't say I loved the plot point in which Picard, yet again, disobeys Starfleet command and takes matters into his own hands. I think that's has happened in nearly every recent TNG book. I really don't think that sort of behaviour is consistent with such a died-in-the-wool Starfleet guy. Yes, Picard does learn to loosen up during the course of the show. But I don't remember him resorting to so much insubordination just to satisfy his own whims. 
+
+There were also a few shakily written scenes. On two separate occasions, a character is described as "staring daggers" at someone. Ugh. If I were a Simon & Schuster / Pocket Books editor I would not let such lazy cliches sneak into a manuscript.  
+
+All in all, Losing The Peace was a welcome change of pace. It was nice to read a story where a planet or civilisation was not about to be blown up by the Borg. Instead, Leisner brings things down to a smaller, more human level. It wasn't a perfect book, and it might be a bit slow for some, but I found it a pleasant read and I hope to see more from Leisner in the future.
