@@ -26,3 +26,7 @@ These scenes are nice and help lay the new foundations. The new normal. This is 
 But the main focus of the book is a refugee crisis on Crusher— a heavily pregnant Crusher— and the role she plays helping with the refugee crisis on the water planet Pacifica. Yes, that's right folks. Refugees are not treated as they should. Queue the complaints: It's preachy. It's too SJW. It's too woke. Better go make an hour-long video on YouTube ranting about it...
 
 Some people, in online reviews, complained that the main story thread was preachy. Trek has always been a franchise that held its moral and ethical head high in the air. Voyager is thrust into a seven-year journey through the delta quadrant all because Janeway chose to put the lives of an alien race ahead of herself and her crew. Picard refuses to unleash a deadly pathogen on the Borg because he didn't believe it morally correct to wipe out a race using chemical warfare. So if you have a problem with this book, maybe Star Wars is more the sci-fi franchise for you.
+
+Leisner has a good grasp of character. It was nice spending some time exploring Crusher's backstory; specifically her time after the death of her husband but before joining Enterprise as the chief medical officer. I've always felt Crusher was an under-utilised character, so it's nice to see her front and centre in the story.
+
+ 
