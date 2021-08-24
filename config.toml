@@ -57,13 +57,22 @@ disqusShortname = ""
     URL = '/reviews'
     weight = 1
   [[menu.top]]
+    identifier = "about"
     name = "About"
     URL = '/about'
     weight = 3
   [[menu.top]]
+    identifier = 'blog'
+    name = "Blog"
+    URL = '/blog'
+    weight = 3
+  [[menu.top]]
+    identifier = 'contact'
     name = "Contact"
     URL = '/contact'
     weight = 5
+
+  # Reviews sub menu  
   [[menu.top]]
     name = "All books"
     URL = '/reviews'
