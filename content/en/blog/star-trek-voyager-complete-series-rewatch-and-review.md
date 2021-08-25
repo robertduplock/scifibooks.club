@@ -1,6 +1,5 @@
 +++
 date = 2021-08-25T04:13:18Z
-draft = true
 title = "Star Trek: Voyager complete series rewatch and review"
 
 +++
@@ -36,7 +35,7 @@ _Voyager_ started off by offering it's audience an exciting set of promises. Two
 
 #### Progress
 
-Sanderson states that the middle act of a story should show the characters progressing towards their goal, as they overcome various challenges along the way. The key is progress. Obviously, _Voyager_ was churning out 25 episodes per season, so not every episode was going to advance their journey back to Earth in a significant way. But _Voyager_ has virtually no sense of real, meaningful progress. Yes, occasionally an episode will end with Janeway sipping a cup of black coffee, giving her Captain's Log and saying, "But at least we managed get cut a few years of our journey..." But none of these minor wins result in them getting anywhere near Earth by season 7. Never, at any point, does the audience feel a genuine sense of progress. It's monster-of-the-week, every week.
+Sanderson states that the middle act of a story should show the characters progressing towards their goal, as they overcome various challenges along the way. The key is progress. Obviously, _Voyager_ was churning out 25 episodes per season, so not every episode was going to advance their journey back to Earth in a significant way. But _Voyager_ has virtually no sense of real, meaningful progress. Yes, occasionally an episode will end with Janeway sipping a cup of black coffee, giving her Captain's Log and saying, "But at least we managed get cut a few years of our journey..." But none of these minor wins result in them getting anywhere near Earth by season 7. Never, at any point, does the audience feel a genuine sense of progress. It's monster-of-the-week, every week. Despite the fact that both it's predecessor, _Deep Space 9_, and it's successor, _Enterprise_, both featured heavily serialised storylines in their later seasons, _Voyager_ thoroughly eschewed the idea of serialisation.
 
 #### Payoff
 
@@ -63,3 +62,5 @@ However, it's hard to deny the show does get better with season 4. It's as if th
 Once I accepted that _Voyager_ was an imperfect, wildly inconsistent, occasionally derivative, monster-of-the-week show — I found myself having a great time watching it. In an age of complicated, violent, serialised tv shows, it was nice to watch family friendly, self contained stories. I could watch an episode here or there without feeling an urge to go crazy and binge. I could watch it while I was cooking. I could watch an episode while I ate lunch, my dog Charlie snoozing on the couch beside me. 
 
 _Voyager_ has a lot of strong points that are sometimes overlooked. The cast is exceptional, and every actor brings their A-game to the set, and does their absolute best even when the material isn't perfect. Kate Mulgrew shines as Captain Janeway. The show took surprising risks, often launching an episode on an alien world with a set of unfamilar faces — as slowly the connection back to _Voyager_ was revealed. Tuvok delivers some hilarious lines. Harry and Tom are a crack up with their Captain Proton holodeck adventures. At it's best, _Voyager_ was uniquely charming and so much fun to watch. At it's worst, it was often still goofy and fun. 
+
+If you want to love _Voyager_, you simply have to accept it for what it is. Is it as good as TNG? For me, no. But that's not really the point. Because it is, ultimately, it's own show. It's no wonder the show has had a real resurgence of late. Thanks to Netflix and Paramount+, fans are either rediscovering the show or watching it for the first time. It was the last of it's kind. TNG, DS9 and VOY are all birds of a feather. But for me, _Voyager_ will always remind me of that 13 year old boy, setting up his VCR to record the show; the boy who couldn't wait to find out what this weeks adventure would be.
