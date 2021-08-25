@@ -9,3 +9,5 @@ fields:
   name: date
   label: date
   default: now
+pages:
+- content/en/blog/star-trek-voyager-complete-series-rewatch-and-review.md
