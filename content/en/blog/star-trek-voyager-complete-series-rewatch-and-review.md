@@ -42,6 +42,8 @@ Sanderson states that the middle act of a story should show the characters progr
 
 Despite some criticisms, _Voyager_ had a decent double-episide finale. Endgame had it all: a promise to get back home, a price to pay, a chance to deal some serious damage to the Borg... and of course, that old Trek favourite, time travel. But with a set of broken promises and no sense of progress, the finale feels rushed and tacked on. Seven years, hundreds of crazy adventures, and then: "Whoah hey look a wormhole back home. Too bad it's filled with Borg..." Watching the final season, I remember watching the second last episode of _Voyager_ ever, and thinking to myself: "They are still in the f****** delta quadrant". 
 
-### The Re-watch 1 & 2
+### The Re-watch 1&2
 
 After watching _The Next Generation_, I struggled with _Voyager_. Half way into season 1, I gave up. But recently I gave the show another go, picking up where I left off. Slowly, slowly... the show wormed it's way into my heart. In order to enjoy the show, one must simply accept that it is 100% a monster-of-the-week show. It is _not_ a show about a crew working together to find a way home. The show is about a diverse group of folks encountering a bunch of crazy delta quadrant aliens and having a bunch of wacky adentures. One must disregard to promises, forgive the lack of progress, and enjoy it for what it is.
+
+There is some nice, continuous aspects to the show. Watching Naomi Wildman get born, and then grow up on the ship is oddly satisfying. Seven and The Doctor have decent character arcs, particuarly in the later seasons. 
