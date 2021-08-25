@@ -46,4 +46,8 @@ Despite some criticisms, _Voyager_ had a decent double-episide finale. Endgame h
 
 After watching _The Next Generation_, I struggled with _Voyager_. Half way into season 1, I gave up. But recently I gave the show another go, picking up where I left off. Slowly, slowly... the show wormed it's way into my heart. In order to enjoy the show, one must simply accept that it is 100% a monster-of-the-week show. It is _not_ a show about a crew working together to find a way home. The show is about a diverse group of folks encountering a bunch of crazy delta quadrant aliens and having a bunch of wacky adentures. One must disregard to promises, forgive the lack of progress, and enjoy it for what it is.
 
-There is some nice, continuous aspects to the show. Watching Naomi Wildman get born, and then grow up on the ship is oddly satisfying. Seven and The Doctor have decent character arcs, particuarly in the later seasons. 
+There is some nice, continuous aspects to the show. Watching Naomi Wildman get born, and then grow up on the ship is oddly satisfying. Seven and The Doctor have decent character arcs, particuarly in the later seasons. The Tom/B'elanna romance was a stroke of genius; we even see them get married and have a child. The show's subplots, if thats the right term, are actually more consistently serialised than TNG. It's the main plot that gets stuck in the weekly rut.
+
+#### A Tale Of Two Voyagers
+
+There is a marked different in _Voyager_ between it's first three seasons, and season four onwards. At season 4, the show suddenly feels more settled, and more consistent. It's funnier, even. A lot of what we think of as Voyager's main plot points start at season 4. The Tom/B'elanna romance is introduced. The Harry Kim/Tom Paris bromance is solidified. And of course Seven of Nine is brought in — which kicks off her friendship with The Doctor and her tumultuous relationship with Captain Janeway.  
