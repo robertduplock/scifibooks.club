@@ -8,6 +8,8 @@ Recently, I did a rewatch of _Star Trek: Voyager_. From _Caretaker_ to _Endgame_
 
 <!--more-->
 
+### The Journey Begins
+
 I have a bit of a mixed history with Voyager. I watched the show when it first aired. Here in Australia, it aired every Thursday, 11pm, on channel 9. I was just 12-13 years old, when I watched the premier double episode, _Caretaker_. Up until that point, I'd been a casual, newish fan of _The Original Series_, which I liked mainly for its fun, retro aesthetic and creative plotlines.
 
 ![](https://www.nerdinfinite.com/wp-content/uploads/2018/03/Star-Trek-Voyager-Season-3-Postere.jpg)
@@ -24,8 +26,22 @@ The show quickly settles into monster-of-the-week storytelling. Fans bemoaned th
 
 ![](https://treknews.net/wp-content/uploads/2020/05/star-trek-voyager-25th-anniversary-cast-reunion.jpg)
 
+### Beginning, Middle and End
+
 Novelist Brandon Sanderson, in his excellent lecture series on storytelling, breaks the three act structure of a story into three main areas: Promises, Progress and Payoff. Using this as a framework, it's easy to see why Voyager struggled to keep a strong audience. 
 
 #### Promises
 
-Voyager started off by offering it's audience an exciting set of promises. Two waring sides, Starfleet and Marqui, are thrust into the delta quadrant, and must work through their differences to find a way home. It sounds cool, right? Except, the show then _breaks_ this promise. As mentioned above, within just a few episodes one can't tell a Marqui from Starfleet. Characters like Tom Paris and B'elanna are promised to be edgy, intransigent characters. Instead, Tom becomes a cuddly teddybear and B'elanna, half Klingon, barely raised her voice even once.
+_Voyager_ started off by offering it's audience an exciting set of promises. Two waring sides, Starfleet and Marqui, are thrust into the delta quadrant, and must work through their differences to find a way home. It sounds cool, right? Except, the show then _breaks_ this promise. As mentioned above, within just a few episodes one can't tell a Marqui from Starfleet. Characters like Tom Paris and B'elanna are promised to be edgy, intransigent characters. Instead, Tom becomes a cuddly teddybear and B'elanna, half Klingon, barely raised her voice even once.
+
+#### Progress
+
+Sanderson states that the middle act of a story should show the characters progressing towards their goal, as they overcome various challenges along the way. The key is progress. Obviously, _Voyager_ was churning out 25 episodes per season, so not every episode was going to advance their journey back to Earth in a significant way. But _Voyager_ has virtually no sense of real, meaningful progress. Yes, occasionally an episode will end with Janeway sipping a cup of black coffee, giving her Captain's Log and saying, "But at least we managed get cut a few years of our journey..." But none of these minor wins result in them getting anywhere near Earth by season 7. Never, at any point, does the audience feel a genuine sense of progress. It's monster-of-the-week, every week.
+
+#### Payoff
+
+Despite some criticisms, _Voyager_ had a decent double-episide finale. Endgame had it all: a promise to get back home, a price to pay, a chance to deal some serious damage to the Borg... and of course, that old Trek favourite, time travel. But with a set of broken promises and no sense of progress, the finale feels rushed and tacked on. Seven years, hundreds of crazy adventures, and then: "Whoah hey look a wormhole back home. Too bad it's filled with Borg..." Watching the final season, I remember watching the second last episode of _Voyager_ ever, and thinking to myself: "They are still in the f****** delta quadrant". 
+
+### The Re-watch 1 & 2
+
+After watching _The Next Generation_, I struggled with _Voyager_. Half way into season 1, I gave up. But recently I gave the show another go, picking up where I left off. Slowly, slowly... the show wormed it's way into my heart. In order to enjoy the show, one must simply accept that it is 100% a monster-of-the-week show. It is _not_ a show about a crew working together to find a way home. The show is about a diverse group of folks encountering a bunch of crazy delta quadrant aliens and having a bunch of wacky adentures. One must disregard to promises, forgive the lack of progress, and enjoy it for what it is.
