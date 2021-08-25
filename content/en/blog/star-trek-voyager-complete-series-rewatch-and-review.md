@@ -54,4 +54,10 @@ There is some nice, continuous aspects to the show. Watching Naomi Wildman get b
 
 There is a marked different in _Voyager_ between it's first three seasons, and season four onwards. At season 4, the show suddenly feels more settled, and more consistent. It's funnier, even. A lot of what we think of as Voyager's main plot points start at season 4. The Tom/B'elanna romance is introduced. The Harry Kim/Tom Paris bromance is solidified. And of course Seven of Nine is brought in — which kicks off her friendship with The Doctor and her tumultuous relationship with Captain Janeway. 
 
-But the first three seasons, for me, offer a kind of goofy, sentimental satisfaction.  
+But the first three seasons, for me, offer a kind of goofy, sentimental satisfaction. Neelix and Kes feature quite heavily in the earlier episodes — and although neither character was a fan favourite, I always found them to be entertaining to watch. Indeed, I was sad when Kes was given the boot to make way for Seven. There were plenty of good episodes: Future's End, Deadlock and Death Wish come to mind as real standouts.
+
+However, it's hard to deny the show does get better with season 4. It's as if the show's writers finally settled on where the characters needed to be. The show does lean a bit too much on the Borg, sure, and sometimes it feels like "The Seven of Nine Show: featuring the Starship Voyager". And if you hope, by the later seasons, you will start to see some real progress in their journey back to earth... well...
+
+### How I Learned to Stop Worrying and Love the Bomb
+
+Once I accepted that _Voyager_ was an imperfect, wildly inconsistent, occasionally derivative, monster-of-the-week show — I found myself having a great time watching it. In an age of complicated, violent, serialised tv shows, it was nice to watch family friendly, self contained stories. I could watch an episode here or there without feeling an urge to go crazy and binge. I could watch it while I was cooking. I could watch an episode while I ate lunch, my dog Charlie snoozing on the couch beside me. 
