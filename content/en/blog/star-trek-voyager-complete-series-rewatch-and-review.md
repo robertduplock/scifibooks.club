@@ -48,6 +48,10 @@ After watching _The Next Generation_, I struggled with _Voyager_. Half way into 
 
 There is some nice, continuous aspects to the show. Watching Naomi Wildman get born, and then grow up on the ship is oddly satisfying. Seven and The Doctor have decent character arcs, particuarly in the later seasons. The Tom/B'elanna romance was a stroke of genius; we even see them get married and have a child. The show's subplots, if thats the right term, are actually more consistently serialised than TNG. It's the main plot that gets stuck in the weekly rut.
 
+![](https://geekspin.co/wp-content/uploads/2020/05/Star-Trek-Voyager-758x397.jpg)
+
 #### A Tale Of Two Voyagers
 
-There is a marked different in _Voyager_ between it's first three seasons, and season four onwards. At season 4, the show suddenly feels more settled, and more consistent. It's funnier, even. A lot of what we think of as Voyager's main plot points start at season 4. The Tom/B'elanna romance is introduced. The Harry Kim/Tom Paris bromance is solidified. And of course Seven of Nine is brought in — which kicks off her friendship with The Doctor and her tumultuous relationship with Captain Janeway.  
+There is a marked different in _Voyager_ between it's first three seasons, and season four onwards. At season 4, the show suddenly feels more settled, and more consistent. It's funnier, even. A lot of what we think of as Voyager's main plot points start at season 4. The Tom/B'elanna romance is introduced. The Harry Kim/Tom Paris bromance is solidified. And of course Seven of Nine is brought in — which kicks off her friendship with The Doctor and her tumultuous relationship with Captain Janeway. 
+
+But the first three seasons, for me, offer a kind of goofy, sentimental satisfaction.  
