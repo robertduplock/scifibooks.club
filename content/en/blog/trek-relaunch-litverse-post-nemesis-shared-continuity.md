@@ -1,5 +1,5 @@
 ---
-title: Sar Trek Books Explainer
+title: Star Trek Books Explainer
 date: 2021-08-24T15:52:31.000+10:00
 
 ---
