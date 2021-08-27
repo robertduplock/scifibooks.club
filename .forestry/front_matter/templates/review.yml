@@ -41,4 +41,5 @@ fields:
   label: Show reading time
   default: true
 pages:
+- content/en/reviews/footfall-book-review.md
 - content/en/reviews/star-trek-the-next-generation-losing-the-peace-book-review.md
