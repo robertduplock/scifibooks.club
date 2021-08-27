@@ -21,4 +21,8 @@ Speaking of insanse; there is an insansely huge number of characters in the book
 
 A common criticism of Footfall is that we are introduced to many characters at the beginning of the novel that, by the end, have no real concrete impact on the story. Certain characters get some heavy coverage early on, and then fade out three-quarters in. 
 
-Some of the characters, particularly the female characters, feel woefully out of touch with today's ideals. The book feels very 80s in the way it handles rel
+Some of the characters, particularly the female characters, feel woefully out of touch with today's ideals. The book feels very 80s in the way it handles relationships. It seems everyone is sleeping with everyone else; again, some of these details have no impact on the overall story.
+
+The main characters eventually take control of the narrative. There is Hairy Red, a down-on-his-luck biker and acoustic guiter enthusiast. David Coffey, the American president who doesn't always make a convincing commander in chief. ...
+
+_Footfall_ has a long first act. In fact, the first act is probably the size of a small novel. A small ship is sent out 
