@@ -8,6 +8,7 @@ rating = 4.5
 show_reading_time = true
 tags = ["Invasion", "Aliens"]
 title = "Footfall book review"
+book_title = "Footfall"
 weight = ""
 
 +++

@@ -8,6 +8,7 @@ show_reading_time = true
 tags = ["Star Trek", "Relaunch", "The Next Generation"]
 title = "Star Trek: The Next Generation: Destiny Trilogy book review"
 weight = 11
+book_title = "Star Trek: Destiny"
 
 +++
 The epic Star Trek: Destiny trilogy is finally upon us. This three-book, litverse crossover will shape the enter Star Trek shared continuity for years to come. David Mack has promised a truly epic, game-changer event with these books. This is a clash of civilizations: The Borg _v_ The Federation. Who will win?

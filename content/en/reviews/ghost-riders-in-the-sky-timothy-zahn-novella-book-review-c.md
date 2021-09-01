@@ -9,6 +9,7 @@ inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/b
 show_reading_time: true
 rating: 4
 phase: ""
+book_title: "Ghost Riders In The Sky"
 ---
 
 In 2020, veteran sci-fi author Timothy Zahn dipped his toe into self-publishing for the first time, releasing the original novella *Ghost Riders in The Sky*. Zahn is the author of the *Quadrail* books, the three *Cobra* trilogies and more recently the *Sybils War* trilogy. However, he is perhaps best known for his Star Wars tie-in novel series *Heir To The Empire*.

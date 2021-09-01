@@ -12,6 +12,7 @@ inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/bo
 show_reading_time: true
 rating: 3.5
 phase: 'Phase One: Lead up to Destiny'
+book_title: 'Star Trek Articles Of The Federation'
 
 ---
 Join your favourite Federation political characters Jed Bartlet, CJ Cregg, Josh Lymen and grumpy old Toby Ziegler as they navigate the pitfalls and challenges of running a massive multi-planetary political juggernaut. Oh wait… is this The West Wing or Star Trek?

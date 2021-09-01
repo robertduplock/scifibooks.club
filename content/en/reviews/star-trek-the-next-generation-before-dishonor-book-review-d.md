@@ -8,6 +8,7 @@ tags = ["The Next Generation", "Relaunch", "Star Trek"]
 title = "Star Trek: The Next Generation: Before Dishonor book review"
 weight = 8
 phase = 'Phase One: Lead up to Destiny'
+book_title = 'Star Trek: The Next Generation: Before Dishonor'
 
 +++
 The Borg are back... again. And they're hungry. They're eating starships. They're eating planets. They're back for revenge. And now only Seven of Nine can stop them, with a little help from her friends.
