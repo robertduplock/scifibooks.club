@@ -52,9 +52,17 @@
           "@type": "Review",
           "name": "{{ .Title }}",
           "reviewBody": "{{ .Summary | plainify }}",
+          "author": {
+            "@type": "Organization",
+            "name": "{{ .Title }}"
+          },
           "itemReviewed": {
             "@type": "Book",
-            "name": "{{ $.Param "book_title" }}"
+            "name": "{{ $.Param "book_title" }}",
+            "author": {
+              "@type": "Person",
+              "name": "{{ $.Param "book_author" }}"
+            }
           },
           "reviewRating": {
             "@type": "Rating",
