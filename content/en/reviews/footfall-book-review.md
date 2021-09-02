@@ -10,7 +10,7 @@ rating = 4.5
 show_reading_time = true
 tags = ["Invasion", "Aliens"]
 title = "Footfall book review"
-weight = nil
+weight = 0
 
 +++
 Written in 1985, _Footfall_ is an epic story of alien invasion. Niven & Pournelle write the kind of books that would make an effective doorstop for even the heaviest of doors in the windiest of cities. _Footfall,_ featuring dozens of characters and multiple, interweaving storylines, feels a lot like an epic movie. In fact, it's hard not to compare it to the Roland Emerich school of storytelling; Indendepence Day in particular feels heavily influenced by _Footfall_.
