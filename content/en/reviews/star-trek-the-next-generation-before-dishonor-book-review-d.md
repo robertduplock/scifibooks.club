@@ -1,14 +1,15 @@
 +++
+book_author = "Peter David"
+book_title = "Star Trek: The Next Generation: Before Dishonor"
 date = 2021-04-30T14:00:00Z
 description = "Book review of Star Trek: The Next Generation: Before Dishonor by Peter David"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348684151l/558875.jpg"
+phase = "Phase One: Lead up to Destiny"
 rating = 2
 show_reading_time = true
 tags = ["The Next Generation", "Relaunch", "Star Trek"]
 title = "Star Trek: The Next Generation: Before Dishonor book review"
 weight = 8
-phase = 'Phase One: Lead up to Destiny'
-book_title = 'Star Trek: The Next Generation: Before Dishonor'
 
 +++
 The Borg are back... again. And they're hungry. They're eating starships. They're eating planets. They're back for revenge. And now only Seven of Nine can stop them, with a little help from her friends.
