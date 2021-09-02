@@ -5,7 +5,7 @@ description: 'Book review of Star Trek: The Next Generation: Death In Winter by 
 tags:
 - The Next Generation
 - Relaunch
-- 'Star Trek'
+- Star Trek
 title: 'Star Trek: The Next Generation: Death In Winter book review'
 weight: 1
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403347818l/552163.jpg
@@ -13,6 +13,7 @@ show_reading_time: true
 rating: 3
 phase: 'Phase One: Lead up to Destiny'
 book_title: 'Star Trek: The Next Generation: Death In Winter'
+book_author: Michael Jan Friedman
 
 ---
 DNA thieves, Beverly Crusher's maiden name and a few guest appearances from the USS Stargazer. Can author Michael Jan Friedman maneuver the Star Trek TNG books into this new era?
