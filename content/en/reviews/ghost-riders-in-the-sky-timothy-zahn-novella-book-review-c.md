@@ -1,17 +1,19 @@
 ---
-date: 2021-06-11T11:05:21+10:00
-description: "Book review of Ghost Riders In The Sky by Timothy Zahn."
-tags: ["Timothy Zahn", "Space Opera"]
-title: "Ghost Riders In The Sky by Timothy Zahn review"
+date: 2021-06-11T11:05:21.000+10:00
+description: Book review of Ghost Riders In The Sky by Timothy Zahn.
+tags:
+- Timothy Zahn
+- Space Opera
+title: Ghost Riders In The Sky by Timothy Zahn review
 weight: 0
-draft: false
-inline_image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586532404l/53105121._SY475_.jpg"
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586532404l/53105121._SY475_.jpg
 show_reading_time: true
 rating: 4
-phase: ""
-book_title: "Ghost Riders In The Sky"
----
+phase: ''
+book_title: Ghost Riders In The Sky
+book_author: Timothy Zahn
 
+---
 In 2020, veteran sci-fi author Timothy Zahn dipped his toe into self-publishing for the first time, releasing the original novella *Ghost Riders in The Sky*. Zahn is the author of the *Quadrail* books, the three *Cobra* trilogies and more recently the *Sybils War* trilogy. However, he is perhaps best known for his Star Wars tie-in novel series *Heir To The Empire*.
 
 **Spoilers ahead!**
