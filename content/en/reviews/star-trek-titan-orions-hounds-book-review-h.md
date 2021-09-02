@@ -4,13 +4,15 @@ description: Book review of Star Trek Titan Orions Hounds by Christopher L. Benn
 tags:
 - Titan
 - Relaunch
-- 'Star Trek'
+- Star Trek
 title: 'Star Trek: Titan: Orions Hounds book review'
 weight: 5
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924509l/100724.jpg
 show_reading_time: true
 rating: 2.5
 phase: 'Phase One: Lead up to Destiny'
+book_title: Star Trek Titan Orions Hounds
+book_author: Christopher L. Bennett
 
 ---
 Now that the Dominion War is over, Starfleet can get back to good old exploration. Will Riker and his team of diverse Starfleet personnel must now face a band of space whalers, who aim their long harpoons at the poor old Space Jellies from TNG season 1 episode 1.
