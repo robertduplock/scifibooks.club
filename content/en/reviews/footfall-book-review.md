@@ -1,4 +1,6 @@
 +++
+book_author = "Larry Niven and Jerry Pournelle"
+book_title = "Footfall"
 date = 2021-08-27T02:42:54Z
 description = "Book review of Footfall by Larry Niven and Jerry Pournelle"
 draft = true
@@ -8,8 +10,7 @@ rating = 4.5
 show_reading_time = true
 tags = ["Invasion", "Aliens"]
 title = "Footfall book review"
-book_title = "Footfall"
-weight = ""
+weight = nil
 
 +++
 Written in 1985, _Footfall_ is an epic story of alien invasion. Niven & Pournelle write the kind of books that would make an effective doorstop for even the heaviest of doors in the windiest of cities. _Footfall,_ featuring dozens of characters and multiple, interweaving storylines, feels a lot like an epic movie. In fact, it's hard not to compare it to the Roland Emerich school of storytelling; Indendepence Day in particular feels heavily influenced by _Footfall_.
@@ -26,4 +27,4 @@ Some of the characters, particularly the female characters, feel woefully out of
 
 The main characters eventually take control of the narrative. There is Hairy Red, a down-on-his-luck biker and acoustic guiter enthusiast. David Coffey, the American president who doesn't always make a convincing commander in chief. ...
 
-_Footfall_ has a long first act. In fact, the first act is probably the size of a small novel. A small ship is sent out 
+_Footfall_ has a long first act. In fact, the first act is probably the size of a small novel. A small ship is sent out
