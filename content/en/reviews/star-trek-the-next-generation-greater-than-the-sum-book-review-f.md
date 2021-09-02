@@ -1,4 +1,6 @@
 +++
+book_author = "Christopher L. Bennett"
+book_title = "Star Trek: The Next Generation: Greater Than The Sum"
 date = 2021-05-22T14:00:00Z
 description = "Book review of Star Trek: The Next Generation: Greater Than The Sum by Christopher L. Bennett"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347516077l/2194489.jpg"
@@ -10,7 +12,6 @@ title = "Star Trek: The Next Generation: Greater Than The Sum book review"
 weight = 10
 
 +++
-
 Star Trek fans criticised previous relaunch books for their inconsistencies in tone, character, and direction. Can Christopher L. Bennett tie together the previous books, set up the forthcoming _Destiny_ trilogy, and save the litverse from ruin?
 
 **Spoilers ahead!**
