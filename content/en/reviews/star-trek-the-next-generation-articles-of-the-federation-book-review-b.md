@@ -4,15 +4,16 @@ description: Book review of Star Trek Articles Of The Federation by Keith R.A. D
   This is a post Nemesis relaunch novel.
 tags:
 - 'Star Trek: Special or crossover'
-- 'Relaunch'
-- 'Star Trek'
+- Relaunch
+- Star Trek
 title: 'Star Trek: Articles Of The Federation'
 weight: 4
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716925l/217649.jpg
 show_reading_time: true
 rating: 3.5
 phase: 'Phase One: Lead up to Destiny'
-book_title: 'Star Trek Articles Of The Federation'
+book_title: Star Trek Articles Of The Federation
+book_author: Keith R.A. DeCandido
 
 ---
 Join your favourite Federation political characters Jed Bartlet, CJ Cregg, Josh Lymen and grumpy old Toby Ziegler as they navigate the pitfalls and challenges of running a massive multi-planetary political juggernaut. Oh wait… is this The West Wing or Star Trek?
