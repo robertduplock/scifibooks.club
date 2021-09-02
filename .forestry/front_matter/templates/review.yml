@@ -40,6 +40,16 @@ fields:
   name: show_reading_time
   label: Show reading time
   default: true
+- name: book_title
+  type: text
+  config:
+    required: false
+  label: Book title
+- name: book_author
+  type: text
+  config:
+    required: false
+  label: Book author
 pages:
 - content/en/reviews/footfall-book-review.md
 - content/en/reviews/star-trek-the-next-generation-losing-the-peace-book-review.md
