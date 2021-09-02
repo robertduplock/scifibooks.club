@@ -5,13 +5,15 @@ description: 'Book review of Star Trek: Titan: Taking Wing by Michael A. Martin 
 tags:
 - Titan
 - Relaunch
-- 'Star Trek'
+- Star Trek
 title: 'Star Trek: Titan: Taking Wing book review'
 weight: 2
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388357417l/64004.jpg
 show_reading_time: true
 rating: 3.5
 phase: 'Phase One: Lead up to Destiny'
+book_title: 'Star Trek: Titan: Taking Wing'
+book_author: Michael A. Martin and Andy Mangels
 
 ---
 Riker finally gets that 4th pip and has left The Enterprise to captain The Titan. Can this book of new diverse characters find its feet and deliver a compelling read?
