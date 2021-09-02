@@ -5,13 +5,15 @@ description: 'Book review of Star Trek Titan: The Red King by Michael A. Martin�
 tags:
 - Titan
 - Relaunch
-- 'Star Trek'
+- Star Trek
 title: 'Star Trek: Titan: The Red King book review'
 weight: 3
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328155058l/64003.jpg
 show_reading_time: true
 rating: 4
 phase: 'Phase One: Lead up to Destiny'
+book_title: 'Star Trek: Titan: The Red King'
+book_author: Michael A. Martin & Andy Mangels
 
 ---
 Star Trek Titan finally hits warp speed in this direct follow-up to book #1 _Taking Wing_. Launched into the far reaches of a satellite galaxy, can Riker steer his crew to safety?
