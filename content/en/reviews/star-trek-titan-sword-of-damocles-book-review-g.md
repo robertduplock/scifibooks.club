@@ -1,4 +1,6 @@
 +++
+book_author = "Geoffrey Thorne"
+book_title = "Star Trek: Titan: Sword of Damocles"
 date = 2021-05-08T14:00:00Z
 description = "Book review of Star Trek: Titan: Sword of Damocles by Geoffrey Thorne"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388556924l/227822.jpg"
