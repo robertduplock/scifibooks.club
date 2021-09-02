@@ -44,6 +44,8 @@
     <!-- End google tag / analytics -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	  {{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
   
     {{ if eq .Section "reviews" }}
       <script type="application/ld+json">
