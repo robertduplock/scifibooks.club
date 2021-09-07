@@ -44,6 +44,10 @@ The aliens themselves are fascinating, and the book focuses on them and their co
 
 My biggest issue with the alien characters was that it was difficult to keep track of which character was which. With so many different _fithp_ interacting on the ship, mostly without any distinct characteristics, it got a bit confusing. I think the book should have focused on one central alien character. This might have helped them feel more grounded.
 
+{{< pullout >}}
+A few minor quibbles aside, Footfall was just so much fun to read
+{{< /pullout >}}
+
 That being said, the alien that surrenders to the Earthlings and helps Coffey and his team of sci-fi writer advisors was a masterstroke and provided many funny scenes. Who wouldn't giggle at the idea of the American president climbing into a warm mudbath to get some information from a sympathetic alien baby elephant?
 
 A few minor quibbles aside, Footfall was just so much fun to read. It made me realise alien invasion stories such as these are surprisingly rare in book form. I cannot think of another similar example. At times it feels like a Michael Crichton or Stephen King book. However, I liked it more than both _Jurassic Park_ or _The Stand_, for example.
