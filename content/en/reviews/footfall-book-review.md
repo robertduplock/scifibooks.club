@@ -27,4 +27,12 @@ Some of the characters, particularly the female characters, feel woefully out of
 
 The main characters eventually take control of the narrative. There is Hairy Red, a down-on-his-luck biker and acoustic guiter enthusiast. David Coffey, the American president who doesn't always make a convincing commander in chief. Jenny Crichton, an army captain who stumble upon the discovery of tthe alien ship. Jack Clybourne, the president bodyguard and Jenny's love interest... hey, you know what? There really are too many character in this book to list even the main ones.
 
-_Footfall_ has a long first act. In fact, the first act is probably the size of a small novel. A small ship is sent out to meet the approaching aliens. Lots of stuff happens on Earth. The 
+_Footfall_ has a long first act. In fact, the first act is probably the size of a small novel. A small ship is sent out to meet the approaching aliens. Lots of stuff happens on Earth. Space nut Wes Dawson maneuvers his way onto the ship as Earth's resident American politician. 
+
+There were a glut of distaser and alien invasion movies in the 90s and 2000s (Independence Day, 2012, The Day After Tomorrow, and so on), all of which seem to draw influence from _Footfall_. The book switches perspectives often, using a large cast of characters to show the huge event from a number of different persepectives. 
+
+Reading the book, I mentally cast American president David Coffey as Bill Pullman. However, unlike President Thomas J. Whitmore, Coffey is less sure of himself, and certainly delivers no memorable speeches.
+
+![](https://www.rev.com/blog/wp-content/uploads/2019/07/Independence-Day-Movie-Speech-Transcript-e1562875057562.jpg)
+
+Jenny Crichton emerges as probably the only main female character in the book. She's head strong and devoted to her job. 
