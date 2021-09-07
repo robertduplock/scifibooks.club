@@ -3,7 +3,6 @@ book_author = "Larry Niven and Jerry Pournelle"
 book_title = "Footfall"
 date = 2021-08-27T02:42:54Z
 description = "Book review of Footfall by Larry Niven and Jerry Pournelle"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320440216l/116356.jpg"
 phase = ""
 rating = 4.5
@@ -35,4 +34,18 @@ Reading the book, I mentally cast American president David Coffey as Bill Pullma
 
 ![](https://www.rev.com/blog/wp-content/uploads/2019/07/Independence-Day-Movie-Speech-Transcript-e1562875057562.jpg)
 
-Jenny Crichton emerges as probably the only main female character in the book. She's head strong and devoted to her job. 
+Normally, I don't particularly like books that change perspectives regularly, prefering a narrative anchored to a single character. However, _Footfall_ showed me just how effective a large cast can be. Perhaps because each of the cast of characters is securely tied to the overall plot of imminent invasion, they each, in their own way, keep the main story chugging along.
+
+People will criticise the book for being a bit behind the times. Pournelle is well-known to have conservative political opinions, some of which seep into the book. It's not an optimistic Star Trek type story. Nor it is especially dark or grim. The tone works well because it strikes a good balance, even if it some of the interperonal apects feel a bit 80s.
+
+Speaking of 80s... probably my least favourite part of the book was the scenes involving the political machinations of the Soviet Union. Perhaps in a different time this would have been more appealing. But mostly it feels like a diversion from the main story. 
+
+The aliens themselves are fascinating, and the book focuses on them and their complex culture more than I expected. They are not the featurless black evil beasts from Alien or Independence Day. Instead, the _Fithp_ are a herd of sentient baby elephants armed with a technology they barely understand. 
+
+My biggest issue with the alien characters was that it was difficult to keep track of which character was which. With so many different _fithp_ interacting on the ship, mostly without any distinct characteristics, I think the book should have focused on using one alien character. This might have helped them feel more grounded.  
+
+That being said, the alien that surrenders to the Earthlings and helps Coffey and his team of sci-fi writer advisors was a masterstroke and provided many funny scenes. Who wouldn't giggle at the idea of the American president climbing into a warm mudbath to get some information from a sympathetic alien baby elephant?
+
+A few minor quibbles aside, Footfall was just so much fun to read. It made me realise alien invasion stories such as these are surprisingly rare in book form. In fact, I cannot think of another similar example. At times it feels like a Michael Crichton or Stephen King book. However, I liked it more than both _Jurassic Park_ or _The Stand_, for example.
+
+ Footfall has turned me into a huge Pournelle and Niven fan. I've already since read _The Mote In God's Eye_ and soon I will also read _Lucifer's Hammer_. It's truly epic, massive sci-fi. I only wish it was easy to find books this good more often.
