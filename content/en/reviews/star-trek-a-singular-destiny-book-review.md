@@ -24,7 +24,7 @@ The brief excerpts and communiques throughout the book showing different people 
 
 {{< pullout >}} Nearly all the characters are original, so there is no giddy thrill of seeing Picard or Janeway on the page.  {{< /pullout >}}
 
-Somehow, the prose of A Singular Destiny didn’t feel as tight as his other works. It would often tell the reader what had happened, and explain things, rather than showing the reader using real-time, concrete scenes. Take this excerpt, for example:
+Somehow, the prose of _A Singular Destiny_ didn’t feel as tight as his other works. It would often tell the reader what had happened, and explain things, rather than showing the reader using real-time, concrete scenes. Take this excerpt, for example:
 
 > “Altoss was waiting only semi-patiently. Sonek didn’t need any particular skills in reading body language to see that the Efrosian ensign was ready to jump out of her skin”
 
@@ -46,4 +46,4 @@ My impression of Keith R.A. DeCandido is that he is an outgoing guy who loves to
 
 Apart from being a prelude to _Typhon Pact,_ the book also acts as a pseudo-sequel to _Articles Of The Federation_ (also by DeCandido). It’s very much in the same vein, exploring the inner-workings of Federation politics. I think I probably liked this one more than _Articles Of The Federation,_ but less so than his excellent _Q&A._
 
-Overall, _A Singular Destiny_ is another solid read from DeCandido, and it has made me excited to get to the Typhon Pact series. Good on ya’ KRAD, keep up the good work.
+Overall, _A Singular Destiny_ is another solid read from DeCandido, and it has made me excited to get to the _Typhon Pact_ series. Good on ya’ KRAD, keep up the good work.
