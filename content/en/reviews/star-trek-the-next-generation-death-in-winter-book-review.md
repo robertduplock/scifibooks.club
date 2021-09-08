@@ -3,8 +3,8 @@ date: 2021-02-24
 description: 'Book review of Star Trek: The Next Generation: Death In Winter by Michael
   Jan Friedman'
 tags:
-- The Next Generation
 - Relaunch
+- The Next Generation
 - Star Trek
 title: 'Star Trek: The Next Generation: Death In Winter book review'
 weight: 1

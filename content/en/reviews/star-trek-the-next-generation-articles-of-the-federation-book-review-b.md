@@ -3,8 +3,8 @@ date: 2021-04-05
 description: Book review of Star Trek Articles Of The Federation by Keith R.A. DeCandido.
   This is a post Nemesis relaunch novel.
 tags:
-- 'Star Trek: Special or crossover'
 - Relaunch
+- 'Star Trek: Special or crossover'
 - Star Trek
 title: 'Star Trek: Articles Of The Federation'
 weight: 4

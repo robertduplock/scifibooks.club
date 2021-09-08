@@ -3,8 +3,8 @@ date: 2021-02-25
 description: 'Book review of Star Trek: Titan: Taking Wing by Michael A. Martin and
   Andy Mangels. This is a post Nemesis relaunch novel.'
 tags:
-- Titan
 - Relaunch
+- Titan
 - Star Trek
 title: 'Star Trek: Titan: Taking Wing book review'
 weight: 2

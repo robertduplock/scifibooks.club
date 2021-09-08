@@ -2,8 +2,8 @@
 date: 2021-04-06
 description: Book review of Star Trek Titan Orions Hounds by Christopher L. Bennett.
 tags:
-- Titan
 - Relaunch
+- Titan
 - Star Trek
 title: 'Star Trek: Titan: Orions Hounds book review'
 weight: 5

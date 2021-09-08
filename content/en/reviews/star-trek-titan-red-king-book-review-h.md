@@ -3,8 +3,8 @@ date: 2021-03-14
 description: 'Book review of Star Trek Titan: The Red King by Michael A. Martin & Andy
   Mangels.'
 tags:
-- Titan
 - Relaunch
+- Titan
 - Star Trek
 title: 'Star Trek: Titan: The Red King book review'
 weight: 3

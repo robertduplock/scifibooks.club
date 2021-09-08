@@ -1,5 +1,5 @@
 ---
-title: The Book List
+title: "Star Trek: Relaunch: The Book List"
 description: This is the master list of all the Trek books I intend to read and review,
   in loosely chronological order.
 published: true
@@ -20,29 +20,18 @@ These books all take place after the events of Star Trek: Nemesis and the differ
  7. [The Next Generation: Q&A](https://startrekbook.club/reviews/7-star-trek-the-next-generation-q-a/)
  8. [The Next Generation: Before Dishonor](https://startrekbook.club/reviews/star-trek-the-next-generation-before-dishonor-book-review-8)
  9. [Titan: Sword of Damocles](https://startrekbook.club/reviews/star-trek-titan-sword-of-damocles-book-review-9/)
-10. The Next Generation: Greater Than the Sum
-
-### Bonus Read
-
-* Voyager: Homecoming ???
+10. [The Next Generation: Greater Than the Sum](https://scifibooks.club/reviews/star-trek-the-next-generation-greater-than-the-sum-book-review-f/)
 
 ## Phase Two
 
- 1. Destiny: Gods of Night
- 2. Destiny: Mere Mortals
- 3. Destiny: Lost Souls
- 4. The Next Generation: Losing the Peace
- 5. A Singular Destiny
- 6. Voyager: Full Circle
- 7. Voyager: Unworthy
- 8. Voyager: Children of the Storm
- 9. Titan: Over a Torrent Sea
-10. Titan: Synthesis
-11. Department of Temporal Investigations: Watching the Clock
-
-### Bonus Read
-
-* Star Trek: Federation
+ 1. [Destiny Trilogy: Gods of Night,  Mere Mortals & Lost Souls](https://scifibooks.club/reviews/star-trek-the-next-generation-destiny-trilogy-book-review-e/)
+ 2. [The Next Generation: Losing the Peace](https://scifibooks.club/reviews/star-trek-the-next-generation-losing-the-peace-book-review/)
+ 3. [A Singular Destiny](https://scifibooks.club/reviews/star-trek-a-singular-destiny-book-review/)
+ 4. Titan: Over a Torrent Sea
+ 5. Voyager: Full Circle
+ 6. Voyager: Unworthy
+ 7. Voyager: Children of the Storm
+ 8. Titan: Synthesis
 
 ## Phase Three
 
@@ -57,11 +46,6 @@ These books all take place after the events of Star Trek: Nemesis and the differ
  9. Titan: Fallen Gods
 10. Typhon Pact: The Struggle Within
 11. The Next Generation: Indistinguishable From Magic
-12. Department of Temporal Investigations: Forgotten History
-
-### Bonus Read
-
-* Stargazer: Book 1
 
 ## Phase Four
 
@@ -78,10 +62,6 @@ These books all take place after the events of Star Trek: Nemesis and the differ
 11. Department of Temporal Investigations: Time Lock
 12. The Next Generation: The Stuff of Dreams
 13. Department of Temporal Investigations: Shields of the Gods
-
-### Bonus Read
-
-* New Frontiers: Book 1
 
 ## Phase Five
 
@@ -105,10 +85,6 @@ These books all take place after the events of Star Trek: Nemesis and the differ
 18. Deep Space Nine: Force and Motion
 19. Section 31: Disavowed
 
-### Bonus Read
-
-* ???
-
 ## Phase Six
 
  1. The Next Generation: Armageddon's Arrow
@@ -126,10 +102,6 @@ These books all take place after the events of Star Trek: Nemesis and the differ
 13. Titan: Fortune of War
 14. The Next Generation: Available Light
 15. The Next Generation: Collateral Damage
-
-### Bonus Read
-
-* ???
 
 ## Final Phase
 

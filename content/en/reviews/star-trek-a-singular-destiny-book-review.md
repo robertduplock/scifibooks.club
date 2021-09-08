@@ -7,7 +7,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 phase = "Phase Two: Destiny and Aftermath"
 rating = 3.5
 show_reading_time = true
-tags = ["Star Trek", "Relaunch", "Star Trek: Special or crossover"]
+tags = ["Relaunch", "Star Trek", "Star Trek: Special or crossover"]
 title = "Star Trek: A Singular Destiny book review"
 weight = 13
 

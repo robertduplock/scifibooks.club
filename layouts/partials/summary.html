@@ -1,9 +1,14 @@
 <div class="relative w-100 mb3 bg-white nested-copy-line-height">
   <div class="bg-white mb2 pa4 mid-gray overflow-hidden">
     <span class="f6">{{ humanize .Section }}</span> 
-    {{ if isset .Params "weight" }}
+    {{ if and (isset .Params "weight") (ne .Params.weight 0) }}
       <span class="f7 ml1 mr1">|</span>
-      <span class="f6">#{{ ($.Param "weight") }} in series</span>
+      {{ with .Params.tags }}
+        {{range first 1 .}}
+          <a class="link mid-gray f6" href="/tags/{{ . | urlize }}"><span>#{{ $.Param "weight" }} in series</span></a>
+        {{end}}
+      {{ end }}
+      
     {{ end }}
     <h2 class="f3 near-black">
       <a href="{{ .Permalink }}" class="link black dim">
