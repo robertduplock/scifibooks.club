@@ -48,3 +48,5 @@ It was also a lot of fun to catch up with Ezri Dax and her crew aboard the _U.S.
 My impression of Keith R.A. DeCandido is that he is an outgoing guy who loves to talk. He stated in an interview that he wanted to give Sonek Pran the "superpower" of being able to speak to people. He certainly does, er, speak to a lot of people. 
 
 Apart from being a prelude to _Typhon Pact,_ the book also acts as a pseudo-sequel to _Articles Of The Federation_ (aslo by DeCandido). It's very much in the same vein, exploring the inner-workings of Federation politics. I think I probably liked this one more than _Articles Of The Federation,_ but less so than his excellent _Q&A._
+
+Overall, _A Singular Destiny_ is another solid read from DeCandido, and it has made me excited to get to the Typhon Pact series. Good on ya' KRAD, keep up the good work.  
