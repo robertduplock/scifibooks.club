@@ -3,12 +3,12 @@
     <span class="f6">{{ humanize .Section }}</span> 
     {{ if and (isset .Params "weight") (ne .Params.weight 0) }}
       <span class="f7 ml1 mr1">|</span>
+      {{/* Takes the first tag to generate the series link */}}
       {{ with .Params.tags }}
         {{range first 1 .}}
           <a class="link mid-gray f6" href="/tags/{{ . | urlize }}"><span>#{{ $.Param "weight" }} in series</span></a>
         {{end}}
       {{ end }}
-      
     {{ end }}
     <h2 class="f3 near-black">
       <a href="{{ .Permalink }}" class="link black dim">
