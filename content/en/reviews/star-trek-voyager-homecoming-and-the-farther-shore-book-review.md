@@ -24,3 +24,7 @@ After all, the series left a showbag jam-packed with loose ends that the books c
 The most common criticism of _Homecoming_ is that it views these loose ends as a bothersome obstacle, rather than an opportunity to organically grow some compelling storylines. And so Golden gets out her dustpan and brush, and quickly sweeps them up. No muss, no fuss.  
 
 In a way, I really feel for Golden. The problem with Star Trek books is that something needs to happen other than a bunch of the crew having lunch dates with their long-lost loved ones. And her story of a Borg virus was actually pretty clever. Infect, rather than assimilate. How do you explore the loose ends in a way that is dramatically satisfying to a space opera audience?  
+
+Reading the first half of Homecoming, I found that I quite enjoyed seeing each character get their brief moment in the sun. Harry reuniting with his parents (and Libby), for example, was a nice moment. But then, two-thirds in, the book is wrapped all that up, and suddenly the Borg virus is everywhere. Even that I didn't mind so much...
+
+The two parts of the story, that continue through to _The Farther Shore_, 
