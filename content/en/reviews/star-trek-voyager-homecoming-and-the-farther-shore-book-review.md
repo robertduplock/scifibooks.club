@@ -13,3 +13,14 @@ title = "Star Trek: Voyager: Homecoming and The Farther Shore book review"
 weight = 0
 
 +++
+After seven long years in stranded in the Delta Quadrant, Janeway finally managed to bring her crew back to the little blue planet she, and so many of her crew, call home. And cut. Draw the curtains and clean the stage. _Voyager_ is done. Of course, all good Trek geeks turn to the books to continue to events once she show ends. Thus, Voyager's relaunch is here, and veteran author Christie Golden is in charge.
+
+<!--more-->
+
+Star Trek: The Next Generation's first relaunch title, _Death In Winter_, got the post-TV/movie era off to a shaky start for Picard and his crew. I was hoping that the two-parter _Homecoming_ and _The Farther Shore_ would see Voyager's relaunch land on steadier ground. 
+
+After all, the series left a showbag jam-packed with loose ends that the books could build on. For example, after four seasons with nary a sultry look in Chakotay's direction, Seven finds herself suddenly in love with Chakotay in the season finale. _Homecoming_ had an obvious manifesto to quickly reverse that decision. There were plenty more loose ends too: How will the Doctor be treated? Will Tom Paris find peace with his father? Will the Marquee crew members face trial? I could go on...
+
+The most common criticism of _Homecoming_ is that it views these loose ends as a bothersome obstacle, rather than an opportunity to organically grow some compelling storylines. And so Golden gets out her dustpan and brush, and quickly sweeps them up. No muss, no fuss.  
+
+In a way, I really feel for Golden. The problem with Star Trek books is that something needs to happen other than a bunch of the crew having lunch dates with their long-lost loved ones. And her story of a Borg virus was actually pretty clever. Infect, rather than assimilate. How do you explore the loose ends in a way that is dramatically satisfying to a space opera audience?  
