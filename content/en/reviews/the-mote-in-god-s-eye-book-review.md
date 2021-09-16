@@ -29,4 +29,8 @@ The aliens themselves are really the stars of the show. They are lopsided and gr
 
 My main gripe with the storyline is that I just never really saw the Moties as much of a threat. Everyone is so paranoid all the time, except for Sally and a few of the scientists. The basic premise is that, due to their crazy engineering skills and a breeding rate that'd put the typical rabbit to shame, they will expand into humanity's terroritory and start stirring up trouble. To think that would cause humanity so much distress that they would send a big old bomb with Die Motie's Die scrawled on the side just never quite rang true for me.
 
-What the book does offer is a very fun, very readable space opera adventure. It's a first contact story. It's a mishmash of different tropes. As always, Niven and Pournelle write in a lean-and-clean style, which is easy to read and keeps the focus on the story and characters.  
+What the book does offer is a very fun, very readable space opera adventure. It's a first contact story. It's a mishmash of different tropes. As always, Niven and Pournelle write in a lean-and-clean style, which is easy to read and keeps the focus on the story and characters. It's the kind of writing that doesn't draw attention to itself. There are a lot of characters to keep track of. Like Niven and Pournelle's _Footfall_, certain characters don't really serve any obvious function. For example Nabil, Horace Bury's servant/assassin, is touted to be an underhanded, sneaky threat. And yet that particular Chekhov's gun never fires. Nabil does pretty much nothing.
+
+Also similarly to Footfall, the aliens did come acrosss as quite samey. The idea of the _Fyunch(click)_ was cool, with every main character getting their own Motie _other_. But ultimately, they were something of a homogenous group, thinking and acting like one multi-bodied character. 
+
+The 
