@@ -33,4 +33,6 @@ What the book does offer is a very fun, very readable space opera adventure. It'
 
 Also similarly to Footfall, the aliens did come acrosss as quite samey. The idea of the _Fyunch(click)_ was cool, with every main character getting their own Motie _other_. But ultimately, they were something of a homogenous group, thinking and acting like one multi-bodied character. 
 
-The 
+Niven and Pournelle have become of my favourite authors. Having now read two of their works, I am looking forward to reading _Lucifer's Hammer_ next_._ Each of their singular books is the size of a typical YA trilogy, so you get good value when you pick up on of their tomes. 
+
+_The Mote In God's Eye_ is an epic adventure, full of original ideas and fun characters. Yes, in some ways it hasn't aged that well. And yes, it does get a big bogged down in the second act. Perhaps it could have been 50 pages shorter. But it's still a worthwhile read, even in 2021. 
