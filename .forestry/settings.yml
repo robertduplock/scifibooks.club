@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/en/_index.md
   label: Home
-  match: "**/*"
 - type: document
   path: config.toml
   label: Site Settings
