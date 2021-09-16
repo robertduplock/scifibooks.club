@@ -9,7 +9,7 @@ rating = 4
 show_reading_time = true
 tags = ["Aliens", "Space opera"]
 title = "The Mote In God's Eye book review"
-weight = 0
+weight = nil
 
 +++
 Published in 1974, _The Mote In God’s Eye_ was a runaway success. It fused the space opera of Star Trek, the world building of Dune, and the militaristic elements of Starship Troopers. It’s 537 pages of space faring goodness. And if you think Europe has a lot of museums, just wait until you get to Mote Prime.
@@ -20,13 +20,13 @@ If you are going to read a book written five decades ago, of course you have to 
 
 _The Mote In God’s Eye_ features a large cast of characters. The main character, Rod Blaine, is a Captain Kirk-ish figure, with a tendency to touch his nose when he’s feeling insecure. His counterpart is the menacing Russian stereotype Kutuzov, a man so devoted to keeping humanity safe, he’d sleep just fine after an unprecedented act of genocide. And indeed, it almost comes to that.
 
-It will thrill fans of diversity to find there is but a single female character, Sally. She acts as both Rod’s progressive conscience and his love interest. Ok, all the Motie except for a few are female. But they don’t really count. In a time where female leads are common, it's odd to imagine a future in which men alone rule the stars.
+It will thrill fans of diversity to find there is but a single female character, Sally. She acts as both Rod’s progressive conscience and his love interest. Ok, all the Moties except for a few are female. But they don’t really count. In a time where female leads are common, it's odd to imagine a future in which men alone rule the stars.
 
 {{< pullout >}}
 The aliens themselves are the stars of the show.
 {{< /pullout >}}
 
-The world building is impressive in its scope and detail. The _CoDominium_, as it is known_,_ is the rich and complex universe in which the story takes place. Some of Pournelle’s other works are also set in this universe. This book remains independent, and does not need to be read as part of a broader story.
+The world building is impressive in its scope and detail. The _CoDominium_, as it is known, is the rich and complex universe in which the story takes place. Some of Pournelle’s other works are also set in this universe. This book remains independent, and does not need to be read as part of a broader story.
 
 The aliens themselves are the stars of the show. They are lopsided and grotesque, with a permanent smile planted on their face, like a politician at a dinner party. Once the humans make contact, they get to visit Mote Prime and see the sights. First stop on the Motie’s Hop-on Hope-off bus is one of many museums. Rod and co learn that the Moties breed like rabbits. Overpopulation, followed by cataclysmic wars, is par-for-the-course on their world. So the population keeps a few time capsules for next time their entire civilisation crumbles and the neo-caveman Moties need to start again.
 
