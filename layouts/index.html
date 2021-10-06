@@ -4,7 +4,7 @@
     {{ .Content }}
   </article>
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
-  {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+  {{ $mainSections := .Site.Params.mainSections | default (slice "reviews") }}
   {{/* Create a variable with that section to use in multiple places. */}}
   {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
   {{/* Check to see if the section is defined for ranging through it */}}
@@ -25,8 +25,8 @@
 
       <section class="w-100">
         {{/* Range through the first $n_posts items of the section */}}
-        {{ range (last $n_posts $section).ByDate.Reverse }}
-          <div class="relative w-100 mb4">
+        {{ range (sort $section ".Params.date" "desc") | first $n_posts }}
+        <div class="relative w-100 mb4">
             {{ partial "summary.html" . }}
           </div>
         {{ end }}

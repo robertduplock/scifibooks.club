@@ -1,7 +1,7 @@
 +++
 book_author = "Christopher L Bennet"
 book_title = "Star Trek: Titan: Over A Torrent Sea"
-date = 2021-10-06T02:01:37Z
+date = 2021-09-15T02:01:37Z
 description = "Book review of Star Trek: Titan: Over A Torrent Sea by Christopher L Bennet"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348275554l/3827751.jpg"
 phase = "Phase Two: Destiny and Aftermath"
