@@ -35,4 +35,4 @@ Towards the end, Doctor Ree kidnaps Deanna Troi and forces her to give birth on 
 
 Most of us Trekkies approach the books with a fairly forgiving, easy going attitude. We don't expect them to be exceptional novels. We just want Picard to say "engage", Janeway to drink her coffee black and Spock to raise a single eyebrow. Give us a bit of what we know and love, and mix that in with the big, wacky ideas. It can be a tough task to translate the magic of Trek to the humble page of the written novel. 
 
- 
+Sorry folks, but I have to give _Over A Torrent Sea_ the same score as the disasterous _Before Dishonor_. Good ideas let down by a lousy execution.
