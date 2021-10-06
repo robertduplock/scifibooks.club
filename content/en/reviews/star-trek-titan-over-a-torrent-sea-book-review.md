@@ -14,7 +14,7 @@ weight = 14
 +++
 Christopher L Bennet and I got beef. Of course, he wouldn't know me from a bar of soap. But reading through the post-Nemesis Star Trek litverse, I've now read 14 books in the series. And I hate to say it, but Bennet is my least favourite Trek writer.
 
-_Over A Torrent Sea_, published in 2009 and the fifth Titan spinoff, is the perfect example of why Bennet and I don't gel. But firstly, let me list some of the things I _like_ about Bennet. He has an imagination bigger than a member of the Q continuum, a solid grasp of character, and he's dedicated to Trek lore -- often choosing to plug small gaps in Trek canon with well-considered Easter-eggy details.
+_Over A Torrent Sea_, published in 2009 and the fifth Titan spinoff, is the perfect example of why Bennet and I don't gel. But firstly, let me list some of the things I _like_ about Bennet. He has an imagination bigger than a member of the Q continuum, a solid grasp of character, and he's dedicated to Trek lore — often choosing to plug small gaps in Trek canon with well-considered Easter-eggy details.
 
 What's not to like then? You see, Bennet commits the cardinal sin of genre fiction. His books are boring. They are books that sit on my nightstand, haunting me, the bookmark permanently stuck halfway through. Except for his decent Trek novel _Greater Than The Sum_, I've found all of his Trek books so far to be boring. But _Over A Torrent Sea_ was the boringest of them all. It reads somewhere between a marine biology textbook and a fanfiction epic posted on Archive Of Our Own.
 
@@ -32,10 +32,10 @@ I know that in the future humanity is super smart. Quantum physics is a standard
 Hell, I'd rather get operated on by Reginald Barclay.
 {{< /pullout >}}
 
-And then there is the story itself. We get to see Riker -- starving, dehydrated and delirious -- laying about in a loincloth and unable to help the mission. To some extent, a media franchise needs to challenge the fans, but also give the fans a little of what they want. Do Trek fans want to see Riker reduced to such a pathetic and helpless victim?
+And then there is the story itself. We get to see Riker — starving, dehydrated and delirious — laying about in a loincloth and unable to help the mission. To some extent, a media franchise needs to challenge the fans, but also give the fans a little of what they want. Do Trek fans want to see Riker reduced to such a pathetic and helpless victim?
 
 But that's nothing compared to what happens with Ree and Troi. The good dino doctor kidnaps Deanna and forces her to give birth on another planet, which is also pre-Warp and pretty terrified when a dinosaur rocks up and takes over their hospital's maternity ward. _What?_ Ree, who is probably the most likeable of the original _Titan_ characters, acts so stupidly that I might never take him seriously again. _A doctor who kidnaps his patients when they're pregnant_. Think about it. I'd rather get operated on by Tom Paris. Hell, I'd rather get operated on by Reginald Barclay.
 
-Most of us Trekkies approach the books with a fairly forgiving, easy-going attitude. We don't expect them to be exceptional novels. We just want Picard to say "engage", Janeway to drink her coffee black and Spock to raise a single eyebrow. Give us a bit of what we know and love, and mix that in with the big, wacky ideas. It can be a tough task to translate the magic of Trek to the humble page of the written novel. As I said, a Trek book doesn't have to be exceptional -- but please don't make it boring.
+Most of us Trekkies approach the books with a fairly forgiving, easy-going attitude. We don't expect them to be exceptional novels. We just want Picard to say "engage", Janeway to drink her coffee black and Spock to raise a single eyebrow. Give us a bit of what we know and love, and mix that in with the big, wacky ideas. It can be a tough task to translate the magic of Trek to the humble page of the written novel. As I said, a Trek book doesn't have to be exceptional — but please don't make it boring.
 
 Sorry folks, but I have to give _Over A Torrent Sea_ the same score as the disastrous _Before Dishonor_. Good ideas are let down by lousy execution. It's nothing personal Mr Bennet. 
