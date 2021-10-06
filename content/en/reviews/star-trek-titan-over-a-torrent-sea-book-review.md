@@ -3,7 +3,7 @@ book_author = "Christopher L Bennet"
 book_title = "Star Trek: Titan: Over A Torrent Sea"
 date = 2021-10-06T02:01:37Z
 description = "Book review of Star Trek: Titan: Over A Torrent Sea by Christopher L Bennet"
-inline_image = "https://static.wikia.nocookie.net/memoryalpha/images/a/a0/Over_a_Torrent_Sea_cover.jpg/revision/latest?cb=20080712032353&path-prefix=en"
+inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348275554l/3827751.jpg"
 phase = "Phase Two: Destiny and Aftermath"
 rating = 2
 show_reading_time = true
