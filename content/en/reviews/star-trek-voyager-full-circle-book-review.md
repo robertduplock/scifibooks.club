@@ -32,3 +32,17 @@ As the story progressed, I thought we would see Janeway beamed down in a ray of 
 Then there is the quality of Beyer's prose. At first, I struggled with it. I've criticised seasoned Trek writer Christopher L Bennet for telling/explaining too much to the reader. Well, Beyer is just about the telliest, explainiest writer I've come across. The number of times she literally tells the reader how a character feels is amazing. She breaks the most basic rules of "good writing" again and again.
 
 However, her writing does carry a certain weight and punch. Once I forced myself to turn off my analytical brain and just _read_ the book, I found myself reading chapter after chapter until well past my bedtime. Not since the _Destiny_ trilogy did I find myself so compelled to keep flipping the pages.
+
+> “Tuvok felt no fear as she said this. He did, however, realize that if he did not find a way to defend himself against her assault, he would probably not last the afternoon, let alone as long as she intended.”
+
+Beyer has forced me to rethink my idea of good prose. While the above may not win any literary prizes, it's the kind of writing the fails the intellectual "is it good" test but passes the "is it fun to read" test. Which, I suppose, is the most important. But what if I rewrote it, to be more punchy and descriptive?
+
+> Tuvok stood straight and lifted his chin. As he looked about the room, he noted only soft furnishing and curious knick-knacks; nothing that could heft some weight should push come to shove. A sly grin curled her lips.  
+
+What do you think? Which one is better? 
+
+Perhaps the main reason Beyer succeeds so well is that when she does show, she shows up well-constructed scenes that give the characters internal conflicts to work through. The flashbacks in which Chakotay (normally a pleasant, but boring character) struggles with Janeway's death are a wonderful example of character-driven scenes with real emotional weight. She pushes Chakotay to the edge, and even lets him fall — even it's just a little way. 
+
+Another criticism I've had of other Trek novels is they often spend too much time with original characters who, interesting as they may be, aren't the reason why many of us pick up a Trek book. Libby for example was a character I liked, but she took over _A Farther Shore_ — and it was annoying spending so much time with her and not her love interest, Harry Kim! Although Eden and Batiste are important to the story, we spend plenty of time with Tom, B'Elanna, Chakotay and Seven. 
+
+Kirsten Beyer really hit a home run with _Full Circle_. She managed to work Voyager into the post-Nemesis, post-Destiny timeline with grace and style. It was one of the few Trek books that really kept me wanting more, and I can't wait to read the follow-up, _Unworthy_. Yes, her prose is sometimes a little amateurish, but she also proves you don't need beautiful writing to create an effective and engaging story. 
