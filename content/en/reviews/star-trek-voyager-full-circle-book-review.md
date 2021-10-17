@@ -13,7 +13,11 @@ title = "Star Trek: Voyager: Full Circle book review"
 weight = 15
 
 +++
-When Kirsten Beyer picked up the heavy gauntlet of the Voyager relaunch titles, she sure faced a challenge. Not only were their loose ends to tie up from the preceding novels — but she also had to a) Deal with "the Janeway thing" from _Before Dishonor_ b) Launch the Full Circle Fleet storyline and c) Work it all in with the aftermath of _Star Trek: Destiny_. 
+When Kirsten Beyer picked up the heavy gauntlet of the Voyager relaunch titles, she sure faced a challenge. Apart from tying up the loose ends from the preceding novels, she also had to: 
+
+1. Deal with "the Janeway thing" from _Before Dishonor_ 
+2. Work it all in with the aftermath of _Star Trek: Destiny_ 
+3. Launch the Full Circle Fleet storyline.
 
 Once more unto the Delta Quadrant, dear friends...
 
