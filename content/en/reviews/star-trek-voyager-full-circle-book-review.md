@@ -17,11 +17,11 @@ When Kirsten Beyer picked up the heavy gauntlet of the Voyager relaunch titles, 
 
 1. Deal with "the Janeway thing" from _Before Dishonor_ 
 2. Work it all in with the aftermath of _Star Trek: Destiny_ 
-3. Launch the Full Circle Fleet storyline.
+3. Launch the Full Circle Fleet storyline
 
 Once more unto the Delta Quadrant, dear friends...
 
-_Spoilers ahead_
+**Spoilers ahead**
 
 <!-- more -->
 
