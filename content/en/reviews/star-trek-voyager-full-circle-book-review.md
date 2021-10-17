@@ -27,6 +27,8 @@ The first half of the book is mainly spent tying up the Miral/_Kuvah'magh_ story
 
 But it's in the second half that the book really gets its warp engines revving. Admiral Batiste cooks up a crazy plan to send Voyager back to the very place they found themselves oh so lost in, but Janeway says something ain't to: _Over my dead body_. Well... since this is now post-_Destiny_, poor old Janeway has danced off into the darkness with Lady Q.
 
+{{< pullout >}} It's in the second half that the book really gets its warp engines revving. {{< /pullout >}}
+
 As the story progressed, I thought we would see Janeway beamed down in a ray of Q-infused light — she'd scoop of Seven and Chakotay and bam — Admiral Janeway commands the fleet while Captain Chakotay sits in _Voyager_'s big chair. By the time the last few chapters came about, the state of play became obvious, with O.G. characters Batiste in command of the fleet and Eden as the captain of _Voyager_. Personally, I would have ended the novel with Chakotay and Janeway in those spots. Still, since I haven't read any of the preceding novels since _A Farther Shore_, in the context of the other books it might have been too rushed to bring them back so soon.
 
 Then there is the quality of Beyer's prose. At first, I struggled with it. I've criticised seasoned Trek writer Christopher L Bennet for telling/explaining too much to the reader. Well, Beyer is just about the telliest, explainiest writer I've come across. The number of times she literally tells the reader how a character feels is amazing. She breaks the most basic rules of "good writing" again and again.
