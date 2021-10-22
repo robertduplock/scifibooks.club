@@ -52,6 +52,7 @@ fields:
   label: Book author
 pages:
 - content/en/reviews/footfall-book-review.md
+- content/en/reviews/foundation-book-review.md
 - content/en/reviews/star-trek-a-singular-destiny-book-review.md
 - content/en/reviews/star-trek-the-next-generation-losing-the-peace-book-review.md
 - content/en/reviews/star-trek-titan-over-a-torrent-sea-book-review.md
