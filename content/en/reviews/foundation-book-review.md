@@ -19,9 +19,9 @@ They don’t get much bigger than Asimov’s _Foundation_. Awarded “Best All-T
 
 <!--more-->
 
-Considering it was published in 1951, _Foundation_ has aged pretty well. It has that big, retro sci-fi feel, where anything is possible. Set it 50 000 years in the future? Sure. 25 million planets contained within a single empire? Hell yeah.
+_Foundation_, written in the 1940s but collected and published in 1951_,_ has aged pretty well. It has that big, retro sci-fi feel, where anything is possible. Set it 50 000 years in the future? Sure. 25 million planets contained within a single empire? Hell yeah. 
 
-Some parts of the book have aged like wine, others like milk. Let’s get the negatives out of the way. Firstly, I don’t think I counted a single female character. Not even _one_. Nada. Secondly, nuclear power is all the rage. In the future, the split atom is powering electric razors and clock radios. I’m not sure I want to be soaked with radiation every time I switch on my shaver. Thirdly, there are minor things like people chuffing on a cigar, or reading the newspaper. Most of this is pretty forgivable, assuming the no-girls-allowed doesn’t bother you too much. The book is 70 years old, after all.
+Some parts of the book have aged like wine, others like milk. Let’s get the negatives out of the way. Firstly, I don’t think I counted a single female character. Not even _one_. Nada. Secondly, nuclear power is all the rage. In the future, the split atom is powering electric razors and clock radios. If my shaver came with the unfortunate side effect of bathing me with nuclear radiation, I might just grow myself a tidy beard. Thirdly, there are minor things like people chuffing on a cigar, or reading the newspaper. Most of this is pretty forgivable, assuming the no-girls-allowed doesn’t bother you too much. The book is 70 years old, after all.
 
 _Foundation_’s story itself is a set of loosely connected novellas set within the same fictional universe. Each one leaps ahead in time, casting a new set of characters.
 
@@ -29,7 +29,7 @@ The most unexpected part of the story, for me, was the focus on religion. The Fo
 
 It seems that Hari Seldon can predict the future pretty well, and most of the time the characters keep out of history’s way until the next “Second Crisis” presents itself. On the face of it, a set of characters championing the idea of doing nothing — unless a hologram of the big man himself, Hari Seldon, rises from the metaphorical grave and gives direction to the nearest, man, woman or child what to do and where to go — could be a rather boring story. It’s often the tension between when to act and when to kick back that drives the narrative.
 
-Asimov’s prose is lean and clean in the extreme. Terse, even. His descriptions of the wondrous future are bare and often rely on the reader's imagination to fill in the gaps. Although the book, particularly at first, can feel a bit rushed — I believe it’s Asimov’s succinct prose that helps the book to be so readable today. The story never gets bogged down in the arcana of futuristic technology or science.
+Asimov’s prose is lean and clean in the extreme. Terse, even. His descriptions of the wondrous future are bare and often rely on the reader's imagination to fill in the gaps. Although the book, particularly at first, can feel a bit rushed — I believe it’s Asimov’s succinct prose that helps the book to be so readable today. The arcana of futuristic technology or science never threatens to bog down the story.
 
 Dialogue rules _Foundation_. A good portion of the book is spying on conversations. Backroom deals, political machinations and social manoeuvring. There are no space battles, no military institutions, and no alien bad guys to blow up.
 
