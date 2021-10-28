@@ -3,7 +3,6 @@ book_author = "Kirsten Beyer"
 book_title = "Star Trek: Voyager: Unworthy"
 date = 2021-10-26T22:05:06Z
 description = "Book review of Star Trek: Voyager: Unworthy by Kirsten Beyer"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391443954l/6180992.jpg"
 phase = "Phase Two: Destiny and Aftermath"
 rating = 4.5
@@ -28,6 +27,10 @@ The new counsellor, Hugh Cambridge, is an interesting character — but I can ne
 One nice aspect of Voyager's TV run was watching Naomi Wildman grow up. I always wished we'd seen a little more of the relationship between Naomi, her mother, and Neelix. Now we have Miral (Tom and B'Elanna's daughter), who might give us that same sense of continuity. I giggled every time she'd say "_p'tak_!" (a Klingon slur) amongst otherwise polite company.
 
 Speaking of Neelix, we only get to see him briefly when he helps out B'Elanna. However, I have a feeling he's going to show up in the next book. But Captain Janeway is barely even mentioned. I _know_ she's coming back, but just when and how I don't know. Perhaps it will coincide with Eden finding her home planet out there in the deep dark depths of the Delta Quadrant.
+
+{{< pullout >}}
+Beyer's writing is still equal parts wonderful and infuriating.
+{{< /pullout >}}
 
 The actual story itself is a little more monster-of-the-week, in which we meet in the Indign. They're a Borg worshipping co-op, who occasionally scoop up a room full of dead people and offer them to their favourite cybernetically enhanced galaxy-conquering collective. At first, I groaned: _Oh no, it's a Borg story!_ It's not that I dislike the Borg, it's just that I've had my fill of them. Thankfully, the story keeps the Borg on the periphery.
 
