@@ -9,7 +9,7 @@ rating = 4
 show_reading_time = true
 tags = ["Relaunch", "Titan", "Star Trek"]
 title = "Star Trek: Titan: Synthesis book review"
-weight = 15
+weight = 17
 
 +++
 William T. Riker and the diverse crew of the _U.S.S. Titan_ are back, this time in the hands of British author James Swallow. Following on from the lackluster _Over A Torrent Sea_ (by Christopher L Bennet), I was hoping that Mr. Swallow could inject some fun and action into this spinoff book series. Did he succeed?
