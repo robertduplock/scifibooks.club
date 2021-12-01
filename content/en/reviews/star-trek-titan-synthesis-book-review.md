@@ -3,7 +3,6 @@ book_author = "James Swallow"
 book_title = "Star Trek: Titan: Synthesis"
 date = 2021-12-01T03:10:00Z
 description = "Book review of Star Trek: Titan: Synthesis by James Swallow"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348976665l/6372758.jpg"
 phase = "Phase Two: Destiny and Aftermath"
 rating = 4
@@ -35,7 +34,7 @@ Meanwhile, the bad guy reveals itself — the thing responsible for White-Blue�
 
 The character work in this book continues to shine as Torvig and the now sentient Titan Avatar (as I will now call it) become fast friends. Torvig’s species, who are enhanced with all kinds of crazy cybernetics, were uplifted into self-awareness much in the same way the Titan Avatar was. It turns to Torvig for guidance, support, and even advice. This is the first Titan book so far that has made me connect with Torvig. In the previous iterations, I found him a little annoying. But in this book, we see more of his sweet and naive side. The scenes where he and the Titan Avatar interact are some of my favorites in the book.
 
-The Sentries (the AI machines) eventually have enough of _Titan_ and ask the ship to be on its merry way, so that they can focus on fighting The Null. But things get complicated when Tuvok and co get stranded on what turns out to be an exiled computer mind, Zero-Three. Another Sentry, Red-Gold, thinks _Titan_ could help them out in the battle and decides to take control by force, rather than being polite and just asking. AI robots just have no manners these days.
+The Sentries (the AI machines) eventually have had enough of _Titan_ and ask the crew to be on their merry way, so that they can focus on fighting The Null. But things get complicated when Tuvok and co get stranded on moon-sized exiled computer mind, Zero-Three. Another Sentry, Red-Gold, thinks _Titan_ could help them out in the battle and decides to take control by force, rather than being polite and just asking. AI robots just have no manners these days.
 
 Probably my favorite part of the story is when the Titan Avatar is asked to (temporarily) shut itself down, and must trust Riker and the crew to actually wake it up again once the battle is over. It was a great moment, in which it learns to believe in Riker and his crew, and it also demonstrates how the crew’s attitude towards its latest crew member evolved from distrust to complete acceptance.
 
@@ -47,8 +46,8 @@ I can’t say I totally love every character on Titan just yet. Although I must 
 On the whole, it’s my equal favorite _Titan_ novel thus far
 {{< /pullout >}}
 
-Generally, the book received positive (if slightly mixed) reviews online. It holds a “Very good” rating on Trek BBS. TrekLit gave it a mediocre 6/10, which I felt was a bit harsh. Having read a few other online reviews, there were two common criticisms. One was that the stakes were too high (seeing as The Null could destroy the entire galaxy). TrekLit readers, at this point, are obviously a bit fatigued with constant, galaxy-ending events in the books. That being said, _Synthesis_ didn’t lean heavily on this — it was almost an afterthought. The other criticism was things wrapped up a bit too neatly, which I suppose I agree with, but wasn’t a major detractor for me.
+Generally, the book received positive (if slightly mixed) reviews online. It holds a “Very good” rating on Trek BBS. [TrekLit](http://www.treklit.com/2012/01/synthesis.html) gave it a mediocre 6/10, which I felt was a bit harsh. Having read a few other online reviews, there were two common criticisms. One was that the stakes were too high (seeing as The Null could destroy the entire galaxy). Treklit readers, at this point, are obviously a bit fatigued with constant, galaxy-ending events in the books. That being said, _Synthesis_ didn’t lean heavily on this — it was almost an afterthought. The other criticism was things wrapped up a bit too neatly, which I suppose I agree with, but it wasn’t a major detractor for me.
 
-As it stands, _Star Trek: Titan: Synthesis_ by James Swallow is pretty much everything I want in a Titan/Star Trek novel. It’s fun, we get some good character moments. It balances thoughtful themes and some solid action with more lighthearted moments. I have high praise for Mr. Swallow’s character work; yes, it did probably benefit from the fact that five books in, I’m generally more familiar with the characters, so there is no confusion over who’s who in the Titan zoo. On the whole, it’s my equal favorite _Titan_ novel thus far (alongside _The Red King_).
+As it stands, _Star Trek: Titan: Synthesis_ by James Swallow is pretty much everything I want in a Titan/Star Trek novel. It’s fun and we get some good character moments. It balances thoughtful themes, with some solid action — and a healthy scattering of lighthearted moments too. I have high praise for Mr. Swallow’s character work; yes, it did probably benefit from the fact that five books in, I’m generally more familiar with the characters, so there is no confusion over who’s who in the Titan zoo. On the whole, _Synthesis_ is now my equal favorite _Titan_ novel thus far (alongside _The Red King_).
 
-Since the excellent Literary Treks (podcast) haven’t reviewed this one, you may like to check out The Captain’s Table podcast. They also did an interview with James Swallow.
+Since the excellent Literary Treks (podcast) haven’t reviewed this one, you may like to check out [The Captain’s Table podcast](https://open.spotify.com/episode/72lyH1549kgMJn1P3IIx4j). They also did an interview with James Swallow.
