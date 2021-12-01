@@ -14,6 +14,8 @@ weight = 17
 +++
 William T. Riker and the diverse crew of the _U.S.S. Titan_ are back, this time in the hands of British author James Swallow. Following on from the lackluster _Over A Torrent Sea_ (by Christopher L Bennet), I was hoping that Mr. Swallow could inject some fun and action into this spinoff book series. Did he succeed?
 
+**Spoilers ahead**
+
 <!--more-->
 
 The book begins with Malora Pazlar discovering an intriguing set of subspace distortions. Meanwhile, Riker is trying to take a hard-earned holo-holiday with his wife, Deanna Tori, and daughter, Natasha. He bumps into the reptilian Dr. Ree, who is a little bashful after he, y’know, kidnapped the captain’s wife and all that business (see _Over A Torrent Sea_).
