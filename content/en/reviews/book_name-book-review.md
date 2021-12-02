@@ -1,15 +1,15 @@
 +++
-book_author = ""
-book_title = ""
+book_author = "Kirsten Beyer"
+book_title = "Star Trek: Voyager: Children of the Storm"
 date = 2021-12-02T05:07:37Z
-description = "Book review of BOOK_NAME by AUTHOR"
+description = "Book review of Star Trek: Voyager: Children of the Storm by Kirsten Beyer"
 draft = true
-inline_image = ""
+inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348647093l/10256068.jpg"
 phase = "Phase Two: Destiny and Aftermath"
-rating = nil
+rating = 3
 show_reading_time = true
-tags = []
-title = "BOOK_NAME book review"
+tags = ["Relaunch", "Voyager", "Star Trek"]
+title = "Star Trek: Voyager: Children of the Storm book review"
 weight = 18
 
 +++
