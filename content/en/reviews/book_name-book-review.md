@@ -13,7 +13,7 @@ title = "Star Trek: Voyager: Children of the Storm book review"
 weight = 18
 
 +++
-Following up from two popular and successful Voyager novels, author Kirsten Beyer is back with her third post-Destiny Voyager instalment. _Children Of The Storm_ takes place concurrently with the previous novel, _Unworthy_. Can Beyer score a hat-trick with book #3?
+Following up from two popular and successful Voyager novels, author Kirsten Beyer is back with her third post-_Destiny_ Voyager instalment. _Children Of The Storm_ takes place concurrently with the previous novel, _Unworthy_. Can Beyer score a hat-trick with book #3?
 
 **Spoilers ahead!**
 
