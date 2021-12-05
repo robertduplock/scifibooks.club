@@ -13,19 +13,19 @@ title = "Star Trek: Voyager: Children of the Storm book review"
 weight = 18
 
 +++
-Following up from two popular and successful Voyager novels, author Kirsten Beyer is back with her third post-Destiny Voyager instalment. _Children Of The Storm_ takes place concurrently with the previous novel. Can Beyer score a hat-trick with book #3?
+Following up from two popular and successful Voyager novels, author Kirsten Beyer is back with her third post-Destiny Voyager instalment. _Children Of The Storm_ takes place concurrently with the previous novel, _Unworthy_. Can Beyer score a hat-trick with book #3?
 
-Spoilers ahead!
+**Spoilers ahead!**
 
 <!-- more -->
 
 The titular “Children of the Storm” were first mentioned in David Mack’s _Destiny_ trilogy. I don’t remember them, but apparently, they didn’t feature as much more than a throwaway line or two. Something about them caught Ms Beyer’s eye, and thus she decided to expand the idea into a full-blown novel.
 
-The book starts when Voyager is busy breaking bread with the Indign (see Unworthy), and so the focus is on the other Full Circle Fleet ships; _Planck_, _Demeter_, and _Quirinal_. They’re on the way to check out these “Children of the Storm” since they are pretty powerful and The Federation would prefer them as allies rather than, well, neutral peoples I guess.
+The book starts when _Voyager_ is busy breaking bread with the Indign (see _Unworthy_), and so the focus is on the other Full Circle Fleet ships; _Planck_, _Demeter_, and _Quirinal_. They’re on the way to check out these “Children of the Storm” since they are pretty powerful and the Federation would prefer them as allies rather than, well, neutral peoples I guess.
 
 Anyway, some folks onboard one of the ships get hungry, but the other ship has all the food. The foodie dreamboat _Demeter_ goes to warp when it shouldn’t, and the Children aren’t too happy about it. Things go pear-shaped when the Children destroy _Planck_.
 
-In this book, we’re introduced to a lot of new characters. And I mean _a lot_. _Quirinal_’s captain, Regina Farkas, and most of her crew are pretty forgettable. However, the food/horticultural vessel _Demeter_’s crew are the ones that steal the show. The odd-bod Captain Liam O'Donnell prefers a quiet night in with these genetically engineered plants, while he chats with his deceased missus. Conversely, his “number 1” Atlee Fife is pretty much left in charge of running the ship.
+In this book, we’re introduced to a lot of new characters. And I mean _a lot_. _Quirinal_’s captain, Regina Farkas, and most of her crew are pretty forgettable. However, the food/horticultural vessel _Demeter_’s crew are the ones that steal the show. The odd-bod Captain Liam O'Donnell prefers a quiet night in with his genetically engineered plants, while he chats with his deceased missus. Conversely, his “number 1” Atlee Fife is pretty much left in charge of running the ship.
 
 It turns out the Children are nuts for the plants growing on _Demeter_, and so the crew work around the clock to keep the green things alive and growing. However, Fife grows impatient with the endless stalling and figures it would be better to cut-n-run — if only that were possible. The Children are so powerful they can hold a starship suspended in space.
 
