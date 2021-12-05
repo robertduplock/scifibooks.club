@@ -23,7 +23,7 @@ The titular “Children of the Storm” were first mentioned in David Mack’s _
 
 The book starts when _Voyager_ is busy breaking bread with the Indign (see _Unworthy_), and so the focus is on the other Full Circle Fleet ships; _Planck_, _Demeter_, and _Quirinal_. They’re on the way to check out these “Children of the Storm” since they are pretty powerful and the Federation would prefer them as allies rather than, well, neutral peoples I guess.
 
-Anyway, some folks onboard one of the ships get hungry, but the other ship has all the food. The foodie dreamboat _Demeter_ goes to warp when it shouldn’t, and the Children aren’t too happy about it. Things go pear-shaped when the Children destroy _Planck_.
+Anyway, some folks onboard one of the ships get hungry, but the other ship has all the food. The foodie dreamboat _Demeter_ goes to warp when it shouldn’t, and the Children aren’t too happy about it. Things really go pear-shaped when the Children destroy _Planck_.
 
 In this book, we’re introduced to a lot of new characters. And I mean _a lot_. _Quirinal_’s captain, Regina Farkas, and most of her crew are pretty forgettable. However, the food/horticultural vessel _Demeter_’s crew are the ones that steal the show. The odd-bod Captain Liam O'Donnell prefers a quiet night in with his genetically engineered plants, while he chats with his deceased missus. Conversely, his “number 1” Atlee Fife is pretty much left in charge of running the ship.
 
