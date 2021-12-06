@@ -34,6 +34,8 @@ Finally, the eccentric Captain O’Donnell engineers a plant that can survive on
 
 _Children Of The Storm_ is an ambitious work, threading together multiple timelines, multiple viewpoints, and a large cast of characters. I wish I could say it all worked beautifully, but at times the story did lack direction. Clocking in at 400 pages, it’s a lengthy novel too. I tend to prefer Star Trek books that stick mostly with the characters I already know from the small screen. Of course, a new character or two is fine as long as the focus isn’t solely on them. In this book, however, _Voyager_'s crew are in the background.
 
+{{< pullout >}} O’Donnell and Fife emerge as standout characters. {{< /pullout >}}
+
 But there is plenty to like about the book too. As mentioned above, O’Donnell and Fife emerge as standout characters. It’s also a book that stretches your imagination; the Children exist as manifestations of pure thought, encased in polychromatic spheres. There are also many enjoyable B-plots, such as the tension between the engineers B’Elanna and Drafar.
 
 The book also continues on the arc of Afsarah Eden searching for her homeworld, which she figures are somewhere in the Delta Quadrant. In the end, she confides in Chakotay that part of the reason she accepted this mission was to unlock the riddle of her mysterious origins. And since her husband turned out to be a member of Species 8472 (_awkward!_) I think just about anything is possible.
