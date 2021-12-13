@@ -7,7 +7,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 phase = "Phase Two: Destiny and Aftermath"
 rating = 3
 show_reading_time = true
-tags = ["Relaunch", "Voyager", "Star Trek"]
+tags = ["Kirsten Beyer", "Relaunch", "Voyager", "Star Trek"]
 title = "Star Trek: Voyager: Children of the Storm book review"
 weight = 18
 
