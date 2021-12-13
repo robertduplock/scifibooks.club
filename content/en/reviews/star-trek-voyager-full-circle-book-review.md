@@ -7,7 +7,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 phase = "Phase Two: Destiny and Aftermath"
 rating = 4.5
 show_reading_time = true
-tags = ["Relaunch", "Voyager", "Star Trek"]
+tags = ["Kirsten Beyer", "Relaunch", "Voyager", "Star Trek"]
 title = "Star Trek: Voyager: Full Circle book review"
 weight = 15
 
