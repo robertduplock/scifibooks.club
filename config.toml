@@ -10,7 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 9
 googleAnalytics = ""
 enableRobotsTXT = true
-disqusShortname = ""
+disqusShortname = "scifibooks-club"
 
 [languages]
   [languages.en]
