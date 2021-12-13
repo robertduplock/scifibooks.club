@@ -7,7 +7,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 phase = "Phase Two: Destiny and Aftermath"
 rating = 4.5
 show_reading_time = true
-tags = ["Star Trek", "Relaunch", "Voyager"]
+tags = ["Kirsten Beyer", "Star Trek", "Relaunch", "Voyager"]
 title = "Star Trek: Voyager: Unworthy book review"
 weight = 16
 
