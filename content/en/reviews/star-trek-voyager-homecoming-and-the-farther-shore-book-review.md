@@ -7,9 +7,9 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 phase = ""
 rating = 3
 show_reading_time = true
-tags = ["Voyager", "Star Trek"]
+tags = ["Christie Golden", "Voyager", "Star Trek"]
 title = "Star Trek: Voyager: Homecoming and The Farther Shore book review"
-weight = 0
+weight = nil
 
 +++
 After seven long years stranded in the Delta Quadrant, Janeway brought her crew back to the little blue planet she, and so many of her crew, called home. And cut. Draw the curtains and clean the stage. _Voyager_ is home. Of course, all good Trek geeks turn to the books to continue the events once the show ends. Thus, Voyager's relaunch is here, and veteran author Christie Golden is in charge.
