@@ -9,7 +9,7 @@ rating = 4
 show_reading_time = true
 tags = ["Niven & Pournelle", "Aliens", "Space opera"]
 title = "The Mote In God's Eye book review"
-weight = nil
+weight = 1
 
 +++
 Published in 1974, _The Mote In God’s Eye_ was a runaway success. It fused the space opera of Star Trek, the world building of Dune, and the militaristic elements of Starship Troopers. It’s 537 pages of space faring goodness. And if you think Europe has a lot of museums, just wait until you get to Mote Prime.
