@@ -21,10 +21,6 @@ fields:
   config:
     required: false
   label: Inline image
-- type: text
-  name: phase
-  label: Phase
-  default: 'Phase Two: Destiny and Aftermath'
 - type: list
   name: tags
   label: Tags
