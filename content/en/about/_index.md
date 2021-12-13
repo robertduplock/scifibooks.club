@@ -11,4 +11,4 @@ Keep an eye out in the future for more science fiction book reviews, author inte
 
 ### Send us something
 
-We happily accept books for review (epub format please). Just send us a note on the [contact form](Contact Us "/contact") and we'll share out contact details.
+We happily accept books for review (epub format please). Just send us a note on the [contact form](/contact) and we'll share out contact details.
