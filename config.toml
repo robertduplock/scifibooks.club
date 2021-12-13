@@ -46,6 +46,8 @@ disqusShortname = "scifibooks-club"
   custom_css = ["css/styles.css"]
   recent_copy = "Latest reviews"
   env = "production"
+  # Images can be used in twitter cards etc.
+  images = ["/images/social_media_card.jpg"]
 
 [taxonomyPageList]
   other = "Results for “{{ .Title }}”"
