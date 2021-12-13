@@ -39,6 +39,7 @@ fields:
   default: 0
   config:
     required: true
+  description: The series number. Set to zero if no series.
 - type: boolean
   name: show_reading_time
   label: Show reading time
