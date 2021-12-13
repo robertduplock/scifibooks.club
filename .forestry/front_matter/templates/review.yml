@@ -36,6 +36,9 @@ fields:
 - type: number
   name: weight
   label: Weight
+  default: 0
+  config:
+    required: true
 - type: boolean
   name: show_reading_time
   label: Show reading time
