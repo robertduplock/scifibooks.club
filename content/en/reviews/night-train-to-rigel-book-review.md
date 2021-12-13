@@ -3,7 +3,6 @@ book_author = "Timothy Zahn"
 book_title = "Night Train to Rigel"
 date = 2021-12-13T02:37:24Z
 description = "Book review of Night Train to Rigel by Timothy Zahn"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312062290l/29455.jpg"
 phase = ""
 rating = 9
@@ -49,4 +48,4 @@ I enjoyed the imagery of a train carriage filled with a bunch of Star Wars-esque
 
 When he's not writing books about space trains, Mr Zahn is most famous for his Star Wars novels — in particular the _Heir to the Empire_ series featuring his original bad-guy creation Grand Admiral Thrawn. I've never read a Star Wars tie-in novel, but if I intended to I would start there.
 
-Overall, _Night Train to Rigel_ was exactly the book I needed to read during a stressful and disruptive time in my life. _It's fun_. It's a humorous and light-hearted read that doesn't take itself too seriously.
+Overall, _Night Train to Rigel_ was exactly the book I needed to read during a stressful and disruptive time in my life. _It's fun_. It's a humorous and light-hearted read that doesn't take itself too seriously. Pick it up if you're in the right mood, and enjoy the ride.
