@@ -10,4 +10,5 @@ fields:
   label: date
   default: now
 pages:
+- content/en/blog/science-fiction-book-reviews.md
 - content/en/blog/star-trek-voyager-complete-series-rewatch-and-review.md
