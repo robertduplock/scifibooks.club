@@ -1,5 +1,6 @@
 +++
 date = 2021-08-25T04:13:18Z
+tags = ["Star Trek", "Blog"]
 title = "Star Trek: Voyager complete series rewatch and review"
 
 +++
