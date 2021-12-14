@@ -12,8 +12,6 @@ Recently, I did a re-watch of _Star Trek: Voyager_. From _Caretaker_ to _Endgame
 
 I have a bit of a mixed history with _Voyager_. I watched the show when it first aired. Here in Australia, it aired every Thursday, 11pm, on Channel 9. I was just 12-13 years old, when I watched the premier double episode, _Caretaker_. Until that point, I'd been a casual, newish fan of _The Original Series_, which I liked mainly for its fun, retro aesthetic and creative plotlines.
 
-![](https://www.nerdinfinite.com/wp-content/uploads/2018/03/Star-Trek-Voyager-Season-3-Postere.jpg)
-
 _Voyager_ was the new, shiny Trek. Each Thursday night, I'd set the VCR to time-record the show on VHS tape. As the show continued on, I missed a few episodes here and there. I watched a fair bit of it, but never saw it through to the end. I'm not sure it was just my tumultuous teenage years getting int the way, or if Channel 9 stopped airing the show. Either way, _Voyager_ was an unfinished chapter for me. I never knew if or how the crew made their way home.
 
 Many years later, as a casual Trek fan, I discovered _The Next Generation_. Despite the shaky first couple of seasons, I grew to like, then really like, then love the show. TNG remains for me the pinnacle of Trek. At its best, TNG was in a league of its own.

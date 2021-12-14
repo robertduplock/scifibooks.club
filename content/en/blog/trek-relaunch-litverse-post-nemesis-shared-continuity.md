@@ -1,6 +1,9 @@
 ---
 title: Star Trek Books Explainer
 date: 2021-08-24T15:52:31+10:00
+tags: 
+- "Star Trek"
+- "Blog"
 
 ---
 Confused about all the Star Trek books? Confused by all the terms: Relaunch, litverse, post-Nemesis continuity? Not sure where and how to start with Treklit? This article is a simple explainer.
