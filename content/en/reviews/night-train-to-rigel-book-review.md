@@ -6,11 +6,11 @@ description = "Book review of Night Train to Rigel by Timothy Zahn"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312062290l/29455.jpg"
 phase = ""
 rating = 4
+series = ["Quadrail"]
 show_reading_time = true
 tags = ["Not Star Trek", "Timothy Zahn", "Space opera"]
 title = "Night Train to Rigel book review"
 weight = 1
-series = ["Quadrail"]
 
 +++
 Space trains.
@@ -21,7 +21,7 @@ Enter the first entry in Mr Zahn's _Quadrail_ series.
 
 **Spoilers ahead**
 
-<!-- more -->
+<!--more-->
 
 The book starts with a classic Timothy Zahn hook. Frank Compton is a down-on-his-luck former Western Alliance Intelligence Agent, is visited by a mysterious stranger — who, of course, winds up dead by chapter 2. It turns out the Spiders, who run the Quadrail (an interstellar train system) need some help. Their trains are super safe, except someone has found out how to smuggle weapons on board, and that is most definitely not allowed if you read their Ts&Cs carefully. The Spiders run the trains, but no one knows who or what they are.
 
@@ -35,7 +35,7 @@ The book draws obvious inspiration from classic spy-thriller movies such as Hitc
 
 The story has plenty of twists and turns. Perhaps a few too many twists and turns, actually, as at times the story can get muddled and confusing. And the whole thing is a little bit silly. But then, it's not a book you are supposed to take seriously. Rather, it's a whole lot of schlocky, pulpy fun.
 
-A minor quibble I had was the distinct lack of female characters. To my count, the book totals one solitary female in the named cast. Bayta. By today's standards, that's not great. It didn't stop me from enjoying the story, but it could put a lot of people off. 
+A minor quibble I had was the distinct lack of female characters. To my count, the book totals one solitary female in the named cast. Bayta. By today's standards, that's not great. It didn't stop me from enjoying the story, but it could put a lot of people off.
 
 Probably the best part of _Night Train to Rigel_ is Mr Zahn's wonderful world-building, which includes an incredible cast of kooky and peculiar aliens. I enjoyed the imagery of a train carriage filled with a bunch of Star Wars-esque aliens, chattering away in exotic languages and eating strange foods. Add to that the number of little details; self-wheeling luggage, ditrecs (what they call movies in the future), and shady secret agents, and it adds up to a slightly bumpy but absolutely enjoyable ride.
 
