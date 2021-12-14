@@ -5,18 +5,18 @@ date = 2021-12-02T05:07:37Z
 description = "Book review of Star Trek: Voyager: Children of the Storm by Kirsten Beyer"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348647093l/10256068.jpg"
 rating = 3
+series = ["Star Trek: Post-Nemesis Relaunch"]
 show_reading_time = true
 tags = ["Kirsten Beyer", "Relaunch", "Voyager", "Star Trek"]
-series = ["Star Trek: Post-Nemesis Relaunch"]
 title = "Star Trek: Voyager: Children of the Storm book review"
 weight = 18
 
 +++
 Following up from two popular and successful Voyager novels, author Kirsten Beyer is back with her third post-_Destiny_ Voyager instalment. _Children Of The Storm_ takes place concurrently with the previous novel, _Unworthy_. Can Beyer score a hat-trick with book #3?
 
-**Spoilers ahead!**
+**Spoilers ahead**
 
-<!-- more -->
+<!--more-->
 
 The titular “Children of the Storm” were first mentioned in David Mack’s _Destiny_ trilogy. I don’t remember them, but apparently, they didn’t feature as much more than a throwaway line or two. Something about them caught Ms Beyer’s eye, and thus she decided to expand the idea into a full-blown novel.
 
