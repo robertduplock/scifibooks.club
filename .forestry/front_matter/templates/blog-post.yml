@@ -9,6 +9,13 @@ fields:
   name: date
   label: date
   default: now
+- name: tags
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Tags
 pages:
 - content/en/blog/science-fiction-book-reviews.md
 - content/en/blog/star-trek-voyager-complete-series-rewatch-and-review.md
