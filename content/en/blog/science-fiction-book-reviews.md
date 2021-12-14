@@ -1,6 +1,6 @@
 +++
 date = 2021-12-14T03:50:30Z
-tags = ["Blog"]
+tags = ["Listicle", "Blog"]
 title = "Science fiction book reviews"
 
 +++
