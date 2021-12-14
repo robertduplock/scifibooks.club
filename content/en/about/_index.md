@@ -15,6 +15,6 @@ We happily accept books for review (epub format please). Just send us a note on 
 
 {{< pullout >}} 
 
-Sci-fi Books Club is an online science fiction book reviews blog, founded in 2021. We offer the best new science fiction book reviews, always reviewing the best authors (and some not-so-great ones too!) 
+Sci-fi Books Club is an online science fiction book reviews blog, founded in 2021. We offer the best new science fiction book reviews, always reviewing the best authors (and some not-so-great ones too!) We are a must-read for every sci fi fan.
 
 {{< /pullout >}}
