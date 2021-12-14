@@ -9,19 +9,19 @@ At Sci-fi Books Club, we are all about reviewing science fiction books. We read 
 
 When we're not busy reviewing books, we like to read other reviews too! There are a lot of novels out there, many more than we could possibly review even if we lived as long as Leto II. So, here are a few of our favourite sites:
 
-1. [SFF World](https://www.sffworld.com/)
+* [SFF World](https://www.sffworld.com/)
 
 We like SFF world because they are prolific, releasing a new review about once a week. They also have a lively discussion forum! They're a great place for new releases, but not so much the classics.
 
-1. [At Boundary's Edge](https://atboundarysedge.com/)
+* [At Boundary's Edge](https://atboundarysedge.com/)
 
 What can I say — these guys have a similar taste in books to us! Star Trek, Dune and Foundation are all covered here, and plenty more too. ABE also has a love for the pulpy Baen publications, which we adore. Good stuff!
 
-1. [SciFi Chick](https://scifichick.com/)
+* [SciFi Chick](https://scifichick.com/)
 
 Part review site, part geeky blog, SciFi Chick is always a fun read. She/they engage in all kinds of nerd related fun, while still offering plenty of book reviews. Plus they do quite a few giveaways for a reasonably small blog.
 
-1. [Unreality SF](http://unreality-sf.net/)
+* [Unreality SF](http://unreality-sf.net/)
 
 Probably the prettiest site on this list, Unreality SF tends to focus a bit more on the screen, but if you dig into the site a bit you will find a plethora of high-quality book reviews. They have a particular love of tie-in fiction, which is a lot of fun.
 
