@@ -7,7 +7,7 @@
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-    {{ hugo.Generator }}
+
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -43,9 +43,26 @@
     </script>
     <!-- End google tag / analytics -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	  {{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
+
+    {{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
 
     <link rel="canonical" href="{{ .Permalink }}">
+
+    {{/* Not totally sure what this does, but every sci fi review site seems to have it. */}}
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+    {{ if .IsHome }}
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "{{ .Site.Title }}",
+          "description": "{{ $.Param "description" }}",
+          "url": "{{ .Permalink }}",
+          "keywords": "sci fi, science fiction, book, reviews, book reviews, novel reviews, speculative fiction book reviews"
+        }
+      </script>
+    {{ end }}
   
     {{ if eq .Section "reviews" }}
       <script type="application/ld+json">
