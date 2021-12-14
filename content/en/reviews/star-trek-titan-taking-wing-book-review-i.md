@@ -11,7 +11,8 @@ weight: 2
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388357417l/64004.jpg
 show_reading_time: true
 rating: 3.5
-phase: 'Phase One: Lead up to Destiny'
+series:
+- "Star Trek: Post-Nemesis Relaunch"
 book_title: 'Star Trek: Titan: Taking Wing'
 book_author: Michael A. Martin and Andy Mangels
 

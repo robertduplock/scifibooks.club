@@ -7,13 +7,17 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked">
+      <aside class="instapaper_ignoref b helvetica tracked dark-gray">
           {{/*
           CurrentSection allows us to use the section title instead of inferring from the folder.
           https://gohugo.io/variables/page/#section-variables-and-methods
           */}}
-        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
-        {{ if $.Param "weight" }} | #{{ ($.Param "weight") }} {{ end }}
+        {{ with .CurrentSection.Title }} {{ . }} {{ end }}
+        {{ if and ($.Param "weight") ($.Param "series") }}
+          {{ $series := index ($.Param "series") 0 }}
+          |
+          <a class="link dark-gray" href="/series/{{ $series | urlize }}">#{{ $.Param "weight" }} in {{ $series }}</a>
+        {{ end }}
       </aside>
       {{ partial "social-share.html" . }}
       <h1 class="f1 athelas mt3 mb1">
@@ -48,7 +52,7 @@
       </div>
       {{ end }}
     </header>
-    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes" | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes" | default "serif"}} f4 nested-links nested-img dark-gray pr4-l w-two-thirds-l">
       <img style="width: 300px;" loading="lazy" class="fl pr3 pb3 h-auto" src="{{ .Param "inline_image" }}">
       {{- .Content -}}
 

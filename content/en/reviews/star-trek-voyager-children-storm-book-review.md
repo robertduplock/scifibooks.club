@@ -4,10 +4,10 @@ book_title = "Star Trek: Voyager: Children of the Storm"
 date = 2021-12-02T05:07:37Z
 description = "Book review of Star Trek: Voyager: Children of the Storm by Kirsten Beyer"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348647093l/10256068.jpg"
-phase = "Phase Two: Destiny and Aftermath"
 rating = 3
 show_reading_time = true
 tags = ["Kirsten Beyer", "Relaunch", "Voyager", "Star Trek"]
+series = ["Star Trek: Post-Nemesis Relaunch"]
 title = "Star Trek: Voyager: Children of the Storm book review"
 weight = 18
 

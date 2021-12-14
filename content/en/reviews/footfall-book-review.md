@@ -4,7 +4,6 @@ book_title = "Footfall"
 date = 2021-08-27T02:42:54Z
 description = "Book review of Footfall by Larry Niven and Jerry Pournelle"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320440216l/116356.jpg"
-phase = ""
 rating = 4.5
 show_reading_time = true
 tags = ["Invasion", "Aliens"]

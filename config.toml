@@ -73,16 +73,7 @@ disqusShortname = "scifibooks-club"
     name = "Contact"
     URL = '/contact'
     weight = 5
-
-  # Reviews sub menu  
-  [[menu.top]]
-    name = "All books"
-    URL = '/reviews'
-    weight = 1
-    parent = "reviews"
-  [[menu.top]]
-    name = "Star Trek (relaunch)"
-    URL = '/tags/relaunch'
-    weight = 5
-    parent = "reviews"
-
+    
+[taxonomies]
+   tag = "tags"
+   series = "series"

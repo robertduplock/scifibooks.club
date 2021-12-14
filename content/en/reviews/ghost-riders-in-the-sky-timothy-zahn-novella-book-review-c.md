@@ -9,7 +9,7 @@ weight: 0
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586532404l/53105121._SY475_.jpg
 show_reading_time: true
 rating: 4
-phase: ''
+weight: 0
 book_title: Ghost Riders In The Sky
 book_author: Timothy Zahn
 

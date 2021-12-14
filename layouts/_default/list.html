@@ -1,9 +1,26 @@
 {{ define "main" }}
 <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-  <section class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
+
+  <!-- List the series on review pages -->
+  {{ if eq .Section "reviews" }}
+  <section>
+    <h2 class="flex justify-center">Book series</h2>
+    <div class="flex justify-center nested-links">
+      <ul class="center">
+        {{ range .Site.Taxonomies.series }}
+        <li class="list di mr2">
+          <a class="link f5 no-underline br-pill ba ph3 pv2 mb2 dib blue sans-serif" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+  {{ end }}
+
+  <section class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy dark-gray">
     {{- .Content -}}
   </section>
-  <section class="flex-ns flex-wrap justify-around mt5">
+  <section class="flex-ns flex-wrap justify-around mt4">
     {{ range (.Paginate .Pages.ByDate.Reverse).Pages.ByDate.Reverse }}
     <div class="relative w-100 w-30-l mb4 bg-white shadow-1 br2 overflow-hidden">
       {{- partial "summary.html" . -}}

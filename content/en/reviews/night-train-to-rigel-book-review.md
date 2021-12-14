@@ -10,6 +10,7 @@ show_reading_time = true
 tags = ["Not Star Trek", "Timothy Zahn", "Space opera"]
 title = "Night Train to Rigel book review"
 weight = 1
+series = ["Quadrail"]
 
 +++
 Space trains.

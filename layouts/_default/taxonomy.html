@@ -1,38 +1,24 @@
 {{ define "main" }}
-  {{/*  Star Trek: Relaunch titles have their own special list.  */}}
-  {{ if eq $.Data.Term "Relaunch" }}
-    <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-      <!-- @todo make this a parameter based on term name -->
-      <h4 class="tc">Star Trek: Relaunch (post Nemesis litverse).</h4>
-      <p class="tc">All the books set out to be read continue the events of TNG, DS9, and VOY beyond the final filmed events of the franchise, Star Trek: Nemesis.</p>
-      <p class="tc"><a href="/tags/star-trek/">All Star Trek Book Reviews</a></p>
-      <p class="tc"><a href="/reviews/">All Book Reviews</a></p>
-      <section class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
-        {{- .Content -}}
-      </section>
-      <!-- @todo Paginate this somehow -->
-      {{ range .Pages.GroupByParam "phase" }}
-      <div class="tc"><h2>{{ .Key }}</h2></div>
-      <section class="flex-ns flex-wrap justify-around mt5">
+  <article class="cf pa3 pa4-m pa4-l">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
+    </div>
+  </article>
+  <div class="mw8 center">    
+    <section class="flex-ns flex-wrap justify-around mt4">
+
+      {{ if eq .Section "series" }}
         {{ range .Pages.ByWeight }}
-        <div class="relative w-100 w-30-l mb4 bg-white shadow-1 br2 overflow-hidden">
-          {{- partial "summary.html" . -}}
-        </div>
-        {{ end }}
-      </section>
-      {{ end }}
-      <!-- {{- template "_internal/pagination.html" . -}} -->
-    </article>
-  {{ else }}
-    {{/*  Default listing for other taxonomies  */}}
-    <div class="mw8 center">    
-      <section class="flex-ns flex-wrap justify-around mt5">
-        {{ range .Pages }}
-          <div class="relative w-100  mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white">
             {{ partial "summary.html" . }}
           </div>
         {{ end }}
-      </section>
-    </div>
-  {{ end }}
+      {{ else }}
+        {{ range .Pages }}
+          <div class="relative w-100 mb4 bg-white">
+            {{ partial "summary.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+    </section>
+  </div>
 {{ end }}

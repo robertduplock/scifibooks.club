@@ -10,6 +10,7 @@ show_reading_time = true
 tags = ["Science fiction", "Space opera"]
 title = "Foundation book review"
 weight = 1
+series = ["Foundation"]
 
 +++
 Books don’t get much bigger than Asimov’s _Foundation_. Awarded “Best All-Time Series” in 1966, _Foundation_ was a trailblazer — some say it even invented the space opera genre. Needless to say, it’s difficult not to have high expectations.

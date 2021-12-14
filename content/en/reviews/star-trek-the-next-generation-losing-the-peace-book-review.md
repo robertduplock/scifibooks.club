@@ -2,7 +2,7 @@
 date = 2021-08-22T10:58:56Z
 description = "Book review of Star Trek: The Next Generation: Losing the Peace by William Leisner"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613734199l/6151033._SY475_.jpg"
-phase = "Phase Two: Destiny and Aftermath"
+series = ["Star Trek: Post-Nemesis Relaunch"]
 rating = 3.5
 show_reading_time = true
 tags = ["Relaunch", "The Next Generation", "Star Trek"]

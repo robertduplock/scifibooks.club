@@ -10,7 +10,8 @@ weight: 6
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388697201l/422912.jpg
 show_reading_time: true
 rating: 3
-phase: 'Phase One: Lead up to Destiny'
+series: 
+- "Star Trek: Post-Nemesis Relaunch"
 book_title: 'Star Trek: The Next Generation: Resistance'
 book_author: J.M. Dillard.
 
