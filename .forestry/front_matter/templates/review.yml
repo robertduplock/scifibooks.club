@@ -21,14 +21,14 @@ fields:
   config:
     required: false
   label: Inline image
+- type: number
+  name: rating
+  label: Rating
 - type: list
   name: tags
   label: Tags
   config:
     use_select: false
-- type: number
-  name: rating
-  label: Rating
 - type: number
   name: weight
   label: Weight
@@ -36,10 +36,6 @@ fields:
   config:
     required: true
   description: The series number. Set to zero if no series.
-- type: boolean
-  name: show_reading_time
-  label: Show reading time
-  default: true
 - name: book_title
   type: text
   config:
@@ -50,6 +46,10 @@ fields:
   config:
     required: false
   label: Book author
+- type: boolean
+  name: show_reading_time
+  label: Show reading time
+  default: true
 pages:
 - content/en/reviews/footfall-book-review.md
 - content/en/reviews/foundation-book-review.md
