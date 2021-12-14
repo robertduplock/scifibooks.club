@@ -29,6 +29,14 @@ fields:
   label: Tags
   config:
     use_select: false
+- name: series
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Series
+  description: For best results, only one series.
 - type: number
   name: weight
   label: Weight
