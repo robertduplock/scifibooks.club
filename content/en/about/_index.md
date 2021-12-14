@@ -12,3 +12,9 @@ Keep an eye out in the future for more science fiction book reviews, author inte
 ### Send us something
 
 We happily accept books for review (epub format please). Just send us a note on the [contact form](/contact) and we'll share our contact details.
+
+{{< pullout >}} 
+
+Sci-fi Books Club is an online science fiction book reviews blog, founded in 2021. We offer the best new science fiction book reviews, always reviewing the best authors (and some not-so-great ones too!) 
+
+{{< /pullout >}}
