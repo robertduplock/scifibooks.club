@@ -21,10 +21,6 @@ fields:
   config:
     required: false
   label: Inline image
-- type: text
-  name: phase
-  label: Phase
-  default: 'Phase Two: Destiny and Aftermath'
 - type: list
   name: tags
   label: Tags
@@ -36,6 +32,10 @@ fields:
 - type: number
   name: weight
   label: Weight
+  default: 0
+  config:
+    required: true
+  description: The series number. Set to zero if no series.
 - type: boolean
   name: show_reading_time
   label: Show reading time
