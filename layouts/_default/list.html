@@ -20,6 +20,7 @@
   <section class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy dark-gray">
     {{- .Content -}}
   </section>
+
   <section class="flex-ns flex-wrap justify-around mt4">
     {{ range (.Paginate .Pages.ByDate.Reverse).Pages.ByDate.Reverse }}
     <div class="relative w-100 w-30-l mb4 bg-white shadow-1 br2 overflow-hidden">

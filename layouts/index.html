@@ -1,5 +1,4 @@
 {{ define "main" }}
-
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy dark-gray">
     {{ .Content }}
   </article>
@@ -69,7 +68,12 @@
         <a href="/blog" class="link db f6 pa2 br3 bg-dark-gray white dim w4 tc">All blog posts</a>
       </section>
 
-      </div>
+      <section class="w-100 mt5">
+        <h2>Tag cloud</h2>
+        {{- partial "tag-cloud.html" . -}}
+      </section>
+
+    </div>
   {{ end }}
 
 {{ end }}
