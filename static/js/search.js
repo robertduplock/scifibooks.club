@@ -58,8 +58,6 @@
         resultElement.classList.remove('dn');
       });
 
-      console.log(results);
-
     })
     .catch((err) => {
       console.log({ err });
