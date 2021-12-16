@@ -8,59 +8,66 @@ googleAnalytics = ""
 languageCode = "en-us"
 theme = "ananke"
 title = "Sci-fi Books Club"
+
 [languages.en]
-contentDir = "content/en"
-title = "Sci-fi Books Club"
-weight = 1
+  contentDir = "content/en"
+  title = "Sci-fi Books Club"
+  weight = 1
+
 [[menu.top]]
-URL = "/reviews"
-identifier = "reviews"
-name = "Reviews"
-weight = 1
+  URL = "/reviews"
+  identifier = "reviews"
+  name = "Reviews"
+  weight = 1
 [[menu.top]]
-URL = "/about"
-identifier = "about"
-name = "About"
-weight = 3
+  URL = "/about"
+  identifier = "about"
+  name = "About"
+  weight = 3
 [[menu.top]]
-URL = "/blog"
-identifier = "blog"
-name = "Blog"
-weight = 3
+    URL = "/blog"
+    identifier = "blog"
+    name = "Blog"
+    weight = 3
 [[menu.top]]
-URL = "/contact"
-identifier = "contact"
-name = "Contact"
-weight = 5
+    URL = "/contact"
+    identifier = "contact"
+    name = "Contact"
+    weight = 5
+
 [params]
-background_color_class = "bg-black"
-custom_css = ["css/styles.css"]
-custom_js = ["js/script.js"]
-description = "Sci-fi Books Club is an online science fiction book reviews blog, founded in 2021. We offer the best new science fiction book reviews, reviewing the best authors. We are a must-read for every sci fi fan, who is looking for new scifi books to read."
-env = "production"
-facebook = ""
-favicon = "/favicon.ico"
-featured_image = "/images/bg1.jpg"
-github = ""
-gitlab = ""
-images = ["/images/social_media_card.jpg"]
-instagram = ""
-linkedin = ""
-mastodon = ""
-recent_copy = "Latest reviews"
-recent_posts_number = 4
-rss = ""
-site_logo = "/images/icon2.png"
-slack = ""
-stackoverflow = ""
-twitter = ""
-youtube = ""
+    background_color_class = "bg-black"
+    custom_css = ["css/styles.css"]
+    custom_js = ["js/script.js"]
+    description = "Sci-fi Books Club is an online science fiction book reviews blog, founded in 2021. We offer the best new science fiction book reviews, reviewing the best authors. We are a must-read for every sci fi fan, who is looking for new scifi books to read."
+    env = "production"
+    facebook = ""
+    favicon = "/favicon.ico"
+    featured_image = "/images/bg1.jpg"
+    github = ""
+    gitlab = ""
+    images = ["/images/social_media_card.jpg"]
+    instagram = ""
+    linkedin = ""
+    mastodon = ""
+    recent_copy = "Latest reviews"
+    recent_posts_number = 4
+    rss = ""
+    site_logo = "/images/icon2.png"
+    slack = ""
+    stackoverflow = ""
+    twitter = ""
+    youtube = ""
+
 [sitemap]
-changefreq = "monthly"
-filename = "sitemap.xml"
-priority = 0.5
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 [taxonomies]
-series = "series"
-tag = "tags"
+  series = "series"
+  tag = "tags"
+
 [taxonomyPageList]
-other = "Results for “{{ .Title }}”"
+  other = "Results for “{{ .Title }}”"
+
