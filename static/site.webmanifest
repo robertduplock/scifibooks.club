@@ -1,0 +1,14 @@
+{
+    "name": "Sci-fi Books Club",
+    "short_name": "Sci-fi Books Club",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#efffff",
+    "background_color": "#efffff",
+    "display": "standalone"
+}
