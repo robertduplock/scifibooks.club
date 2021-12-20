@@ -4,7 +4,10 @@
     {
       "id": "{{- .RelPermalink -}}",
       "title": "{{- .Title -}}",
-      "content": {{- .Content | plainify | jsonify -}}
+      "content": {{- .Content | plainify | jsonify -}},
+      "summary": {{- .Summary | plainify | jsonify -}},
+      "section": "{{- .Section -}}",
+      "tags": {{- .Params.tags | jsonify -}}
     }
   {{ end }}
 ]

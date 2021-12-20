@@ -11,15 +11,7 @@
     </p>
   </div>
   <div class="pa3 pa4-ns w-100 w-60-ns center" style="min-height: 40vh;" id="search-results-container">
-    {{ range $index, $value := where .Site.Pages "Type" "in" (slice "reviews" "blog" "about")  }}
-      <div class="pa2 pa3-ns bb b--black-20 dn" id="{{ .RelPermalink }}">
-        <a class="link dark-gray flex" href="{{ .Permalink }}">
-          <span class="b f4">{{ .Title }}</span>
-          <span class="pt1 ml2">[{{- humanize .Section | singularize -}}]</span>
-        </a>
-        <p>{{ .Summary | safeHTML | truncate 100 }}</p>
-      </div>
-    {{ end }}
+    <!-- Search results render here -->
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
