@@ -6,7 +6,7 @@ description = "Book review of God Emperor of Dune by Frank Herbert"
 draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564025916l/44439415._SY475_.jpg"
 rating = 3.5
-series = []
+series = ["Dune"]
 show_reading_time = true
 tags = ["Not Star Trek", "Space Opera", "Dune"]
 title = "God Emperor of Dune book review"
@@ -27,7 +27,7 @@ In an excellent review of _God Emperor of Dune_, found on [Tor.com](https://www.
 
 It's a reasonable position to take. Each book, at least thus far, has become increasingly challenging to read. Gone is the epic, Shakespearean adventure found in the original Dune. Love, lust, betrayal, murder, politics, backstabbing — and that spicy cinnamon-scented melange. Oh yes, the first book is layered and deep — and yet totally engrossing and virtually _unputdownable_. 
 
-Evidence suggests that Frank Herbert was never really that interested in writing the Dune sequels. From the second book (_Dune Messiah_) onwards, the books take a pivotal turn. Gone is the heady sense of adventure. Instead, the books become something of a slow-burn — drawn out and philosophical. I can't help but feel his publishers pressured him into writing more Dune novels, and Herbert buried his sense of resentment between the lines of those books.
+Evidence suggests that Frank Herbert was never really that interested in writing the Dune sequels. From the second book (_Dune Messiah_) onwards, the books take a pivotal turn. Gone is the heady sense of adventure. Instead, the books become something of a slow-burn — drawn out and philosophical. I can't help but feel his publishers pressured him into writing more Dune novels, and Herbert buried his sense of resentment between the lines of those books. Herbet always straddled the fine line between genre fiction and literary fiction, with the later books attempting to land in the latter category. 
 
 _God Emperor of Dune_ starts out with a beautifully crafted action scene, in which Siona and her rebellious friends are running away from Leto's Citadel, chased by a pack of bloodthirsty D-wolves. After _Children of Dune_, it had taken me a good while to work up the courage to crack of the covers of this one — but then the opening scene! I was cautiously optimistic the book might get less bogged down in pseudo-philosophical ramblings than it's predecessor.
 
@@ -41,4 +41,12 @@ The book promises a rebellion, lead by Siona, against the 3000 year despotic rul
 
 The book is crammed with long, talky scenes filled with pseudo-philosophical dialogue that barely advances the plot. The introduction of Duncan ghola does introduce some tension, and he steadfastly refuses to bend the knee and acknowledge Leto and the god emperor. 
 
-And yet somehow I found myself often having a fun time reading it. There are some positives. For starters, the story is a lot less confusing than _Children of Dune_. And when the story does pick up, such as the scene where Duncan climbs the great wall of  
+And yet somehow I found myself often having a fun time reading it. There are some positives. For starters, the story is a lot less confusing than _Children of Dune_. And when the story does pick up, such as the scene where Duncan climbs the great wall in order to take a shot at Leto before his wedding, the book showcases Herbert's ability to write such scenes with grace and style. 
+
+_God Emperor of Dune_ could have been a lot more interesting if we'd stayed, at least in part, with Siona and her band of rebels. It's the shame the book focuses almost solely on Leto, with his supporting cast of Duncan, Moneo and Hwi. The book teases with entertainment, and then bludgeons the reader with tedium. 
+
+There is a great scene where Malky is brought in — the old, curmudgeonly Ixian ambassador doesn't hesitate to give Leto a piece of his mind. He's a great character, unafraid to tell it like it is. But of course, he only lasts one scene before he's nixed. That's how it goes with the Dune sequels; a brief flash of joy snuffed out before it has time to shine.
+
+It's also become obvious that the Dune books will never build out the broader universe. Herbert's world-building is unparalleled, but we never get to _experience_ that world. Instead, we remain stuck on Arrakis. We never get to visit Ix, Caladan or Tleilax. We never spend any meaningful time with members of the Guild as they traverse space, or the Bene Gesserit as they do their thing. Instead, it's always an Atreides, always on Arrakis, always talking and rarely _doing_ anything.
+
+In and of itself, _God Emperor of Dune_ is an average book, which leverages the power of the original Dune to propel itself into forward. It's a hard book to rate. As I read it, I fluctuated between 2.5 starts through to 4 stars. In the end, I am a big Dune fan and I guess I find myself willing to forgive it's flaws simple because it's nice to be back in that world again.
