@@ -9,7 +9,7 @@ series = ["Dune"]
 show_reading_time = true
 tags = ["Not Star Trek", "Space Opera", "Dune"]
 title = "God Emperor of Dune book review"
-weight = 0
+weight = 4
 
 +++
 🎵 _Jetsons theme song plays_ 🎵
