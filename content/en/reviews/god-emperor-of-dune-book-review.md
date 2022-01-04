@@ -21,7 +21,7 @@ Meet Emperor Leto... His boy Duncan... Daughter Siona... Hwi his wife...
 
 **Spoiler review: God Emperor of Dune**
 
-<!-- more -->
+<!--more-->
 
 In an excellent review of _God Emperor of Dune_, found on [Tor.com](https://www.tor.com/2018/11/07/the-one-book-that-made-me-take-the-long-view-of-the-future-god-emperor-of-dune/), author Jo Walton is quoted as saying: "\[...\] each of Frank Herbert's Dune novels is about half as good as the one before it."
 
