@@ -3,7 +3,6 @@ book_author = "Frank Herbert"
 book_title = "God Emperor of Dune"
 date = 2022-01-03T00:50:50Z
 description = "Book review of God Emperor of Dune by Frank Herbert"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564025916l/44439415._SY475_.jpg"
 rating = 3.5
 series = ["Dune"]
@@ -39,9 +38,9 @@ The book promises a rebellion led by Siona against the 3000-year despotic rule o
 
 > \[...\] Strap yourself in for \[...\] People sitting and talking... Standing and talking... Walking and talking... One person standing and talking while another is sitting and talking... People standing and talking then taking a seat for more talking...
 
-The book is crammed with long, talky scenes overflowing with pseudo-philosophical dialogue that barely advances the plot. However, the appearance of Duncan (in ghola form, of course) does introduce some tension as he steadfastly refuses to bend the knee and acknowledge Leto and the god-emperor supreme.
+The book is crammed with long, talky scenes overflowing with pseudo-philosophical dialogue that barely advances the plot. However, the appearance of Duncan (in ghola form, of course) does introduce some tension as he steadfastly refuses to bend the knee and acknowledge Leto as the god-emperor supreme.
 
-And yet, despite its shortcomings, I found myself having a pretty fun time reading it. There are _some_ positives. For starters, the story is a lot less confusing than _Children of Dune_. And when the action does pick up, such as the scene where Duncan climbs the great wall to take a shot at Leto before his wedding, it is genuinely exhilarating.
+And yet, despite its shortcomings, I found myself having a pretty fun time reading it. There are _some_ positives. For starters, the story is a lot less confusing than _Children of Dune_. And when the action does pick up, such as the scene in which Duncan climbs the great wall to take a shot at Leto before his wedding, it is genuinely exhilarating.
 
 {{< pullout >}}
 And yet, despite its shortcomings, I found myself having a pretty fun time reading it.
