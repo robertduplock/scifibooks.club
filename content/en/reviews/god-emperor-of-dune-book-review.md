@@ -43,6 +43,10 @@ The book is crammed with long, talky scenes overflowing with pseudo-philosophica
 
 And yet, despite its shortcomings, I found myself having a pretty fun time reading it. There are _some_ positives. For starters, the story is a lot less confusing than _Children of Dune_. And when the action does pick up, such as the scene where Duncan climbs the great wall to take a shot at Leto before his wedding, it is genuinely exhilarating.
 
+{{< pullout >}}
+And yet, despite its shortcomings, I found myself having a pretty fun time reading it.
+{{< /pullout >}}
+
 _God Emperor of Dune_ could have been a lot more interesting if we'd stayed, at least in part, with Siona and her band of rebels. It's a shame the book focuses almost solely on Leto, with a supporting cast of Duncan, Moneo and Hwi. The book teases with entertainment and then bludgeons the reader with tedium.
 
 To further demonstrate my point: there is a great scene where Malky is brought in. The old, curmudgeonly Ixian ambassador doesn't hesitate to give Leto a piece of his mind. He's a great character, unafraid to tell it like it is. But of course, he only lasts one scene before he's nixed. That's how it goes with the Dune sequels; a brief flash of joy snuffed out before it has time to shine.
