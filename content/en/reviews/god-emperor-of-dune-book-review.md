@@ -29,7 +29,7 @@ It's a reasonable position to take. The original Dune novel was rich, layered an
 
 Evidence suggests that Frank Herbert was never interested in writing the Dune sequels. However, from the second book (_Dune Messiah_) onwards, Herbert pivots to a different kind of storytelling. The Dune sequels are a slow-burn — drawn out and philosophical. Perhaps feeling pressure from his publishers to write more sandy, spice-fueled adventures, Herbert seemed to bury a sense of quiet resentment between the lines.
 
-After finishing the previous entry, _Children of Dune_, it took me a good while to work up the courage to crack of the covers of this one... But then I started reading, and I was floored by the power and excitement of the opening scene. _God Emperor of Dune_ begins with a beautifully crafted action piece. Siona and her rebellious friends are running away from Leto's Citadel, chased by a pack of bloodthirsty d-wolves. Based on the book's opening, I was cautiously optimistic it might get less bogged down in pseudo-philosophical ramblings than its predecessor.
+After finishing the previous entry, _Children of Dune_, it took me a good while to work up some courage and crack open the covers of this one... But then I started reading, and I was floored by the power and excitement of the opening scene. _God Emperor of Dune_ begins with a beautifully crafted action piece. Siona and her rebellious friends are running away from Leto's Citadel, chased by a pack of bloodthirsty d-wolves. Based on the book's opening, I was cautiously optimistic it might get less bogged down in pseudo-philosophical ramblings than its predecessor.
 
 Boy, was I wrong.
 
