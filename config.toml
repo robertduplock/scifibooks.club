@@ -28,12 +28,17 @@ title = "Sci-fi Books Club"
     URL = "/blog"
     identifier = "blog"
     name = "Blog"
-    weight = 3
+    weight = 5
+[[menu.top]]
+    URL = "/fiction"
+    identifier = "fiction"
+    name = "Fiction"
+    weight = 7
 [[menu.top]]
     URL = "/contact"
     identifier = "contact"
     name = "Contact"
-    weight = 5
+    weight = 9
 
 [params]
     background_color_class = "bg-black"
