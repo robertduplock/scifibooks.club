@@ -1,6 +1,6 @@
 +++
 date = 2022-01-05T00:00:00Z
-description = "Star Trek: Aventine"
+description = "Author: Robert Duchey"
 featured_image = "/images/uss_aventine_star_trek.jpeg"
 tags = ["Fiction", "Fan fiction", "Star Trek"]
 title = "Star Trek: Aventine: Ezri Dax Is One"
