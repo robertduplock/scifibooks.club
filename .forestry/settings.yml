@@ -4,17 +4,17 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
+- type: document
+  path: config.toml
+  label: Site Settings
+- type: document
+  path: content/en/_index.md
+  label: Home
 - type: directory
   path: content/en/about
   label: About
   create: all
   match: "**/*"
-- type: document
-  path: content/en/_index.md
-  label: Home
-- type: document
-  path: config.toml
-  label: Site Settings
 - type: directory
   path: content/en/reviews
   label: Reviews
@@ -25,6 +25,13 @@ sections:
 - type: directory
   path: content/en/blog
   label: Blog
+  create: all
+  match: "**/*"
+  templates:
+  - blog-post
+- type: directory
+  path: content/en/fiction
+  label: Fiction
   create: all
   match: "**/*"
 upload_dir: static/uploads
