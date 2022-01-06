@@ -37,7 +37,7 @@ _I need_ some _excitement in my life._
 After quickly gobbling down a bit of cottage pie and changing clothes, she headed to the turbolift and then down to holodeck 4. Her step lightened as she strode along the corridor, but when she reached the doors, she stopped short. It was taken.
 
 {{< pullout >}}
-Dax was a person of peace, dedicated to peaceful exploration. But as captain of the _Aventine_, she needed to know that when the time came, she could be a warrior too.
+Dax was a person of peace, dedicated to peaceful exploration. But as captain of the Aventine, she needed to know that when the time came, she could be a warrior too.
 {{< /pullout >}}
 
 One of the few perks of being a starship captain is that people generally didn’t try to pinch your holodeck time. She placed her hands on her hips and huffed. “Computer, please tell me who is rude enough to be currently using holodeck 4? I might have some crew demotions to give out.”
