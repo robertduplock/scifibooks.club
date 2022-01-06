@@ -3,7 +3,7 @@ date = 2022-01-05T00:00:00Z
 description = "Star Trek: Aventine"
 featured_image = "/images/uss_aventine_star_trek.jpeg"
 tags = ["Fiction", "Fan fiction", "Star Trek"]
-title = "Dax Les Demoiselles"
+title = "Star Trek: Aventine: Ezri Dax Is One"
 
 +++
 > Historian’s note: This story takes place just after the events depicted in Typhon Pact #1: Zero Sum Game, in which Captain Dax and the _U.S.S. Aventine_ escorts Julian Bashir and Sarina Douglas to the border of Breen space.
