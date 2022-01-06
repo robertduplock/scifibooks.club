@@ -1,120 +1,103 @@
 +++
 date = 2022-01-05T00:00:00Z
+description = "Star Trek: Aventine"
+featured_image = "/images/uss_aventine_star_trek.jpeg"
 tags = ["Fiction", "Fan fiction", "Star Trek"]
 title = "Dax Les Demoiselles"
-description = "Star Trek: Aventine"
-draft = false
-featured_image = "/images/uss_aventine_star_trek.jpeg"
-+++
 
-> Historian’s note: This story takes place just after the events depicted in Typhon Pact #1: Zero Sum Game, in which Captain Dax and the U.S.S. Aventine escorts Julian Bashir and Sarina Douglas to the border of Breen space. 
++++
+> Historian’s note: This story takes place just after the events depicted in Typhon Pact #1: Zero Sum Game, in which Captain Dax and the _U.S.S. Aventine_ escorts Julian Bashir and Sarina Douglas to the border of Breen space.
 
 ### 2382 — U.S.S. Aventine
 
 <!--more-->
 
-Seated in her ready room, Captain Ezri Dax counted the number of padds lined up on her desk. Sixteen. She leaned forward in her chair and pulled the first one from the top. Due 1600 hours: Captain’s report pertaining to the recent incursion along the Breen border. Starfleet priority order six.
+Seated in her ready room, Captain Ezri Dax counted the number of padds lined up on her desk. Sixteen. She pulled the first one from the top and studied the screen: _Due at 1600 hours: Captain’s report pertaining to the recent incursion along the Breen border. Starfleet priority order six._
 
-She sighed and picked up the next padd. “Why can’t they consolidate these report requests into the same padd?” she asked, although no one was around to hear the question, much less answer it. Standing, she took a moment to stretch. Her body felt like a coiled spring.
+With a sigh, Dax picked up the next padd on the desk. “Why can’t they consolidate these report requests into the same padd?” she asked, although no one was around to hear the question, much less answer it. Placing the device back down, she stood and took a moment to stretch. Her body felt like a collection of aching, knotted muscles loosely held together by skin and bone.
 
-Dax looked studied the interior of the captain’s ready room. Her ready room. During the terrible and bloody conflict with the Borg, Dax had found herself the recipient of an unexpected field commission to Captain of the Aventine. On the wall opposite her desk, the painting hung their caught her eye. It was a replicated copy of Picasso’s famous painting ‘Les Demoiselles d'Avignon’. Five nude human women, contorted and abstracted, stared fiercely back at her.
+The Trill woman studied the interior of the captain’s ready room. _Her_ ready room. A painting on the wall opposite caught her eye. It was a replicated copy of Picasso’s famous ‘Les Demoiselles d'Avignon’. Five nude human women, contorted and abstracted, stared fiercely back at her. It had belonged to Captain Dexar, the man who’d previously sat in _Aventine_’s big chair. She thought of him often. _Aventine_’s former Captain’s long shadow loomed throughout the decks of the ship.
 
-The painting had belonged to Captain Dexar, the man who’d previously sat in the Aventine’s big chair. She thought of him often. His shadow loomed throughout the decks of the ship.
+During the bloody conflict with the Borg, Dax had found herself the recipient of an unexpected field commission to captain. How many months had it been now since her promotion? Ten, or twelve, or fourteen — had Dax lost count?
 
-How many months had it been now? It could be ten, or twelve, or fourteen — had Dax lost count?
+A low rumble arose from her stomach, and the tug of her body’s primal need for food pushed the morose thoughts aside. She approached the replicator and said, “Cottage pie and gravy, hot.” The dish whirled into existence. Dax picked up the plate and set it on her desk.
 
-Dax’s stomach rumbled, and the pull of her body pushed the morose thoughts aside. She headed for the replicator. “Cottage pie and gravy, hot.”
+_Another dinner alone, a padd in one hand and a fork in the other,_ she thought. _And those five women in that ugly Picasso staring at me the whole time._
 
-The dish whirled into existence. She picked up the plate and set it on her desk.
+The desk mounted terminal chimed, interrupting her meal. Dax tapped the keyboard a couple of times and pulled up the notification. It read: _Holodeck time reminder: 1200 hours. Klingon calisthenics program. Duration: one hour._
 
-Another dinner at the desk, a padd in one hand and a fork in the other. And those five women in that ugly Picasso staring at me the whole time.
+During these periods of relative quiet, the holodecks came under heavy use from the crew. But unless there was an emergency, she never missed her daily exercise regiment — Lieutenant Commander Worf’s infamous “Klingon calisthenics program.” As a starship captain, she needed to maintain her fitness and her combat skills. But there was something else to it… since becoming captain she needed to feed the warrior inside of her. Dax was a person of peace, dedicated to peaceful exploration. But as captain of the _Aventine_, she needed to know that when the time came, she could be a warrior too.
 
-Her desk mounted terminal chimed. Tapping the keyboard a couple of times, she pulled up the notification. It read: Holodeck time. 1200 hours. Klingon calisthenics program. One hour.
+One hour per day, sweat pouring down her face, heart pounding. And at least a couple of bruises.
 
-During these periods of relative quiet, holodecks came under heavy use from the crew. Every day, at midday, she headed to the holodeck for a round of Worf’s infamous “Klingon calisthenics program.” She never missed it. As a starship captain, she needed to maintain her fitness and her combat skills. One hour per day, she needed to feel the sweat pouring down her face, her heart pounding.
+The pile of unfinished and overdue reports stared at her from her desk. The responsible thing to do would be to sit down and finish those damned things, one by one. Starfleet H.Q. didn’t like it when they were sent late, or if they were light on detail. Dax picked up a padd and studied it for a moment. Then she looked at the door.
 
-Dax needed to know she had what it took.
+_I need_ some _excitement in my life._
 
-“Imposter syndrome, I know…” Dax said to the air. She had a habit of muttering her thoughts allowed. “Too much time eating alone, in this room.” She looked at the pile of padds lined up on her desk.
+After quickly gobbling down a little more cottage pie and changing clothes, she headed to the turbolift and then down to holodeck 4. Her step lightened as she strode along the corridor, but when she reached the doors, she stopped short. It was taken.
 
-The responsible thing to do would be to sit down and finish those damned reports, one by one. Starfleet H.Q. didn’t like it when they were sent late. Dax picked up a padd and studied it for a moment. Then she looked at the door.
+One of the few perks of being a starship captain is that, generally speaking, people didn’t try to pinch your holodeck time. She placed her hands on her hips and huffed. “Computer, please tell me who is rude enough to be currently using holodeck 4? I might have some crew demotions to give out.”
 
-I need some excitement in my life.
-
-After a quick change of clothes, she headed to the turbolift and down the holodeck 4. Her hand reached out for the panel but stopped short.
-
-The holodeck was taken.
-
-Although there were quite a few downsides to being the captain, one of the upsides is that people generally didn’t dare try and take your holodeck time from you. She’d come down here a hundred times at least, and every time the holodeck had been cleared on time.
-
-“Computer, please tell me who is rude enough to be currently using holodeck 4? I have some demotions to give out.”
-
-The ship’s computer answered, “Holodeck 4 is occupied by Commander Bowers, Lieutenant Leishman, Doctor Tarses, Lieutenant Commander Helkara, Lieutenant Kedair, Ensigns Hockney and Riordan…”
+The ship’s computer answered, “_Holodeck 4 is currently occupied by Commander Bowers, Lieutenant Leishman, Doctor Tarses, Lieutenant Commander Helkara, Lieutenant Kedair, Ensigns Hockney and Riordan…_”
 
 “Computer, stop reading out names,” she said. The computer silenced itself.
 
-The entire senior staff are all on the holodeck… without me.
+_The entire senior staff are all on the holodeck… without me._
 
-Dax felt her heart sinking into her stomach. Here she was, neck-deep in reports and Starfleet red-tape, looking for a single hour to herself — and the entire senior staff were on the holodeck, having fun. She checked the name of the program: Bowers_gettogether_1
+Dax felt her heart sinking into her stomach. Here she was, neck-deep in reports and Starfleet red-tape, seeking only a single hour for herself — and the entire senior staff were on the holodeck, having fun. She checked the name of the program: _Bowers_gettogether_1_
 
-Her hands formed in a fist. Dax took a deep breath and tried to release her tension. But, of course, no one wanted to hang out with the captain. ‘It’s lonely at the top’ — and all of that stuff.
+Her hands formed a fist. Sucking in a deep breath, Dax tried to release the tension curdling throughout her body. It would seem that no one wanted to hang out with the captain. Then, she sighed and let it go. Dragging her feet on the regulation grey Starfleet carpet, she started the long walk back to the turbolift.
 
-With dragging feet, she started the long walk back to the turbolift.
-
-From behind, she heard the dull hiss of doors opening. She turned and saw Commander Sam Bowers, her X.O. and friend — or so she thought — coming towards her.
+From behind, she heard the dull hiss of doors opening. Turning, Dax saw Commander Sam Bowers, her X.O. and friend — or so she thought — coming towards her.
 
 “Captain,” he said, his eyes not quite meeting hers. “Aren’t you coming in for your regular fitness class? What is it again? Worf’s Killer Klingon Cage Fight or something?”
 
 Dax forced a smile across her face. “I was, but when the sign says occupied, it’s usually best not to enter.”
 
-“We were just finishing up,” Sam said. A smile moved across his dark-skinned, handsome face. “All this business with the Typhon Pact and being chased by the Romulan’s… Blowing off a little steam.”
+“We were just finishing up,” Sam said. A smile moved across his handsome, ebony face. “All this business with the Borg and now the Typhon Pact… Some of us are just blowing off a little steam.”
 
-Dax folded her arms. “Sam, how about this. You guys can extend your steam-blowing section for an extra hour. I’ve got a hundred reports due, all of them annoying.”
+Dax folded her arms. “Sam, how about this? You guys can extend your steam-blowing session for an extra hour. I’ve got a hundred reports due, all of them annoying.”
 
-“Don’t be shy,” Sam said, “join us.”
+“There will always be reports that need doing. Heck, I’m neglecting a couple of reports myself right now.”
 
-“Listen, I know you’re trying to be the nice guy. And sometimes it’s not fun to have the captain at the cards table because suddenly no one wants to bet against her in case they win. I get it. It feels like the day before yesterday, I was nothing more than a ship’s counsellor, Lieutenant junior grade. Now I really do feel like the old-man Sisko would occasionally call me.”
+“Listen, I know you’re trying to be the nice guy. But I get it. It’s no fun having the captain at the cards table, because suddenly no one wants to bet against her in case they win. It feels like the day before yesterday I was nothing more than a ship’s counsellor, lieutenant junior grade. I’m still adjusting to my new role.”
 
-Sam pinched his eyebrows together. “You lost me with that last part. But really, please join us. All it is a very informal, fun little thing on the holodeck. Come for five minutes.”
+Sam pinched his eyebrows together. “Really, please join us. It’s a very informal, fun little thing on the holodeck. Come for five minutes.”
 
-“I don’t want to be a third wheel. Or eighteenth wheel, judging by the number of people already in holodeck 4.”
+Dax made a face.
+
+“Come for two minutes?”
+
+“I don’t want to be a third wheel,” Dax said. “Or eighteenth wheel, judging by the number of people already in holodeck 4.”
 
 “Come on, please? For me?”
 
-Dax felt her shoulders hunch tight and then relax. So what was the point in arguing about it? “Sure,” she said.
+Dax felt her shoulders hunch tight, and then relax. What was the point in arguing? “Sure,” she said.
 
-“Great.”
+Sam proffered a toothy smile, and led the way. Walking side by side, Dax wondered if Sam might be up to something… The doors to the holodeck slid open, and a dozen people jumped in the and air yelled, “Surprise!”
 
-Her X.O. marched alongside, half a grin on his face. What an odd facial expression he is pulling, Dax thought.
+In a split second, a breath caught in Dax’s throat. A huge white banner with bright red letters hung from the artificial ceiling. It read: _Happy Anniversary Captain_. Balloons floated on strings, and flanking one side of the room was a long table filled with champagne glasses and buckets of ice.
 
-The doors to the holodeck slid open. A dozen or so people jumped in unison and yelled, “Surprise!”
+Dax placed a hand on her chest. “I think giving the captain a heart attack is a serious offence.”
 
-In a split second, the breath caught in Dax’s throat. A huge white banner with bright red letters hung from the artificial ceiling. Happy Anniversary, Captain. Balloons dangled from the corner. Flanking one side of the room was a long table filled with champagne glasses and buckets filled with ice.
+Sam placed a hand on her arm. “It’s been one year since you took command of this vessel. And Captain, I think I speak for everyone here when I say, it’s been an honour and a privilege.”
 
-Dax placed her hand on her chest. “I think giving the captain a heart attack is a chargeable offence.”
-
-Sam placed a gentle hand on her arm. “It’s been one year since you took command of this vessel. And Captain, I think I speak for everyone here when I say, it’s been an honour and a privilege.”
-
-Lennoc Keddair walked over, a bottle of champagne in one hand and a fluted glass in the other. She poured Dax a drink and said, “Here is to four more years. And then four more years after that.”
+Lennoc Keddair walked over, a bottle of champagne in one hand and a fluted glass in the other. She poured Dax a drink and said, “Here is to many more years.”
 
 “Cheers!” Everyone said in unison.
 
-Clapping and laughter filled the room. Everyone came around to congratulate her. A whole year since that awful day, when her former captain and X.O. were killed in action. The Borg were everywhere. Death was everything.
+Clapping and laughter filled the room. One by one, each person came around to congratulate her. A whole year since that awful day, when her former captain and X.O. were killed in action. During that time, the Borg were everywhere. Death was everywhere.
 
-To think something as beautiful as this could grow from terror and tragedy.
+_To think something as beautiful as this could grow from terror and tragedy._
 
-For a moment, she wondered if it were appropriate to be celebrating, consider how she came to captain the ship. But all those happy smiles on all those lovely faces… They need this just as much as I do. Perhaps more. We need to celebrate life, not just focus on death.
-
-We need to live.
+For a moment, she wondered if it were appropriate to be celebrating, considering the circumstances of her promotion. But all those happy smiles on all those lovely faces… _They need this just as much as I do_, she thought. _Perhaps more. We need to celebrate life. We need to live._
 
 As Dax took a long sip of her champagne, the music kicked in.
 
-***
+\***
 
-Sometime later, two or three hours perhaps, Ezri made the wobbly walk back to her ready room. Sam had walked alongside her. He’d extended his hand before he left her and said congratulations one more time. It was a nice, firm handshake.
+Sometime later, two or three hours perhaps, Ezri Dax found herself back in that dimly-lit ready room. She collapsed into her chair and was, once again, alone. Nothing but a pile of padds and overdue reports for company. Luckily they’d only knocked back a few glasses of synthehol, so her mind was quick to refocus.
 
-Presently, she collapsed into her chair and was, once again, alone. Nothing but a pile of padds and overdue reports for company. Luckily they’d only knocked back a few glasses of synthehol, so her mind was able to refocus.
+Dax picked up a padd, and looked up. There they were. Picasso’s five nude women, twisted and transfigured, strange in their hollowness — as if the artist had stripped away all their love and humanity. She could appreciate the genius of Earth’s famous Picasso. But that didn’t mean she had to like it.
 
-Dax picked up a padd, and looked up. There they were. Picasso’s five nude women, writhed and transfigured, strange in her hollowness — like the artist had stripped away all their love and humanity. She could appreciate the art of old Earth’s famous Picasso, but that didn’t mean she had to like it.
-
-She took down the painting with trembling hands and placed it behind the small blue couch that lined the viewscreen. Out of sight. She let out a long breath and said to the room, “Sorry, Captain Dexar, but I don’t much care for your taste in art.”
+With steady hands, she lifted the painting from it’s hook and placed it behind the small blue couch. She let out a long breath and said to the room, “Sorry, Captain Dexar, but I don’t much care for your taste in art.”
