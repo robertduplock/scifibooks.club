@@ -21,6 +21,8 @@ Having triumphed with his massive crossover book trilogy Star Trek: Destiny, Dav
 
 The story builds upon a couple of Deep Space Nine episodes, namely S06E09 _Statistical Probabilities_ and S07E05 _Chrysalis_. In the latter episode, Julian Bashir helps a woman named Sarina who, like him, was genetically enhanced as a child. She is a dead-eyed mute until Bashir works some medical magic and she awakens to the world. He falls in love with her, but gets a bit too hot and heavy a bit too quickly, and ultimately pushes her away.
 
+Sarina is sweet and naive in the show, highly intelligent and intellectually curious. And now, in _Zero Sum Game_, she is a cold-hearted killer bitch, having drunk the Section 31 kool-aid — willing to deck the halls with dead bodies and emotionally manipulate Bashir into doing Section 31's dirty work.
+
 ![](/uploads/typhon_pact_1_zero_sum_game_book_review.jpeg)
 
 Sarina is sweet and naive in the show, highly intelligent and intellectually curious. And now, in _Zero Sum Game_, she is a cold-hearted killer bitch, having drunk the Section 31 kool-aid — willing to deck the halls with dead bodies and emotionally manipulate Bashir into doing Section 31's dirty work.
