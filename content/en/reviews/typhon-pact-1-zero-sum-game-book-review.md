@@ -13,7 +13,7 @@ title = "Typhon Pact #1: Zero Sum Game book review"
 weight = 19
 
 +++
-Having triumphed with his massive crossover book trilogy Star Trek: Destiny, David Mack kicks off the Typhon Pact series with the first entry, _Zero Sum Game_. Julian Bashir teams up with his former love interest, Sarina Douglas, to infiltrate the Breen and destroy the stolen quantum slipstream prototype.
+Hot off the heels of his wildly successful _Star Trek: Destiny_ trilogy, David Mack kicks off the Typhon Pact series with _Zero Sum Game_. Julian Bashir teams up with his former love interest, Sarina Douglas, to infiltrate the Breen and destroy the stolen quantum slipstream prototype.
 
 **Spoilers ahead!**
 
