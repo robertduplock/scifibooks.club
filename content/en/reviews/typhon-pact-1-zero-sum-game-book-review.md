@@ -3,7 +3,6 @@ book_author = "David Mack"
 book_title = "Typhon Pact #1: Zero Sum Game"
 date = 2022-01-06T06:07:14Z
 description = "Book review of Typhon Pact #1: Zero Sum Game by David Mack"
-draft = true
 inline_image = "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781439191644/typhon-pact-1-zero-sum-game-9781439191644_hr.jpg"
 rating = 3
 series = ["Star Trek: Post-Nemesis Relaunch"]
