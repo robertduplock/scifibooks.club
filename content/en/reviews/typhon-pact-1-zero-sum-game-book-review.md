@@ -25,8 +25,6 @@ Sarina is sweet and naive in the show, highly intelligent and intellectually cur
 
 ![](/uploads/typhon_pact_1_zero_sum_game_book_review.jpeg)
 
-Sarina is sweet and naive in the show, highly intelligent and intellectually curious. And now, in _Zero Sum Game_, she is a cold-hearted killer bitch, having drunk the Section 31 kool-aid — willing to deck the halls with dead bodies and emotionally manipulate Bashir into doing Section 31's dirty work.
-
 Perhaps Sarina Douglas has appeared in other novels, and therefore, if one has read them, her very sudden character arc wouldn't be quite so jarring. I know Mack wrote a Section 31 spinoff novel _Abyss_ featuring Bashir as the main character. But personally, I couldn't reconcile the characters from the show with those found in _Zero Sum Game_.
 
 I have previously said that the worst thing a genre writer can do is spin a boring story. Well, in tie-in fiction, I think the worst thing a writer can do is get the characters wrong. Many of my least favourite Star Trek books have been written quite well, except that certain characters don't line up with their onscreen counterparts. Although I believe David Mack to be an immensely talented writer, I'm sorry to say that it did feel as though he was squishing a spy-thriller story from another franchise into a Star Trek shaped hole — and the characters of Bashir and Sarina didn't feel right.
