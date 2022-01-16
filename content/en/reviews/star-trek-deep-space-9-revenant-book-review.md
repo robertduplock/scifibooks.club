@@ -53,4 +53,4 @@ Alex R. White is a winner based on these golden rules: three for three. The book
 
 Someone online posted that reading this book was, “\[…\] like getting a big warm hug from the DS9 crew.” That’s high praise. Perhaps if I were a bigger DS9 fan, I could feel the same. But I still had a great time reading the book, and I commend White for an excellent Trek debut.
 
-What did you think of Star Trek: Deep Space 9: Revenant? Let me know in the comment below. And if you enjoyed this review, please share it!
+What did you think of Star Trek: Deep Space 9: Revenant? Let me know in the comments below. And if you enjoyed this review, please share it!
