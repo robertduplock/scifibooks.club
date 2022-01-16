@@ -3,7 +3,6 @@ book_author = "Alex R. White"
 book_title = "Star Trek: Deep Space 9: Revenant"
 date = 2022-01-16T03:34:14Z
 description = "Book review of Star Trek: Deep Space 9: Revenant by Alex R. White"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633871654l/55711690.jpg"
 rating = 3.5
 series = ["Deep Space 9"]
