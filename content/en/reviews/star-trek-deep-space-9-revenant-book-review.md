@@ -19,7 +19,7 @@ Jadzia Dax, a joined Trill the memories of her previous hosts, catches up with h
 
 <!--more-->
 
-Full disclosure — I am not a huge Deep Space 9 fan. I’ve watched it in its entirety, and although I can appreciate it, I just never loved it. This is also the first proper DS9 tie-in novel I’ve read, although other books such as Star Trek: Destiny and Typhon Pact: Zero Sum Game incorporates characters from our favourite space station.
+Full disclosure — I am not a huge Deep Space 9 fan. I’ve watched it in its entirety, and although I can appreciate it, I just never loved it. This is also the first proper DS9 tie-in novel I’ve read, although other books such as [Star Trek: Destiny](https://scifibooks.club/reviews/star-trek-the-next-generation-destiny-trilogy-book-review-e/) and [Typhon Pact: Zero Sum Game](https://scifibooks.club/reviews/typhon-pact-1-zero-sum-game-book-review/) incorporates characters from our favourite space station.
 
 But I’m not the only one wading into uncharted waters. This is author Alex R. White first Star Trek book. They mentioned in an interview feeling a certain amount of pressure to “get Trek right”. Some folks take their Trek pretty seriously, and I could imagine the pressure they felt to deliver.
 
@@ -29,21 +29,25 @@ _Revenant_ focuses on DS9 regular Jadzia Dax, and most of the book is set on Tri
 
 The central theme of the story, I think, is one of regret and redemption. Dax has had a couple of rough past lives, and they come back to haunt her in this story. Her murderous former self, Joran, gets a little redemption — while Curzon is forced to face some of the regretful decisions he made.
 
-For the first 2/3, the book is something of a who something of a whodunnit. Disappointingly, by the end, it devolved something of a free-for-all. On Trill, to become joined with a symbiont is a big deal, and many candidates wash out of the gruelling process. Elta Vess, a former lover of Curzon, had secretly been taking advantage of their disappointment, cloning her symbiont self and joining with the washouts. By the end, she’s simultaneously controlling hundreds of hosts and wreaking havoc.
+{{< pullout >}}
+The book’s best aspects come from exploring Jadzia’s relationships with her DS9 crew; Kira, Worf and Bashir.
+{{< /pullout >}}
 
-I feel the twist was revealed a bit too early. For me, the tension released when we found out Vess was behind it all, and the final showdown felt a little tacked on. Not to say it was terrible, it just wasn’t quite the ending I thought I was going to get.
+For the first 2/3, the book is something of a whodunnit. On Trill, to become joined with a symbiont is a big deal, and many candidates wash out of the gruelling process. Elta Vess, a former lover of Curzon, had secretly been taking advantage of their disappointment, cloning her symbiont self and joining with the washouts. The main tension of the book is Dax and her mission to find out who "killed" her friend Nemi, since a symbiont has gained total control.  
+
+I feel the twist was revealed a bit too early. For me, the tension released when we found out Vess was behind it all, and the final showdown felt a little tacked on. By the end, she’s simultaneously controlling hundreds of hosts and wreaking havoc. Not to say it was terrible, it just wasn’t quite the ending I thought I was going to get. 
 
 The book’s best aspects come from exploring Jadzia’s relationships with her DS9 crew; Kira, Worf and Bashir. They have plenty of good banter without feeling too quippy or out of tune with the show. The book wastes no time exploring Dax’s feelings for Worf, which of course, plays out on screen from seasons four through six.
 
-_Revenant_ is also noteworthy for being the second, recently published Star Trek book set within the timeframe of its respective TV show, rather than the post-Nemesis relaunch continuity. It was a refreshing change to simply be with the characters I know and love, rather than remembering which character is now on what ship and for what reason.
+_Revenant_ is also noteworthy for being the second, recently published Star Trek book set within the timeframe of its respective TV show, rather than the post-Nemesis relaunch continuity. It was a refreshing change to simply be with the characters we know and love, rather than remembering which character is now on what ship and for what reason.
 
 Author Alex R. White spends considerable time describing fashion and food in his prose. Sumptuous, detailed descriptions of designer dresses, flowing gowns, sizzling meats and cold, crisp drinks fill the pages… which is a little weird because fashion and food aren’t a bit part of Trek. By that, I mean characters spend 97% of their time in a drab Starfleet uniform, and food is usually replicated rather than cooked. I suspect Alex R. White has a personal interest in fashion — or maybe simply they enjoyed the idea of seeing Jadzia Dax a little dressed up.
 
 Personally, as I’ve been writing these Star Trek book reviews, I’ve developed a set of golden rules for writing tie-in fiction. These are subject to change, of course — but they go like this:
 
-1. Thy shall not be boring
-2. Thy shall not have characters be inconsistent with the show
-3. Thy shall not overly focus on original characters
+1. _Thy shall not be boring_
+2. _Thy shall not have characters be inconsistent with the show_
+3. _Thy shall not overly focus on original characters_
 
 Alex R. White is a winner based on these golden rules: three for three. The book is full of action, mystery and fun character moments. White also displayed a solid concept of the characters, and I could always match the actor’s voice to the book’s dialogue. And while the book did have quite a few original characters, the story stayed rooted with Jadzia Dax and her struggles.
 
