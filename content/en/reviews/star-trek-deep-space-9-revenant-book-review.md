@@ -17,6 +17,8 @@ Jadzia Dax, a joined Trill the memories of her previous hosts, catches up with h
 
 **Full review: spoilers ahead.**
 
+<!--more-->
+
 Full disclosure — I am not a huge Deep Space 9 fan. I’ve watched it in its entirety, and although I can appreciate it, I just never loved it. This is also the first proper DS9 tie-in novel I’ve read, although other books such as Star Trek: Destiny and Typhon Pact: Zero Sum Game incorporates characters from our favourite space station.
 
 But I’m not the only one wading into uncharted waters. This is author Alex R. White first Star Trek book. They mentioned in an interview feeling a certain amount of pressure to “get Trek right”. Some folks take their Trek pretty seriously, and I could imagine the pressure they felt to deliver.
