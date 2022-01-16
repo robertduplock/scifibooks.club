@@ -52,3 +52,5 @@ Personally, as I’ve been writing these Star Trek book reviews, I’ve develope
 Alex R. White is a winner based on these golden rules: three for three. The book is full of action, mystery and fun character moments. White also displayed a solid concept of the characters, and I could always match the actor’s voice to the book’s dialogue. And while the book did have quite a few original characters, the story stayed rooted with Jadzia Dax and her struggles.
 
 Someone online posted that reading this book was, “\[…\] like getting a big warm hug from the DS9 crew.” That’s high praise. Perhaps if I were a bigger DS9 fan, I could feel the same. But I still had a great time reading the book, and I commend White for an excellent Trek debut.
+
+What did you think of Star Trek: Deep Space 9: Revenant? Let me know in the comment below. And if you enjoyed this review, please share it!
