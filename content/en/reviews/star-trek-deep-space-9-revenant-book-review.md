@@ -1,14 +1,14 @@
 +++
 book_author = "Alex White"
-book_title = "Star Trek: Deep Space 9: Revenant"
+book_title = "Star Trek: Deep Space Nine: Revenant"
 date = 2022-01-17T03:34:14Z
 description = "Book review of Star Trek: Deep Space 9: Revenant by Alex White"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633871654l/55711690.jpg"
 rating = 3.5
 series = ["Deep Space 9"]
 show_reading_time = true
-tags = ["Alex R. White", "Alex White", "Deep Space 9", "Star Trek"]
-title = "Star Trek: Deep Space 9: Revenant book review"
+tags = ["Alex R. White", "Alex White", "Deep Space 9", "Star Trek", "Star Trek, Deep Space Nine"]
+title = "Star Trek: Deep Space Nine: Revenant book review"
 weight = 0
 
 +++
