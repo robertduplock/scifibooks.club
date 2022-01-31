@@ -17,6 +17,8 @@ Humanity is about to go the way of the dinosaur. A mass extinction event is crui
 
 Hide your kids, hide your wife. The comet is coming.
 
+**Spoilers ahead!**
+
 <!--more-->
 
 _Lucifer’s Hammer_ is a classic work of science fiction; nominated for the Hugo and Locus awards for Best Novel. The dynamic writing duo of Jerry Pournelle and Larry Niven published it in 1977, and along with their similar novel Footfall, set the benchmark for end-of-the-world stories. A huge cast of characters, unconnected at first, are brought together by the comet and the havoc it wreaks.
