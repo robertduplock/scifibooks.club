@@ -5,11 +5,15 @@ tags = ["e-ink", "kindle", "kobo", "blog"]
 title = "Ebooks v Print Books - Which do you prefer?"
 
 +++
-For a long time, I eschewed ebooks and e-ink reading devices such as the Kindle or the Kobo. I was a print purist. A physical book has that weight, smell, and special something that makes it unique. 
+For a long time, I eschewed ebooks and e-ink reading devices such as the Kindle or the Kobo. I was a print purist. A physical book has that weight, smell, and special something that makes it unique.
 
 Or so I thought.
 
+<!--more-->
+
 Then, a couple of years ago, I saw the Kobo Clara HD on sale at JB HiFi. It wasn't a huge discount ($30), but I decided to give it a go for whatever reason. I'm not sure if I'd call the decision life-changing, but it certainly changed the way I read books.
+
+![](/uploads/felipepelaquim-c7wtop8gsne-unsplash.jpg)
 
 Firstly, why did I choose a Kobo over an Amazon Kindle? Because I despise the idea of lining Jeff Bezos' pockets with any of my hard-earned dollars. As simple as that. But the Kobo had some other advantages too: easy sideloading of download epubs, Overdrive support for borrowing ebooks from a public library, and a screen light that[ transitions out the blues](https://help.kobo.com/hc/en-us/articles/360017481174-Adjust-ComfortLight-PRO-on-your-Kobo-eReader) as it approaches evening, which can help you get a better night's sleep (I think the Kindle has since copied this feature).
 
@@ -19,7 +23,11 @@ But actually, a couple of years on, the biggest reason why I have stuck with mai
 
 All in all, I've drunk the ebook kool-aid.
 
-I rarely sideload epubs because very few publishers sell DRM free downloads of their books. Instead, you have to buy it through an online store, such as Kobo, Amazon, Google Books or Apple Books. Once you buy a book through a store, you can only read it through one of their apps or devices. So buyer beware, you're Kobo books can only be read on a Kobo or via the Kobo app. 
+I rarely sideload epubs because very few publishers sell DRM free downloads of their books. Instead, you have to buy it through an online store, such as Kobo, Amazon, Google Books or Apple Books. Once you buy a book through a store, you can only read it through one of their apps or devices. So buyer beware, you're Kobo books can only be read on a Kobo or via the Kobo app.
+
+{{< pullout >}}
+Reading a print book still brings me a lot of pleasure, and it's nice to mix things up once in a while.
+{{< /pullout >}}
 
 Also, my local library does support Overdrive (not all do!), but its range of ebooks is poor. I read mostly sci-fi, and they have virtually no sci-fi books on offer.
 
