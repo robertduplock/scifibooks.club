@@ -14,3 +14,7 @@ weight = 0
 
 +++
 Review goes here.
+
+![](/uploads/larry-niven-and-jerry-pournelle.jpeg)
+
+And here.
