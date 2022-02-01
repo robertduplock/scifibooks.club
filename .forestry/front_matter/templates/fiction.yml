@@ -17,3 +17,5 @@ fields:
 - type: text
   name: title
   label: Title
+pages:
+- content/en/fiction/star-trek-aventine-destiny-s-edge.md
