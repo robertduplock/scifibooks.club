@@ -1,6 +1,6 @@
 +++
 date = 2022-01-31T13:00:00Z
-description = "Star Trek fan fiction. An original story by Robert Duchey, based around Ezri Dax as captain of the USS Aventine."
+description = "Author: Robert Duchey"
 featured_image = "/uploads/star_trek_aventine_j.jpg"
 tags = ["Star Trek: Destiny", "Post-nemesis", "Relaunch", "Star Trek: Aventine", "Sam Bowers", "Aventine", "Fan fiction", "Ezri Dax", "Star Trek"]
 title = "Star Trek: Aventine - Destiny's Edge"
