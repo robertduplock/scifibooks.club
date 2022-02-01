@@ -137,3 +137,5 @@ The voice of Lonnoc Kedair came from behind. “These coordinates are the edge o
 Dax checked the ship’s vitals on her chair’s side panel. A series of green lights flashed across a diagram of the _Aventine_. All systems looked good.
 
 “Let’s do this,” Dax said. “Engage.”
+
+**_-- Chapter #2 coming soon! --_**
