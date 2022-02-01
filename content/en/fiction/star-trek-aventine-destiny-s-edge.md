@@ -10,7 +10,11 @@ title = "Star Trek: Aventine - Destiny's Edge"
 >
 > The following takes place shortly after the events depicted in _Star Trek: Destiny_, in which the Federation is invaded by the Borg. Although the Federation prevailed, liberating billions of Borg drones in the process, they suffered huge casualties and are now faced with the difficulties of rebuilding.
 
-**CHAPTER #1**
+### 2381 — U.S.S. Aventine
+
+#### CHAPTER #1
+
+<!--more-->
 
 Standing on holodeck 4, you’d never know that the warm sunshine was nothing but a trick of the light. Captain Ezri Dax wriggled her toes in the short-cut grass below. Manicured gardens, rich with red and white foliage, surrounded the neatly mowed lawn in which she and six others now waited. At the front of the pack stood Sam Bowers, her XO and friend. He grinned with expectation.
 
