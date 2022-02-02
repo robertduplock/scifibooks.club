@@ -200,6 +200,8 @@ Curzon snorted — a strange sound to hear in one’s own head. _Those who can�
 
 As Curzon’s voice faded from her mind, Ezri Dax squared her shoulders and said aloud, “Honesty, integrity, humility and focus. I think I can manage that.”
 
+***
+
 “_Captain to the bridge._”
 
 Lonnoc Kedair’s husky voice snapped Dax from her reverie. Buried in Starfleet reports, duty rosters and preparatory intel for this region of space, Dax gladly put down her padd and tapped her combadge. “On my way.”
@@ -328,4 +330,4 @@ Bowers snorted. “We called their bluff. These ships could barely beat me up fo
 
 “Hail them one more time. I think they might be ready to talk.”
 
- **_Chapter #3 coming soon!_**
+**_Chapter #3 coming soon!_**
