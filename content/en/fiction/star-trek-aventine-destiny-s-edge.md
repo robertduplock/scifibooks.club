@@ -142,4 +142,190 @@ Dax checked the ship’s vitals on her chair’s side panel. A series of green l
 
 “Let’s do this,” Dax said. “Engage.”
 
-**_-- Chapter #2 coming soon! --_**
+#### Chapter #2
+
+The _U.S.S. Aventine_ engaged its engines and shot into the slipstream corridor, riding a wave of quantum fluctuations as it zipped towards its destination coordinates. From the soft hum that filled the bridge, Dax sensed that the slipstream drive was performing nicely.
+
+“Mr Tharp,” Dax said, “what’s our ETA to the Federation’s fence line?”
+
+“Three hours and fourteen minutes, Captain.”
+
+Dax leaned over the edge of her chair and spoke to Sam in a hushed voice. “Join me in my ready room.”
+
+The door to her ready room hushed open, and she made straight for the food replicator. “_Raktajino_, hot.” The rich, intense smell of the Klingon _raktajino_ filled her nostrils. It evoked a deep sense of place and memory.
+
+“Feeling tired?” Sam asked, standing beside a high-backed chair. She motioned for him to take a seat.
+
+“It never hurts to be a little more alert,” Ezri said, cupping the hot drink in her hands. “I think Jadzia was a fan of these, along with half the crew of Deep Space Nine. Have you tried one?”
+
+“Not a big fan of caffeine,” Sam said. “I like to keep things natural.”
+
+“The old me was a bit that way. The _joined_ me…” Dax shrugged.
+
+Sam crossed his legs. “Anything on your mind, Cap?”
+
+Dax placed the mug on the desk. “Was the handstand class a silly idea?”
+
+Her XO laughed. “Not at all. Everyone was grateful for the change of pace. The invasion is over — we came first, and the Borg came second. We can’t just sit around licking our sores.”
+
+With a nod, Dax said, “I was hoping a few more people might have shown up. And I feel a bit bad about Tharp’s tumble.”
+
+“Bad timing,” Sam said and shrugged.
+
+Taking another sip of the _raktajino,_ Dax felt the hot liquid slip down her throat. She said, “Every time I see a Starfleet admiral pop up on my video screen, I’m certain they’re calling to tell me that a real Starfleet captain is en route to take over the _Aventine_.” She paused and stared into her drink. “Some people spend their entire life trying to make captain. I somehow got there almost by accident and on a ship with a slipstream drive!”
+
+Sam chided her gently. “You earned your rank during the Borg invasion. We all earned our ranks. I’ll tell you the one thing this ship doesn’t deserve — and that’s a Captain who let’s imposter syndrome and her self doubts get in the way.”
+
+Dax felt her mouth dry out. “That’s harsh but fair.”
+
+“I didn’t mean you can’t talk to me about those things. That’s at least ten per cent of my job. But when you’re on the bridge, you’ve always handled yourself with grace and style. Whatever’s bubbling underneath, you’re cool and calm under pressure. You have lifetimes of experience under your belt. Trust me, you got this.”
+
+A smile warmed Dax’s face. “Thanks, Sam. Since you offered to be my listening post, my other major insecurity is that the only reason Starfleet haven’t stripped my field commission is a positive bias in favour of joined Trills. With so many past lives living inside of me, perhaps they’ve mistaken life experience for command experience.”
+
+Running a hand over his short crop of tight curls, Sam said, “It’s not a bad thing to identify your insecurities. Self-awareness is important, as long as you balance it. Positive and negative.”
+
+She finished off her _raktajino_. “Sounds like the handstand classes might continue then.”
+
+“I’ll be there.”
+
+Dax glanced at the door that led to the bridge. “Keep an eye on things out there, will you?”
+
+“Aye.” Sam stood and took his leave.
+
+When the doors were closed, Dax placed her Starfleet issue boots on the desk. Sam Bowers was a fine XO, and she was lucky to have him. They’d worked together, on and off, for a few years. Memories stirred inside of her. The voice of the irrepressible Curzon Dax, a former Dax host, echoed in her mind: _Being a leader is easy,_ he said, _it simply takes honesty, integrity, humility and focus_.
+
+_You were known to spin a web of lies now and then,_ Dax thought back_. And humility isn’t the first word one might use to describe you._
+
+Curzon snorted — a strange sound to hear in one’s own head. _Those who can’t do, teach._
+
+As Curzon’s voice faded from her mind, Ezri Dax squared her shoulders and said aloud, “Honesty, integrity, humility and focus. I think I can manage that.”
+
+“_Captain to the bridge._”
+
+Lonnoc Kedair’s husky voice snapped Dax from her reverie. Buried in Starfleet reports, duty rosters and preparatory intel for this region of space, Dax gladly put down her padd and tapped her combadge. “On my way.”
+
+As Dax stepped onto the bridge, Lonnoc Kedair approached. Deep cranial ridges lined the Takaran woman’s forehead, brow and upper cheekbones, casting slanted shadows across her green skin. “Captain, we will arrive at our coordinates shortly.”
+
+Dax acknowledged her Chief of Security with a curt nod. “We made good time.” She turned to her second officer. “Mr Helkara, scan the area. Let’s find our friends.”
+
+“Aye,” Helkara responded and tapped several commands into his console. “Nothing yet. Significant subspace distortions are interfering with our scans.”
+
+“Can you clean it up?” Bowers asked.
+
+“Once we’re out of the slipstream corridor, yes. For now, all I’m reading is sensor garble.”
+
+Tharp chimed in. “Good news then, we’re slowing to impulse now.”
+
+Dax gave Bowers a wry smile. “If we want to get the lay of the land, we can always do it the old fashioned way and look out the window.”
+
+Sam smiled back and said, “On screen.”
+
+Against the pitch-black night, a small starship — the _Sequeira_ — came into view. Segments of its hull were scalded and black, with hunks of metal wrenched away from their supports. Limp and lifeless, the _Sequeira_ drifted aimlessly around a subspace eddy.
+
+“Lifesigns?” Dax asked.
+
+“Twelve —”
+
+Kedair’s reply was cut short by another vessel moving to intercept. The _Aventine_ rocked as the ship careened past. The thing was an ugly clump of green and grey metallic alloys, heavily armoured with a thick, reinforced hull. Its single nacelle burned a dirty red flame as it flew by.
+
+“Someone is busting in on our rescue mission!” Sam said.
+
+“That ship missed us by a coat of paint,” Dax said. “Who are they?”
+
+Kedair wrangled with her tactical console before replying, “The other ship appears to be of Sidager design.”
+
+“Sidager…” Dax said, tasting the word in her mouth, feeling for familiarity. No memories stirred. “Why are they crashing our party?”
+
+Kedair scowled. “The Sidager are poor junk traders with hacked together ships. Technologically speaking, they’re not exactly setting the trends. But they’re aggressive and unafraid to use force.”
+
+“Hail the Sidager vessel.”
+
+Before she had time to take a breath, the _Aventine_’s viewscreen was flooded with an imposing alien visage — a Sidager woman. Her skin, encased in an array of brilliant white crescent-shaped scales, lined her neck, chin and cheeks — while two deeply-socketed silver eyes glared outwards. She spoke, and her deep, guttural voice filled the bridge. “_Unidentified vessel, this salvage is ours_.”
+
+Dax spoke quickly. “I’m Captain Dax of the Federation starship _Aventine_. That ship out there is a Federation vessel stuck in —”
+
+The screen went blank.
+
+“Captain,” Bowers said, “Two more Sidager vessels now coming into range.”
+
+“All ships are roughly of the same design,” Kedair noted, “One on one, we’re clear winners. One against three, and I wouldn’t be so eager to start a shooting match.”
+
+Bower’s tapped the console mounted on his chair. “The other two ships aren’t as heavily armed as the lead ship. Sensor readings are a little weird — I think the subspace distortion isn’t helping. In any case, I don’t think they’re here for a playdate.”
+
+Kedair said, “The lead ship is coming about, and it’s charging phasers. They’re targeting the _Sequeira_.”
+
+Dax felt her hands grip tightly on her chair’s armrests. “Pursue the lead vessel, and put us between them and the _Sequeira._ Full impulse.”
+
+The _Aventine_ rocked as Tharp made a quick course change, moving to put the _Aventine_ in the line of fire.
+
+“Why would they fire on the _Sequeira_ if they plan to salvage her?” Bowers asked.
+
+The question remained rhetorical as Dax stepped up and stood beside Lieutenant Commander Helkara. She studied the ops console. “Looks like they’re targeting life support with a tight beam phaser.” She placed a hand on Helkara’s arm and asked him directly, “Can we just beam the survivors out?”
+
+“All this subspace distortion means we’ll probably end up with nothing but humanoid soup on the transporter pads. I wouldn’t recommend it.”
+
+Dax winced at the soup analogy but appreciated the point. Transporters were out. She said, “Hail them again.”
+
+“No response,” Kedair grunted.
+
+Tharp wriggled in his chair. “Three seconds until we crash the party. Their phasers are at full charge.”
+
+“They’re firing!” Kedair called out.
+
+Grabbing hold of a nearby support railing, Dax felt the cold metal in her palm as she steadied herself. The _Aventine_ shook, its shields absorbing the phaser’s beam. “Status?”
+
+“We took one for the team,” Kedair said. “The _Sequeira_ crew may yet live to fight another day. Our shields are holding at 96 per cent.”
+
+“Hail them again,” Dax said.
+
+A moment later, the same fierce, feminine face filled the screen. “_I admire your courage,_” she said, “_but we outnumber you and outgun you. This is your last warning. We claim this salvage._”
+
+“Wait,” Dax said, mentally uttering a quick, silent prayer that the viewscreen wouldn’t go blank. “We aren’t here to claim salvage. The people on that ship — the one you’re firing on — they are our friends. We’re the rescue team.”
+
+The Sidager woman looked like she’d just bitten a raw _Syto_ bean. “You are a Federation vessel?”
+
+“Yes,” Dax said. “As I said —“
+
+“_The Federation border is about six_ ki’mi _in that direction_,” she motioned with what looked like a secondary opposable thumb. “_I suggest you skulk back there_.”
+
+Again, the screen went blank. Dax said, “Mr Tharp, keep us between them and the _Sequeira_. We protect that vessel at all costs. Understood?”
+
+“Aye,” Tharp said.
+
+Bowers clicked his tongue. “The other two ships are arming their torpedo bays, and the lead ship is powering up for a serious light show. I don’t know if we can take hits from three different directions. Our shields aren’t _that_ good.”
+
+“Target the weapons on the lead ship,” Dax said. “Fire!”
+
+The viewscreen showed a thick bolt of red light shooting towards the Sidager ship. A small eruption exploded on its port side. “Direct hit!” Kedair said.
+
+“The other two ships will be in range in about twenty seconds,” Bowers said.
+
+Dax stood and snapped out an order. “Bring all three ships up on the main view screen. I want visuals.”
+
+Helkara tapped her console, and the viewscreen split into thirds. On each, a different Sidager ship was displayed. Bowers gave a low whistle and said, “They don’t look like much. But according to these scans, they sure pack a punch.”
+
+Chewing the inside of her lip, Dax asked, “Is it possible they’re using the subspace distortions to hide a projection of false sensor readings?”
+
+Gaff chim Nak answered from the science station. “The integrity of our scanning data is highly questionable. The other two ships could be nothing but unarmed freighters, projecting a few sensor shadows and pretending to be a whole lot scarier than they really are.”
+
+“Conjecture will get us nowhere,” Kedair said. “We can’t confidently protect the _Sequeira_ from three ships coming in from three different angles.”
+
+“Lieutenant Tharp,” Dax said, “launch two sensor probes, targeted at each incoming Sidager vessel.”
+
+Tharp hesitated for a brief moment before answering, “Yes, ma’am. Sensor probes away.”
+
+“The ships are now within firing range,” Kedair called out. “Can I at least fire a warning shot?”
+
+Dax gave a curt nod. “Three warning shots — simultaneously across the bow of each vessel.”
+
+The _Aventine_ rumbled as its phasers burst into action. Each shot skidded past the hull of the incoming ships.
+
+There was a short silence, which Bowers interrupted. “The sensor probes are returning data.”
+
+“And?” Dax asked.
+
+Bowers snorted. “We called their bluff. These ships could barely beat me up for my lunch money, let alone take on the _Aventine_. Their so-called weapons are nothing but thoron fields and duranium shadows. They’re clever, but it turns out that they’re not well armed.”
+
+“Hail them one more time. I think they might be ready to talk.”
+
+ **_Chapter #3 coming soon!_**
