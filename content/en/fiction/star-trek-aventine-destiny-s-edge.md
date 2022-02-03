@@ -487,3 +487,183 @@ The Captain sneered, then suddenly changed tact. “_I’m grateful for the resc
 “_Go negotiate._”
 
 Dax’s mouth fell open as the video screen switched back to the Starfleet insignia. _He hung up_. Shaking her head, Dax resisted the urge to bash her desk with a fist. Then she did it anyway. A jolt of pain coursed through her arm and into her shoulder. The Sidager _Dominelle_ was due to beam over any minute now. Dax collected herself and tried to calm her mind in preparation for the negotiation ahead.
+
+#### Chapter #4
+
+On one side of the table sat Security Chief Lonnoc Kedair. On the other side, about five meters away, sat the Sidager _Dominelle_ Ninsol Lisnon. The two women stared at each other from across the table, their eyes locked in some kind of silent battle.
+
+Dax said, “Welcome to the _Aventine_.”
+
+The Sidager woman’s eyes moved to the room’s viewscreen window. Endless black night swam with a sea of distant stars. Ninsol Lisnon said, “I can’t remember the last time I looked out a window and counted the lights.”
+
+“How many are there?” Dax asked.
+
+“Too many to ever feel safe.” Ninsol Lisnon paused. “That’s about as philosophical as you’ll hear me get. We need to talk business.”
+
+Hovering by the seat next to Ninsol’s, Dax hesitated. Something about this room — the long desk reflecting the ceiling lights, the angled beige walls and grey bulkheads — it just didn’t feel right. Dax pondered: had Ninsol just shown her a glimpse of her true self, behind all the bravado and threats?
+
+“How about a tour?” Dax asked. “We can stare at the stars any time.”
+
+Kedair snapped to attention. “Captain, if I might suggest from a security perspective we —”
+
+Holding up a hand, Dax smiled and said, “It’s quite okay Chief. I promise we won’t get lost.”
+
+The Security Chief crossed her arms and huffed. “May I join you?”
+
+“Of course,” Dax said. “The more, the merrier. Ninsol, I’m a big fan of walking and talking. Would you join me for a brief tour?”
+
+Ninsol cast a wary gaze at Dax. “I don’t see the harm.”
+
+Ushering them out into the corridor, Dax started to walk with Ninsol by her side. Kedair lurked a meter or so behind. “The _Aventine_ is a vesta-class, multi-mission ship. That’s Starfleet jargon for ‘it goes fast and can travel a long way’.”
+
+With a slight chuckle, Ninsol said, “Impressive. Our scans indicated you don’t use a traditional warp engine. Correct?”
+
+“It’s called a quantum slipstream drive. We stole it from the Borg. Sort of.”
+
+Ninsol was silent for a moment. “Your Federation certainly paid a price for it. I hope it was worth it.”
+
+Lowering her gaze, Dax said, “The Borg invasion was devastating. But we’re rebuilding. Hope is back. The people of the Federation are eternal optimists.”
+
+They continued to walk down the corridor. Ensign Englehorn walked by them, giving Dax a nod before hurrying on. Ninsol said, “The Borg did not spare the Sidager. That ship that we are _trying_ to salvage could give my people the food and medical care they need.”
+
+“How much does a pre-loved Starfleet vessel sell these days?” Dax asked.
+
+“Not as much as it should, once the Sidager Exchange takes its 60 per cent. Not to mention the various donations we need to give to the Bounty Stewards in this area.”
+
+The trio turned a corner and entered the main bridge. The crew snapped to attention. “At ease,” Dax said. “We’re just passing through.”
+
+Ninsol paused, taking in the _Aventine_’s bridge with a wide-eyed stare. “Something tells me you just wanted to show off.”
+
+“Maybe a little,” Dax said with a smile. “We have dedicated science, operations, communications and engineering sections. And navigation, of course.” Dax pointed to the captain’s chair. “I get the best seat in the house.”
+
+They continued through the turbolift, Kedair still with them. “Deck sixteen,” Dax commanded. The lift whirred to life.
+
+“I’m curious,” Ninsol said, “why didn’t you simply transport your stranded crew off the _Sequeira_?”
+
+“We couldn’t get a solid lock through all the subspace interference.”
+
+With a cock of her head, Ninsol offered a small smile. “We developed a way to compensate by modifying the transport buffer relay to use a series of external nodes mounted to our hull.”
+
+“Is that so?”
+
+“Perhaps we’re not quite so far down the technological food chain as you first thought?”
+
+Dax clasped her hands behind her back. “I’m curious, since you’re obviously well adapted to this region of space — did something prevent you from helping the _Sequeira_ crew instead of shooting at their life support system?”
+
+In the tight confines of the turbolift, she watched Kedair from the corner of her eye. The Security Chief’s hand lowered to her phaser.
+
+“We aren’t slave traders,” Ninsol said. “Nor are we people smugglers. We would have at least allowed them to die with their dignity intact.”
+
+The turbolift doors hissed open and the trio walked on towards the mess hall. Dax said, “In any case, now we have the crew safely off the _Sequeira_, here is my offer: we can tractor the ship to a safe location, away from the subspace distortions. We will purge the databanks and strip the bio-neural gel packs. The warp engine, the warp core and the dilithium tanks are coming with us too. That also means the dilithium incubator, regulator, and sequencer are not part of the package.”
+
+Ninsol scoffed. “There won’t be a ship left by the time you remove all that.”
+
+“There will still be plenty there to pick over.”
+
+They came to a small, round table in the mess hall. Dax took a seat, and Ninsol followed suit. Kedair stood with her arms crossed and mumbled, “I’ll replicate us some drinks.”
+
+The two Starfleet officers looked at Ninsol. The Sidager said, “Water.”
+
+Dax drummed the table with her fingers. “I’ll have water as well. Sparkling. With a wedge of lime and lots of ice.”
+
+“Bitters and vodka too?” Kedair asked.
+
+“Maybe once these negotiations are settled.”
+
+Kedair went to get the drinks. Ninsol leaned back away from the table and said, “Your terms are unacceptable. We will be taking the warp core at the very least. And the dilithium stores are worth more than all the alloys in the hull of ten ships.”
+
+Dax mentally ran through her list of no-go items versus what she could give up. “I can let you keep half the dilithium. But if I give away the warp core, I will have to give away my Starfleet commission while I’m at it.”
+
+The drinks arrived, and Kedair joined the table. Ninsol scowled, baring her yellow teeth. “Every dilithium storage tank will remain on board.”
+
+“But no warp core,” Dax said and took a sip of the bubbly water. The cool drink absorbed into her hot, dry mouth.
+
+“Fine. You can keep the dilithium processing units if you throw in one of your sensor probes.”
+
+After glancing at Kedair, who gave her a microscopic shrug, Dax said, “As long as we can purge the memory buffers.”
+
+“Agreed.” Ninsol took a gulp of water. “We get the keep the cache of photon torpedoes as well.”
+
+Dax winced, and she noticed Kedair’s posture grow rigid. “You aren’t slave traders, and we aren’t arms dealers.”
+
+“Unacceptable,” Ninsol growled. “We need those torpedoes to defend ourselves.”
+
+“We can compensate for it with food and medical supplies.”
+
+An unfamiliar ringing sound echoed through the mess hall. Ninsol took a communications device from her tunic pocket and pressed a button. A voice chimed through. “_Dominelle, we have a problem._”
+
+“I’m busy.”
+
+“_A human has remained on board the_ Sequeira. _They’ve set a self destruct sequence. It’s going to blow in less than five_ piyia_._”
+
+Bolting upright in her seat, Dax tapped her combadge and said, “Dax to bridge. Scan the _Sequeira_ and tell me nothing is counting down.”
+
+There was a moment of silence, followed by Helkara’s voice. “_A self destruct has been initialised._”
+
+“On whose authorisation?” Dax asked.
+
+“_Captain Madison Short._”
+
+Swearing under her breath, Dax quickly sought to bring the situation under control. “We had no idea he’d do that.”
+
+Ninsol stood, her chair tumbling sideways to the floor. It landed with a clang. “You knew the human named Short had remained on the ship?”
+
+“He refused to leave,” Dax said, stammering a little. “He said he wanted to purge some of the data banks. It’s not like I outrank him.”
+
+Ninsol sent her water glass flying across the room. Liquid sloshed everywhere. “You’ve done an excellent job stalling for time.”
+
+“That wasn’t —”
+
+The imposing Sidager woman interrupted, speaking into her handheld communicator. “Beam me back to the _Gena Uanna_.”
+
+Dax watched as a swirl of blue light enveloped Ninsol Lisnon until all that stood before her was a puddle of spilled water and an upturned chair.
+
+_Just great_.
+
+Straightening her uniform, Dax reached deep into her memories. What was it that Curzon had said? _Being a leader is easy. It simply takes honesty, integrity, humility and focus…_
+
+Curzon always had been an arrogant bastard.
+
+***
+
+***
+
+Only the pale luminescence of emergency lighting lit the bridge now. The putrid smell of melting plastics and stale ozone filled the air. Captain Madison Short knelt on one knee and reached under the ops console. His hand touched something hot. Taking a rag from his pocket, he wrapped it around his dirty hand and tried again. This time, the data nodule came loose.
+
+Who’s uniform had this rag come from? From which lifeless body had he taken it? Ensign Nunez? Lieutenant Shaw? Or that one crewman they’d had on the Sequeira… They teased her because she’d flunked probability mechanics at the academy. At the time, the teasing seemed good-natured. Now he realised they were being mean.
+
+The crewman’s name… what was it?
+
+“_Five minutes and thirty seconds until self destruct. Evacuate. Evacuate_.”
+
+Captain Madison Short thought back to when he’d accepted this commission; a small science vessel studying gamma-ray radiation spikes from neutron stars — specifically their periods of intense hypersonic vibrations. In theory, these vibrations could speed up subspace communications due to how they interacted with gravitational waves. It was cutting edge science.
+
+Those had been good days.
+
+Just months later, the Borg had slain half of his crew. Gaping holes had been wrenched in the _Sequeira_’s hull — replicators broken and shields beyond repair. Catastrophic cascade failures had engulfed the entire ship, with life support hanging by a thread.
+
+Short felt his hands forming into fists. Under his command, two dozen scientists had been forced to take up arms and join the war effort. Starfleet had hastily retrofitted two torpedo bays onto their ship. Before they knew it, a Borg armada came screaming into their region of space. It was like an ant fighting a herd of elephants.
+
+“_Five minutes until self destruct. Evacuate. Evacuate_.”
+
+He fired up the plasma torch and set it on the data nodule. The burst of concentrated heat burned through the casing until the insides of the nodule sizzled and popped. A thin plume of smoke eased out. It smelled toxic. An involuntary cough escaped his lips. Another data nodule wiped clean, just in case anything survived the forthcoming explosion.
+
+“_Dax to Short. Captain, our sensors indicate you’ve lit the fuse on the_ Sequeira_. You have to stop it. Lives are at stake._”
+
+Short wiped his face with a dirty sleeve. The air around him thinned. He muttered a curse. “My people are safe on your ship… Captain Ezri Dax of the _Aventine_…”
+
+The Captain spoke only to himself. He’d never activated his com.
+
+A loud _crack_ burst through from the aft section of the ship. The _Sequeira_ was only small and not built for fighting. The two dozen men and women had lived in close quarters with each other. Some had triple bunked. They had been out there for science, not looking for a fight.
+
+Presently, Short glanced up at the viewscreen, which hadn’t worked for 26 days. Out there was an intricate maze of subspace distortions and microscopic space-time fissures. It would appear to Starfleet that the collapsed Borg transwarp hubs were the cause of this maze of spatial anomalies.
+
+Would his crew keep his secret? Probably not.
+
+“_Captain Short, come in. Please_.”
+
+Over now to the next console. The data banks needed purging. Nothing could be left to chance.
+
+Captain Short had never seen a starship self destruct.
+
+**_THE CONCLUDING CHAPTER #5 COMING SOON!_**
