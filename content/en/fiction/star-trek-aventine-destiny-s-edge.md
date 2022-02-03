@@ -12,7 +12,7 @@ title = "Star Trek: Aventine - Destiny's Edge"
 
 ### 2381 — U.S.S. Aventine
 
-#### CHAPTER #1
+#### Chapter #1
 
 <!--more-->
 
@@ -90,7 +90,7 @@ The imposing Capellan admiral raised an eyebrow. “I’m afraid you’ll need t
 
 Nodding, Dax said, “No problem, Admiral. What are the details?”
 
-“_During the Borg invasion, a lot of our ships fell off the map. People scattered. We’ve been doing our best to find survivors — any survivors. Starfleet just intercepted a weak subspace distress call from the_ U.S.S. Sequeira_. Heard of it?_”
+“_During the Borg invasion, a lot of our ships fell off the map. People scattered. We’ve been doing our best to find survivors — any survivors. Starfleet just intercepted a weak subspace distress call from the_ U.S.S. Sequeira. _Heard of it?_”
 
 With a frown, Dax said, “It doesn’t ring any particular bell for me.”
 
@@ -196,7 +196,7 @@ Dax glanced at the door that led to the bridge. “Keep an eye on things out the
 
 When the doors were closed, Dax placed her Starfleet issue boots on the desk. Sam Bowers was a fine XO, and she was lucky to have him. They’d worked together, on and off, for a few years. Memories stirred inside of her. The voice of the irrepressible Curzon Dax, a former Dax host, echoed in her mind: _Being a leader is easy,_ he said, _it simply takes honesty, integrity, humility and focus_.
 
-_You were known to spin a web of lies now and then,_ Dax thought back_. And humility isn’t the first word one might use to describe you._
+_You were known to spin a web of lies now and then,_ Dax thought back. _And humility isn’t the first word one might use to describe you_.
 
 Curzon snorted — a strange sound to hear in one’s own head. _Those who can’t do, teach._
 
@@ -594,7 +594,7 @@ An unfamiliar ringing sound echoed through the mess hall. Ninsol took a communic
 
 “I’m busy.”
 
-“_A human has remained on board the_ Sequeira. _They’ve set a self destruct sequence. It’s going to blow in less than five_ piyia_._”
+“_A human has remained on board the_ Sequeira. _They’ve set a self destruct sequence. It’s going to blow in less than five_ piyia.”
 
 Bolting upright in her seat, Dax tapped her combadge and said, “Dax to bridge. Scan the _Sequeira_ and tell me nothing is counting down.”
 
@@ -648,7 +648,7 @@ Short felt his hands forming into fists. Under his command, two dozen scientists
 
 He fired up the plasma torch and set it on the data nodule. The burst of concentrated heat burned through the casing until the insides of the nodule sizzled and popped. A thin plume of smoke eased out. It smelled toxic. An involuntary cough escaped his lips. Another data nodule wiped clean, just in case anything survived the forthcoming explosion.
 
-“_Dax to Short. Captain, our sensors indicate you’ve lit the fuse on the_ Sequeira_. You have to stop it. Lives are at stake._”
+“_Dax to Short. Captain, our sensors indicate you’ve lit the fuse on the_ Sequeira. _You have to stop it. Lives are at stake_.”
 
 Short wiped his face with a dirty sleeve. The air around him thinned. He muttered a curse. “My people are safe on your ship… Captain Ezri Dax of the _Aventine_…”
 
@@ -666,4 +666,238 @@ Over now to the next console. The data banks needed purging. Nothing could be le
 
 Captain Short had never seen a starship self destruct.
 
-**_THE CONCLUDING CHAPTER #5 COMING SOON!_**
+#### Chapter #5
+
+The _Aventine_ was at yellow alert. Dax paced the floor while Sam sat in the XO’s chair. The bridge oozed a sense of quiet panic, even though Dax could see every officer remaining calm. Goosebumps formed on her arms.
+
+“Mr Nak,” Dax said. “Estimate of the blast radius?” The words felt thick in her throat.
+
+The Tellarite stroked his beard and said, “With a ship of that size, anything within 500 000 kilometres would be either destroyed or in for a very bad day.”
+
+“Five minutes until it self destructs,” Kedair announced.
+
+She tapped her combadge. “Dax to Short. Captain, our sensors indicate you’ve lit the fuse on the _Sequeira_. You have to stop it. Lives are at stake.”
+
+No response.
+
+Swearing under her breath, she heard a nearby console chime. Kedair said, “The Sidager ships are moving in.”
+
+_Even now, with the entire ship set to blow, they’d attempt to save their quarry. Desperate people. Drastic measures._
+
+Looking up at the viewscreen, Dax saw the three Sidager ships each set a tractor beam on the _Sequeira._
+
+Bowers said, “They’re attempting to contain the blast with their tractor beams. Minimise the damage and salvage what they can.”
+
+Dax tapped her combadge and tried again. “_Captain Short, come in. Please._”
+
+“No response,” Helkara said.
+
+“Four and a half minutes until it self destructs.”
+
+_Time is running out._ Dax took a breath and tried to slow her beating heart. The Sidager ships didn’t stand a chance if the _Sequeira_ detonated. She turned to Helkara at ops and said, “I need two feet firmly planted inside the _Sequeira_. Can you get me there?”
+
+The Zakdorn grimaced. “Our transporters just won’t work with all this subspace distortion. I might be able to get your feet there, but I can’t guarantee the rest of your body will follow.”
+
+She looked at Bowers and said, “I know someone who can transport me.”
+
+The _Aventine_’s XO shook his head. “Oh no. No way. It’s too risky.”
+
+“I gave the Sidager my word we wouldn’t scuttle the _Sequeira_. We could have used this encounter as a starting point to build a better relationship with one of our neighbours. Instead, this will drive a wedge between us.”
+
+“Send me instead,” Bowers said.
+
+_“_I made some inroads with Ninsol Lisnon, and we built something of a rapport. I might be able to get her to see reason._”_
+
+Bowers nodded gravely.
+
+“Get the Sidager on the line.”
+
+The ops console chimed twice. “I have them,” Helkara said. “Audio only.”
+
+Dax spoke to the room. “Ninsol Lisnon, this is Captain Ezri Dax. I need you to transport me to the _Sequeira_.”
+
+The voice on the other line gave a bitter laugh. “_So you can help your Starfleet man escape_?”
+
+“I might be able to deactivate the self destruct. Or I can talk him around.”
+
+“_We have done enough talking._”
+
+“No, actually, we haven’t.” Dax cast her eyes at the viewscreen. It showed three cones of blue light streaming from the Sidager ships — they were using triangulated tractor beams in the hopes of containing the explosion. She continued, “We’ve hardly talked at all. Talking is free. It doesn’t cost resources. Or lives. It doesn’t charge a tax. Talking is the beginning of peaceful trade. Talking is how friendships form. I want to keep talking with you. With the Sidager. I’m asking you to help me make this right.”
+
+A brief pause. Then, “_Lower your shields._”
+
+Giving the nod to Kedair, the shields powered down. Time stood still as blue particles of light surrounded her and then faded. Once on the _Sequiera,_ she gasped. The bridge was shadowed in thick, hazy smoke, and she gagged on the acrid air as she covered her mouth with her sleeve. An intense heat bathed her skin, forcing her body into slow, careful movements. Her eyes scanned the room and found the captain sitting in his chair surrounded by slagged data nodules and a plasma torch.
+
+“Captain!” she yelled. “Madison!”
+
+Blank, distant eyes cast in her direction as the chair slowly turned. His mouth was slightly agape. He said nothing.
+
+“Computer, cancel self destruct. Authorisation Captain Ezri Dax Echo Six Zero Six.”
+
+“_Unable to comply._”
+
+Dax grimaced. “Computer, engage self destruct override timer. Two hours. Authorisation Captain Ezri Dax Echo Six Zero Six.”
+
+“_Unable to comply._”
+
+Stumbling, Dax approached Captain Short. The man looked merely a shadow of a Starfleet officer. A console exploded nearby, letting out a hideous _snap_ and sending sparks flying. Closer now, Dax said, “Order this ship to abort its self destruct.”
+
+The man just stared over her shoulder.
+
+She crouched down and forced their eyes to meet . A glimmer of life was still there, perhaps. Softly, Dax said, “Captain, if this ship self destructs, you’re going to kill at least forty Sidager people. Don’t make murder your swan song.”
+
+He mumbled, “We… were just scientists.”
+
+“_Two minutes and thirty seconds until self destruct. Evacuate. Evacuate._”
+
+The ship’s computerised voice warbled. She refocused on the captain. “Yes, you were just scientists. But you were also Starfleet officers. Duty calls and we answer. _You_ answered. The entire crew here showed bravery and courage —”
+
+“We hid!” Short shouted. “The subspace distortions here aren’t the result of collapsed Borg transwarp tunnels. They’re naturally occurring, and we used them to hide.” Tears streamed down his dirty cheeks. “We hid while the others perished. And then we got stuck.”
+
+“_Two minutes until self destruct. Evacuate. Evacuate._”
+
+The captain continued, his words pouring out. “The Borg fired one shot at us. _One_ solitary shot, and we were finished — shields down, cascading system failures, near-total destruction. We had to reroute emergency power to sustain life support. Holes dotted our hull. Bodies went flying as the atmosphere vented into space. It was like watching pure chaos in slow motion. Terrifying.”
+
+“_One minute and thirty seconds until self destruct. Evacuate. Evacuate._”
+
+Dax took him by the shoulders. “Your ship was damaged beyond repair. You saved eleven lives, plus your own, by hiding here.”
+
+“Cowards!” he yelled. “How could I look my son in the eye? Every other starship within sensor range suffered. People were assimilated while we hid in the corner of the room and played dead.”
+
+“You did your best.”
+
+Captain Short gurgled something unintelligible. Spittle formed in the corner of his lips. The man was so entirely overcome by survivors guilt that he was merely a husk.
+
+_I’m running out of time_, Dax thought. _And I’m getting nowhere. I need him to override the self destruct. The computer won’t accept my commands._
+
+The voice of Curzon echoed in her mind: _Honesty, integrity, humility and focus…_
+
+Dax stood up straight, body rigid — her voice her own but infused with Curzon’s powerful articulation. “Stand up, Captain. On your feet.”
+
+Despite his disdainful stare, he pushed himself out of the chair.
+
+Blood pounded in Dax’s temples. She said, “You made a decision. You hid your crew. It was neither a triumphant hallmark of bravery nor an act of cowardice. It was a decision, and you made it. As Starfleet captains, we own our decisions. Right or wrong. I’ve made my share of mistakes. I’ve had eight lifetimes worth of mistakes, and I’ll tell you that sometimes I wake up in the night, covered in sweat.”
+
+“_One minute until self destruct. Evacuate. Evacuate._”
+
+She continued, “But all that is done. Right now, I need you to accept your mistakes just as I have accepted mine. Focus on me. Focus on the good in us both. Focus on the fact that we can save lives. People are alive now. We can save them.”
+
+Short’s eyes widened as he wiped wet tears from his cheeks. “A captain… should go down…”
+
+“No,” She interrupted. “Disengage the self destruct. Then go visit your son.”
+
+“_Thirty seconds until self destruct. There will be no further warnings._”
+
+“They tell me my son is alive…” He choked, recovered, and then finally said, “Computer. Deactivate self destruct. Authorisation…” A blank look passed across his face.
+
+Dax mouthed the words, “_Captain Madison Short._”
+
+He nodded. “Authorisation Captain Madison Short zero three alpha.”
+
+“_Self destruct aborted._”
+
+For a moment, Dax thought her body might crumple into a heap. But to her mild surprise, she remained standing — as a flash of hot, burning anger coursed through her. This man had nearly killed himself, her, and forty Sidager! But when she looked at him square on, her anger cooled into empathy.
+
+Dax embraced Short. It was almost comical, as he stood at least a head taller than her. But he leaned into it like it was the first act of human compassion he’d ever encountered. His body felt warm, limp and bony. She wondered about the last time he’d eaten. Or had any water, for that matter.
+
+With a gentle nudge, she separated herself from him and tapped her combadge. “_Aventine,_ come in. What’s your status?”
+
+The voice of Sam Bowers piped through. “_We detected the aborted self destruct. Well done. But you better get off that ship sooner rather than later; it’s looking in pretty rough shape. The_ Sidager _have remained in place._”
+
+“Can you ask Ninsol Lisnon to beam us both directly to the _Aventine_?”
+
+“_Stand by._”
+
+The interior of _Aventine_’s sickbay faded into view. Doctor Tarses rushed over with a young orderly and caught hold of Short’s body as he sagged helplessly. The orderly manoeuvred Short over to a bed while Tarses remained with Dax. He asked, “Everything okay?”
+
+“That depends on what exactly happens next,” Dax said.
+
+Doctor Tarses issued a hypospray to counter the toxic fumes that Dax had inhaled while on the _Sequiera_. She promised that she’d return for a complete medical exam just as soon as the immediate crisis was over.
+
+Right now, she was needed on the bridge.
+
+***
+
+***
+
+“Situation report,” Dax ordered.
+
+Seated in the XO’s chair, Bowers gave her a sly smile. “Do you want the good news or the good news?”
+
+“Give it to me in the reverse of whatever order you’d originally intended.”
+
+“Umm. Right. In that case… we’ve agreed with the Sidager that the _Aventine_ will tractor the _Sequeira_ to a safe location. Its hull is badly damaged, but it should be stable enough once it’s free of all these subspace anomalies. They’ve also agreed to our terms regarding the removal of sensitive Starfleet material.”
+
+“Even the warp core?”
+
+He grinned. “Even the warp core.”
+
+“Wow,” Dax said, rubbing the nape of her neck. She looked around; everyone on the bridge was beaming smiles in her direction. “Did I miss something? Don’t tell me we convinced the Sidager to join the Federation too?”
+
+Bowers gave a small chuckle. “The news isn’t _that_ good. But everything is set. You just need to give the word.”
+
+Eyeing him with deep suspicion, Dax asked, “The Sidager didn’t even haggle? Or perhaps threaten to blow us up? Something tells me this all happened a bit too easily.”
+
+“A bit too easily!” Kedair said, marching down from her security station to join the conversation. “You were seconds away from being blown up.”
+
+Narrowing her eyes, she focused on Sam Bowers. He hesitated before responding. “We broadcast your com signal to the Sidager ships. They heard the radio drama that took place between you and poor Captain Short.”
+
+Dax felt her fists clench. “You broadcast a private conversation between two Starfleet captains?”
+
+Bowers took half a step back. “How else could we convince them that our motives were pure? I must say, Captain, you give a hell of a speech.”
+
+“Commander, that was a brilliant idea.”
+
+Relief sagged the lines of his face. “Thank you.”
+
+“They didn’t trust us,” Dax said. “That was always the issue. Yes, they made some unappealing choices and fired on the _Sequeira_ with people still wandering its halls. But today, we might have just built a little trust. And that can go a long way.”
+
+Bowers breathed. “Permission to proceed as planned?”
+
+Dax nodded. “Tractor the old girl to safety and begin stripping her of our dirty little secrets. Then we can hand her over with a clean conscience.”
+
+The bridge hummed with action. Helkara communicated with the Sidager ships and coordinated the tractor beam handover to the _Aventine_. Kedair assembled a team to board the ship once it was stabilised. Doctor Tarses and his team continued to help the casualties — in particular Captain Short, who was badly malnourished and dehydrated.
+
+Dax just had one thing left to do.
+
+#### Epilogue
+
+Ezri stepped into her ready room. She’d just been on the holodeck, working out with Lonnoc Kedair. They had been trying out a peculiar human exercise style called _aerobics_. It’d been fun, if a little strange.
+
+Presently, the console on her desk blinked with a dot of pale orange light. Taking a moment to collect herself, she noticed the towel, neatly folded, waiting for her on her desk. Gaff chim Nak was on the bridge today, and she knew he’d replicated the towel for her, anticipating her post-workout needs. It was pleasantly cool to the touch, and her skin tingled as she dabbed it on her flush face.
+
+_Why do Starfleet generals always call when I’m exercising?_
+
+Seated, she blew a little air on her face by flapping her hand. It didn’t help much. She pressed the button on the table, and Admiral Akaar’s big head filled the screen, replacing the Starfleet insignia.
+
+“Admiral, it’s good to see you again.”
+
+“_And you, Captain._” The Capellan man’s baritone voice boomed through the screen’s tiny speakers. “_Congratulations on your successful mission. Twelve lucky people are now breathing free air and reconnecting with those who also survived the invasion._”
+
+Dax smiled. “It was quite a rescue mission, but I’m grateful it turned out okay.”
+
+“_I heard you came across a few Sidager junk traders?_”
+
+“Nothing the crew and I couldn’t handle.”
+
+Akaar leaned back from the screen. “_Good, good. Speaking of the Sidager, an interesting report came across my desk today._”
+
+“Oh?” Dax felt her eyebrows raise.
+
+“_It would seem the same people you had a run-in with found yet another stranded Starfleet vessel, out near the Argelius Sector. These Sidager have a good nose for valuable salvage._”
+
+Dax scrunched up her face. “Is this a happy ending type story?”
+
+The big admiral laughed. “_Indeed it is, Captain Dax. Instead of shooting or making threats, they offered them food, water and medical supplies. It would seem they had plenty to spare._”
+
+Dax swallowed down a lump in her throat. “Is that so?”
+
+After the Sidager had accepted her terms (thanks in part to Sam’s quick thinking in broadcasting her emotional appeal to Captain Short) the crew had stripped the _Sequeira_ of its warp engine and warp core, replacing it with barrels of triptacederine, chloromydride, stenophyl, cortical analeptics, analeptic compounds, general use medkits, Bajoran wheat, Kohlanese barley, corn (from Earth), and raw algae suitable for the Sidager protein resequencers. Enough food and medical supplies to keep them going for quite a while.
+
+“_I’ve known a few generous Starfleet captains in my time. But after surviving a devastating Borg invasion, did you consider the Federation citizens who could have benefitted from those food and medical supplies?_”
+
+Lifting her chin, Dax said, “It would seem that some Federation citizens _did_ benefit from those supplies. Sir.”
+
+Admiral Akaar’s eyes narrowed, and then he let out a hearty guffaw. “I suppose they did. You’ll have your new mission briefing within the day. Akaar out.”
+
+The round face and ruddy cheeks that belonged to the Admiral faded from the screen, replaced by the Starfleet insignia. Dax placed the cool towel around her shoulders and smiled.
