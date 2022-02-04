@@ -342,7 +342,7 @@ The ops console chimed. Dax crossed her legs and suppressed a smile. The ops con
 
 “Put them through.”
 
-The Aventine’s viewscreen shifted from a split view of the three ships to the same face they’d seen earlier. The dazzling scales that formed the alien’s skin flushed a deep pink colour. “_Federation vessel, you do not give up easily_.”
+The _Aventine_’s viewscreen shifted from a split view of the three ships to the same face they’d seen earlier. The dazzling scales that formed the alien’s skin flushed a deep pink colour. “_Federation vessel, you do not give up easily_.”
 
 Standing, Dax took three steps towards the screen, taking her time in responding. “All we want to do is talk. Can we introduce ourselves? My name is Captain Ezri Dax of the _U.S.S. Aventine_. We belong to a peaceful coalition of planets called the Federation.”
 
@@ -630,7 +630,7 @@ Curzon always had been an arrogant bastard.
 
 Only the pale luminescence of emergency lighting lit the bridge now. The putrid smell of melting plastics and stale ozone filled the air. Captain Madison Short knelt on one knee and reached under the ops console. His hand touched something hot. Taking a rag from his pocket, he wrapped it around his dirty hand and tried again. This time, the data nodule came loose.
 
-Who’s uniform had this rag come from? From which lifeless body had he taken it? Ensign Nunez? Lieutenant Shaw? Or that one crewman they’d had on the Sequeira… They teased her because she’d flunked probability mechanics at the academy. At the time, the teasing seemed good-natured. Now he realised they were being mean.
+Who’s uniform had this rag come from? From which lifeless body had he taken it? Ensign Nunez? Lieutenant Shaw? Or that one crewman they’d had on the _Sequeira_… They teased her because she’d flunked probability mechanics at the academy. At the time, the teasing seemed good-natured. Now he realised they were being mean.
 
 The crewman’s name… what was it?
 
@@ -706,7 +706,7 @@ The _Aventine_’s XO shook his head. “Oh no. No way. It’s too risky.”
 
 “Send me instead,” Bowers said.
 
-_“_I made some inroads with Ninsol Lisnon, and we built something of a rapport. I might be able to get her to see reason._”_
+_“I made some inroads with Ninsol Lisnon, and we built something of a rapport. I might be able to get her to see reason._”
 
 Bowers nodded gravely.
 
