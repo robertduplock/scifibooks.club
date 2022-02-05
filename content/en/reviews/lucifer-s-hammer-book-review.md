@@ -12,7 +12,7 @@ title = "Lucifer's Hammer book review"
 weight = 0
 
 +++
-Humanity is about to go the way of the dinosaur. A mass extinction event is cruising through space, and its name Hamner/Brown. When the apocalypse arrives, how will humanity deal with the fallout? Water vaporised, endless salt-water rain, earthquakes...
+Humanity is about to go the way of the dinosaur. A mass extinction event is cruising through space, and its name is Hamner/Brown. When the apocalypse arrives, how will humanity deal with the fallout? Water vaporised, endless salt-water rain, earthquakes...
 
 Hide your kids, hide your wife. The comet is coming.
 
@@ -22,7 +22,7 @@ Hide your kids, hide your wife. The comet is coming.
 
 _Lucifer's Hammer_ is a classic work of science fiction and was nominated for the Hugo and Locus awards for Best Novel. The dynamic writing duo of Jerry Pournelle and Larry Niven published it in 1977, and along with their similar end-of-the-world novel _Footfall_, set the benchmark for end-of-the-world stories. A vast cast of characters, unconnected at first, are brought together by the comet and the havoc it wreaks.
 
-The story starts with Richie Rich amateur astronomer Tim Hamner discovering a comet — but don't worry, the chances of it hitting earth are like a million to one. No, wait, a thousand to one. No, wait... The first act goes on to introduce a dizzying array of characters. The main members of the cast are Tim Hamner (see above), documentary filmmaker Harvey Randall, and United States senator Arthur Jellison. The early pages are littered with soap opera moments that don't equate to much — Barry Price is sleeping with his secretary, for example, never really has much meaning or consequence. These soap opera moments are similar to the ones found in _Footfall_. Their purpose, I assume, is to add a little spice to the long opening setup. 
+The story starts with Richie Rich amateur astronomer Tim Hamner discovering a comet — but don't worry, the chances of it hitting earth are like a million to one. No, wait, a thousand to one. No, wait... The first act goes on to introduce a dizzying array of characters. The main members of the cast are Tim Hamner (see above), documentary filmmaker Harvey Randall, and United States senator Arthur Jellison. The early pages are littered with soap opera moments that don't equate to much — Barry Price is sleeping with his secretary, for example, never really has much meaning or consequence. These soap opera moments are similar to the ones found in _Footfall_. Their purpose, I assume, is to add a little spice to the long opening setup.
 
 Speaking of the similarities to _Footfall_, Mark Czescu is very similar to _Footfall's_ Hairy Red. Both are bikers, not winning at life, who sing for their supper. It's a bit weird that two similar characters would feature in two similar books.
 
