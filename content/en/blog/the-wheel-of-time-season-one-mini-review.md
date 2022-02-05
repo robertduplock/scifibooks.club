@@ -22,7 +22,7 @@ Online, I came across plenty of people moaning and groaning about the show being
 
 Yes, many of the cast aren't white. But seriously, the show was a lot less woke than people online would have you believe. The powerful Aes Sedai are all women, just as they were in the books. Some of the characters probably weren't black or brown in the books — but it's 2022. Who cares if they cast an actor that looks slightly different from the book's descriptions — it's not a lookalike contest.
 
-Some critics labelled it "The Woke of Time", including renounced author Neal Asher.
+Some critics labelled it "The Woke of Time", including renowned author Neal Asher.
 
 ![](/uploads/neal_asher_tweet.png)
 
@@ -36,10 +36,10 @@ I recall from the first book (which I half read) that there is no question aroun
 
 ![](/uploads/wot_cast.jpg)
 
-Things start to unravel in the last couple of episodes. When they reveal the chosen one, Rand hears the whispers of the wind say to him: "It's you! _Mwa ha ha!!_" And suddenly, he knows what he's always known... or something like that. Meanwhile, a bunch of channelers unleash a massive lightning bolt that takes out an entire army, basically meaning any random bunch of Aes Sedai could be the most powerfully destructive force on the land. So who cares if the trollocs are coming? 
+Things start to unravel in the last couple of episodes. When they reveal the chosen one, Rand hears the whispers of the wind say to him: "It's you! _Mwa ha ha!!_" And suddenly, he knows what he's always known... or something like that. Meanwhile, a bunch of channelers unleash a massive lightning bolt that takes out an entire army, basically meaning any random bunch of Aes Sedai could be the most powerfully destructive force on the land. So who cares if the trollocs are coming?
 
-Meanwhile, Rand and Moraine travel through the Blight, and there they meet the big bad, who tempts Rand into constructing a fake but perfect life for himself. Of course, he rejects it, as the bad guy is bested. But it turns out the big bad is not _the_ big bad — queue season 2.
+Rand and Moraine travel through the Blight, and there they meet the big bad, who tempts Rand into constructing a fake but perfect life for himself. Of course, he rejects it, as the bad guy is bested. But it turns out the big bad is not _the_ big bad — queue season 2.
 
-A little bit like _Star Trek: Picard_, _The Wheel of Time_ has an ~~excellent~~ very good set-up, only to be let down by the last couple of episodes. When you construct story promises and build towards them, you also need to understand how you will deliver on those promises. I spent much of the show on the fence, not sure if I liked it or not. By the end, it simply felt unsatisfying. 
+A little bit like _Star Trek: Picard_, _The Wheel of Time_ has an ~~excellent~~ very good set-up, only to be let down by the last couple of episodes. When you construct story promises and build towards them, you also need to understand how you will deliver on those promises. I spent much of the show on the fence, not sure if I liked it or not. By the end, it simply felt unsatisfying.
 
-Will I watch season 2? Probably. 
+Will I watch season 2? Probably.
