@@ -19,9 +19,9 @@ Author Michael A. Martin returns to _Star Trek: Titan_ with _Seize The Fire_. Th
 
 <!--more-->
 
-The Gorn have gotten their dirty ~~hands~~ ~~claws~~ manus on a terraforming device they call an 'ecosculpture', but the rest of us call 'the genesis device from the third Star Trek movie'. They need it to create a suitable home for their younglings, but the only planet they've found suitable for, er, ecosculpting is already populated by a pre-warp race. Terraforming a planet has the unfortunate side-effect of wiping out its indigenous life-form: plant, mineral, vegetable or animal. 
+The Gorn have gotten their dirty ~~hands~~ ~~claws~~ manus on a terraforming device they call an 'ecosculptor', but the rest of us call it 'the genesis device from the third Star Trek movie'. They need it to create a suitable home for their younglings, but the only planet they've found suitable for ecosculpting is already populated by a pre-warp race. Terraforming a planet has the unfortunate side-effect of wiping out all of its indigenous life-form: plant, mineral, vegetable or animal. 
 
-Meanwhile, a group of has-been Gorn warriors rebel and decide they're going to destroy the ecosculpture and create a new breeding program for an even better warrior caste.
+Meanwhile, a group of has-been Gorn warriors rebel and decide they're going to destroy the ecosculptor and create a new breeding program for an even better warrior caste.
 
 ![](/uploads/genesis_device_schematics.jpeg)
 
@@ -51,7 +51,7 @@ James Swallow's excellent Titan novel _Synthesis_ did a much better job with Tit
 
 Speaking of characters, many of the characters in _Seize The Fire_ continually do dumb-ass things. Riker keeps on beaming over to the enemy ship, and Z’shezhira keeps planning to sabotage the evil plans of Gog’resssh, only to either lose her nerve or stuff it up. 
 
-Weirdly, by the end of the book, suddenly we find our the 'ecosculpter' is a sentient AI being of some kind and not just a bunch of circuits and alloys. I have no idea why this was introduced so late in the story. It was interesting enough but unnecessary. Tuvok mind-melds with it, so yeah, now Vulcans can mind-meld with AI computers. Go figure.
+Weirdly, by the end of the book, suddenly we find our the 'ecosculptor' is a sentient AI being of some kind and not just a bunch of circuits and alloys. I have no idea why this was introduced so late in the story. It was interesting enough but unnecessary. Tuvok mind-melds with it, so yeah, now Vulcans can mind-meld with AI computers. Go figure.
 
 Two books in, and the Typhon Pact series is off to a mediocre start. I probably enjoyed _Seize The Fire_ about as much as the first Typhon Pact entry, _Zero Sum Game_ — although they are very different books with very different problems. 
 
