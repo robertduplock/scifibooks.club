@@ -45,10 +45,14 @@ It's not all bad though. Michael A. Martin was obviously tasked with expanding t
 
 The opening chapter of the book showed a lot of promise, and the overall story is not a bad one. The book just badly needed to be cut down and re-edited. At 120 000 words, it's a longish book (by tie-in standards). It could have been 20k words shorter, and still be a satisfying length. But as it is, somehow the book felt both rushes and overly long.
 
+{{< pullout >}} ... the Gorn storylines are a dull distraction from the Titan based chapters {{< /pullout >}}
+
 James Swallow's excellent Titan novel _Synthesis_ did a much better job with Titan's diverse cast of characters. Swallow showed us a lot more interaction between sets of characters, giving us a chance to get to know them a little better. But with _Seize The Fire_, most of the characters are reduced to a few quippy one-liners, followed by them lamenting the tricky situation they find themselves in. 
 
 Speaking of characters, many of the characters in _Seize The Fire_ continually do dumb-ass things. Riker keeps on beaming over to the enemy ship, and Z’shezhira keeps planning to sabotage the evil plans of Gog’resssh, only to either lose her nerve or stuff it up. 
 
 Weirdly, by the end of the book, suddenly we find our the 'ecosculpter' is a sentient AI being of some kind and not just a bunch of circuits and alloys. Why this was introduced so late in the story I have no idea. It was interesting enough but unnecessary. Tuvok mind-melds with it, so yeah now Vulcans can now mind-meld with AI computers. Go figure.
 
-Two books in as the Typhon Pact series is off to a mediocre start. The first entry,  
+Two books in and the Typhon Pact series is off to a mediocre start. I probably enjoyed _Seize The Fire_ about as much as the first Typhon Pact entry, _Zero Sum Game_ — although they are very different books with very different problems. 
+
+_Seize The Fire_ was a mixed bag. I'm hoping the third entry, _Rough Beasts of Empire_ by David R. George III is better.
