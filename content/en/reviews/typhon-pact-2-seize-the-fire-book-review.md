@@ -39,11 +39,11 @@ Or, if we want the names to be a little more alien: S'ue, Su'san, Sue'nne, Suz'y
 
 Furthermore, the Gorn storylines are a dull distraction from the Titan based chapters. The pace grinds to a halt as, once more, S’syrixx or Z’shezhira or whoever agonise over the choices they face. The Gorn characters are one-dimensional, and it's hard to sympathise with them. The reader is constantly reminded that the reptiloid Gorn find mammals (such as humans) repulsive. I suppose it's meant to invert the idea that humans are repulsed by reptiles such as snakes — but honestly, I quite like snakes, lizards and turtles, and I couldn't quite buy the idea that the Gorn hate mammals to such a degree and so unilaterally.  
 
-{{< pullout >}} ... the Gorn storylines are a dull distraction from the Titan based chapters {{< /pullout >}}
-
 Speaking of characters, many of the characters in _Seize The Fire_ continually do dumb-ass things. Riker keeps on beaming over to the enemy ship, and Z’shezhira keeps planning to sabotage the evil plans of Gog’resssh, only to either lose her nerve or stuff it up. 
 
 Weirdly, by the end of the book, suddenly we find our the 'ecosculptor' is a sentient AI being of some kind and not just a bunch of circuits and alloys. I have no idea why this was introduced so late in the story. It was interesting enough but unnecessary. Tuvok mind-melds with it, so yeah, now Vulcans can mind-meld with AI computers. Go figure.
+
+{{< pullout >}} ... the Gorn storylines are a dull distraction from the Titan based chapters {{< /pullout >}}
 
 It's not all bad, though. Michael A. Martin was obviously tasked with expanding the Gorn, who appeared in just one episode of _Sar Trek: The Original Series_. He does a decent job, as we learn that the Gorn as split into castes, and their children are born and raised in carefully produced hatcheries. 
 
