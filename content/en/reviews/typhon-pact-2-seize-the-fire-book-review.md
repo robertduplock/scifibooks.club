@@ -33,6 +33,8 @@ Firstly, it's too long. Not because there are plenty of twists and turns, but be
 
 Over and over again, we're constantly reminded of the predicament they're in.
 
+![](/uploads/startrek-gorn.jpeg)
+
 The second major issue is that the muddy-soup of Gorn characters are nearly impossible to tell apart, mainly because their names are so similar. Let's see, as far as Gorn characters go, we have Gog’resssh, Rreszsesrr, Sazssgrerrn, Z’shezhira, Zegrroz’rh, S’syrixx, S’alath... okay that last one is actually the name of a Gorn ship. Anyway, it's nearly impossible to remember who is who, since their names may as well be Sue, Susan, Sue-Anne, Suzy and Suzane. 
 
 Or, we want the names to be a little more alien: S'ue, Su'san, Sue'nne, Suz'y and Su'z'a'ne...
