@@ -55,4 +55,4 @@ Weirdly, by the end of the book, suddenly we find our the 'ecosculpter' is a sen
 
 Two books in and the Typhon Pact series is off to a mediocre start. I probably enjoyed _Seize The Fire_ about as much as the first Typhon Pact entry, _Zero Sum Game_ — although they are very different books with very different problems. 
 
-_Seize The Fire_ was a mixed bag. I'm hoping the third entry, _Rough Beasts of Empire_ by David R. George III is better.
+_Seize The Fire_ was a mixed bag. I'm hoping the third entry, _Rough Beasts of Empire_ by David R. George III will be better.
