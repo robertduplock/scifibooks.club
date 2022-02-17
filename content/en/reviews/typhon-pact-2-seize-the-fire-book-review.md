@@ -39,8 +39,12 @@ The second major issue is that the muddy-soup of Gorn characters are nearly impo
 
 Or, we want the names to be a little more alien: S'ue, Su'san, Sue'nne, Suz'y and Su'z'a'ne... (apostrophes make everything sound alien).
 
+Furthermore, the Gorn storylines are a dull distraction from the Titan based chapters. The pace grinds to a halt as, once more, S’syrixx or Z’shezhira or whoever agonize over the choices they face.
+
 It's not all bad though. Michael A. Martin was obviously tasked with expanding the Gorn, who has only appeared in one episode of _Sar Trek: The Original Series_. He does a decent job, as we learn that the Gorn as split into castes, and their children are born and raised in carefully produced hatcheries. 
 
 The opening chapter of the book showed a lot of promise, and the overall story is not a bad one. The book just badly needed to be cut down and re-edited. At 120 000 words, it's a longish book (by tie-in standards). It could have been 20k words shorter, and still be a satisfying length. But as it is, somehow the book felt both rushes and overly long.
 
 James Swallow's excellent Titan novel _Synthesis_ did a much better job with Titan's diverse cast of characters. Swallow showed us a lot more interaction between sets of characters, giving us a chance to get to know them a little better. But with _Seize The Fire_, most of the characters are reduced to a few quippy one-liners, followed by them lamenting the tricky situation they find themselves in. 
+
+Speaking of characters, many of the characters in _Seize The Fire_ continually do dumb-ass things. Riker keeps on beaming over to the enemy ship, and Z’shezhira keeps planning to sabotage the evil plans of Gog’resssh, only to either lose her nerve or stuff it up. 
