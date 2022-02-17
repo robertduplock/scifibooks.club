@@ -37,7 +37,7 @@ The second major issue is that the muddy soup of Gorn characters are nearly impo
 
 Or, if we want the names to be a little more alien: S'ue, Su'san, Sue'nne, Suz'y and Su'z'a'ne... (apostrophes make everything sound alien).
 
-Furthermore, the Gorn storylines are a dull distraction from the Titan based chapters. The pace grinds to a halt as, once more, S’syrixx or Z’shezhira or whoever agonise over the choices they face. The Gorn characters are one-dimensional and it's hard difficult to sympathise with them. The reader is constantly reminded that the reptiloid Gorn find mammals (such as humans) repulsive. I suppose it's meant to invert the idea that humans are repulsed by reptiles such as snakes — but honestly, I quite like snakes, lizards and turtles, and I couldn't quite buy the idea that the Gorn hate mammals to such a degree and so unilaterally.  
+Furthermore, the Gorn storylines are a dull distraction from the Titan based chapters. The pace grinds to a halt as, once more, S’syrixx or Z’shezhira or whoever agonise over the choices they face. The Gorn characters are one-dimensional, and it's hard to sympathise with them. The reader is constantly reminded that the reptiloid Gorn find mammals (such as humans) repulsive. I suppose it's meant to invert the idea that humans are repulsed by reptiles such as snakes — but honestly, I quite like snakes, lizards and turtles, and I couldn't quite buy the idea that the Gorn hate mammals to such a degree and so unilaterally.  
 
 {{< pullout >}} ... the Gorn storylines are a dull distraction from the Titan based chapters {{< /pullout >}}
 
