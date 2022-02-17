@@ -48,3 +48,7 @@ The opening chapter of the book showed a lot of promise, and the overall story i
 James Swallow's excellent Titan novel _Synthesis_ did a much better job with Titan's diverse cast of characters. Swallow showed us a lot more interaction between sets of characters, giving us a chance to get to know them a little better. But with _Seize The Fire_, most of the characters are reduced to a few quippy one-liners, followed by them lamenting the tricky situation they find themselves in. 
 
 Speaking of characters, many of the characters in _Seize The Fire_ continually do dumb-ass things. Riker keeps on beaming over to the enemy ship, and Z’shezhira keeps planning to sabotage the evil plans of Gog’resssh, only to either lose her nerve or stuff it up. 
+
+Weirdly, by the end of the book, suddenly we find our the 'ecosculpter' is a sentient AI being of some kind and not just a bunch of circuits and alloys. Why this was introduced so late in the story I have no idea. It was interesting enough but unnecessary. Tuvok mind-melds with it, so yeah now Vulcans can now mind-meld with AI computers. Go figure.
+
+Two books in as the Typhon Pact series is off to a mediocre start. The first entry,  
