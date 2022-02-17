@@ -37,4 +37,8 @@ Over and over again, we're constantly reminded of the predicament they're in.
 
 The second major issue is that the muddy-soup of Gorn characters are nearly impossible to tell apart, mainly because their names are so similar. Let's see, as far as Gorn characters go, we have Gog’resssh, Rreszsesrr, Sazssgrerrn, Z’shezhira, Zegrroz’rh, S’syrixx, S’alath... okay that last one is actually the name of a Gorn ship. Anyway, it's nearly impossible to remember who is who, since their names may as well be Sue, Susan, Sue-Anne, Suzy and Suzane. 
 
-Or, we want the names to be a little more alien: S'ue, Su'san, Sue'nne, Suz'y and Su'z'a'ne...
+Or, we want the names to be a little more alien: S'ue, Su'san, Sue'nne, Suz'y and Su'z'a'ne... (apostrophes make everything sound alien).
+
+It's not all bad though. Michael A. Martin was obviously tasked with expanding the Gorn, who has only appeared in one episode of _Sar Trek: The Original Series_. He does a decent job, as we learn that the Gorn as split into castes, and their children are born and raised in carefully produced hatcheries. 
+
+The opening chapter of the book showed a lot of promise, and the overall story is not a bad one. The book just badly needed to be cut down and re-edited. At 120 000 words, it's a longish book (by tie-in standards). It could have been 20k words shorter, and still be a satisfying length. But as it is, somehow the book felt both rushes and overly long.
