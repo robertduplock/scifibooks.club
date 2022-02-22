@@ -3,7 +3,6 @@ book_author = "Michael A. Martin"
 book_title = "Typhon Pact #2 Seize The Fire"
 date = 2022-02-16T13:00:00Z
 description = "Book review of Typhon Pact #2: Seize The Fire by Michael A. Martin"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388275538l/7242448.jpg"
 rating = 3
 series = ["Star Trek: Post-Nemesis Relaunch"]
