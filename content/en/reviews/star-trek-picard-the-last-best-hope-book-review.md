@@ -33,6 +33,6 @@ If the book has a theme, I'd say the following quote (which is used in the book)
 
 The main story thread, in which Picard and his new XO Raffi Musiker, tirelessly trying to save as many Romulan lives as possible. The pair, and all those who help them, really do nothing wrong. Yes, they take some risks. But they never stuff it up. The mission is a failure due to a confluence of events out of their hands. And yet, the failure utterly wrecks their lives. I guess, reflecting on the above quote, they get a solid taste of _life_.
 
-Una McCormack does a stellar job introducing Raffi and building the relationship between her and Picard. The mission wreaks havoc on Raffi's life, as she sacrifices her relationship with her husband and son in order to keep going, year after year, saving Romulan lives — even when they are less than grateful. 
+Una McCormack does a stellar job introducing Raffi and building her relationship with Picard. The mission wreaks havoc on Raffi's life, as she sacrifices her relationship with her husband and son to keep going, year after year, saving Romulan lives — even when they are less than grateful. 
 
-This story creates an important bridge between the optimistic Trek of yore, and this newer, darker take. 
+This story creates an essential bridge between the optimistic Trek of yore and this newer, darker take. We learn that most people were, in fact, in favour of saving the Romulans. But as the rescue effort dragged out and the costs piled up, support waned. Opportunistic politicians such as Olivia Quest found a way to capitalise on anti-Romulan sentiment. And then the synths went rogue on Mars, which was the final nail in the coffin for the rescue effort.
