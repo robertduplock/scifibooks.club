@@ -21,4 +21,8 @@ For the record, I am a Picard fan. I decided to read _The Last Best Hope_ as I r
 
 My wife said to me once, "Sometimes you pick up a book, read the first page, and you just know that you're in good hands." That's how I felt picking up this book. The first thing I noted was how lovingly to book was written. The prose is neat and clean, and the story is nicely paced — not too fast, not too slow.
 
-The book splits into several different plotlines. 
+> It is possible to commit no mistakes and still lose. That is not a weakness. That is life.
+>
+>   _— Jean-Luc Picard, Star Trek: The Next Generation: Episode 2x21_
+
+If the book has a theme, I'd say the above quote (mentioned in the book, but from the TV series
