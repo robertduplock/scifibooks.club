@@ -32,3 +32,7 @@ If the book has a theme, I'd say the following quote (which is used in the book)
 >   _— Star Trek: The Next Generation: Episode 2x21_
 
 The main story thread, in which Picard and his new XO Raffi Musiker, tirelessly trying to save as many Romulan lives as possible. The pair, and all those who help them, really do nothing wrong. Yes, they take some risks. But they never stuff it up. The mission is a failure due to a confluence of events out of their hands. And yet, the failure utterly wrecks their lives. I guess, reflecting on the above quote, they get a solid taste of _life_.
+
+Una McCormack does a stellar job introducing Raffi and building the relationship between her and Picard. The mission wreaks havoc on Raffi's life, as she sacrifices her relationship with her husband and son in order to keep going, year after year, saving Romulan lives — even when they are less than grateful. 
+
+This story creates an important bridge between the optimistic Trek of yore, and this newer, darker take. 
