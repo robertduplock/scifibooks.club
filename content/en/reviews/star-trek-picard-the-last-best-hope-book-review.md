@@ -21,8 +21,14 @@ For the record, I am a Picard fan. I decided to read _The Last Best Hope_ as I r
 
 My wife said to me once, "Sometimes you pick up a book, read the first page, and you just know that you're in good hands." That's how I felt picking up this book. The first thing I noted was how lovingly to book was written. The prose is neat and clean, and the story is nicely paced — not too fast, not too slow.
 
+The story goes like this: The Romulans, long time enemies of the Federation, are facing certain destruction as their sun is set to go supernova. Jean-Luc Picard, now an Admiral, leads a massive rescue effort. However, not everything thinks Starfleet should burn the candle at both ends, saving their old enemy — furthermore, they face resistance from the Romulans themselves. The Romulans have a longstanding culture of fear and paranoia, which gets in the way of the rescue mission.
+
+If the book has a theme, I'd say the following quote (which is used in the book) just about encapsulates it.
+
 > It is possible to commit no mistakes and still lose. That is not a weakness. That is life.
 >
->   _— Jean-Luc Picard, Star Trek: The Next Generation: Episode 2x21_
+>   _— Jean-Luc Picard_
+>
+>   _— Star Trek: The Next Generation: Episode 2x21_
 
-If the book has a theme, I'd say the above quote (mentioned in the book, but from the TV series
+The main story thread, in which Picard and his new XO Raffi Musiker, tirelessly trying to save as many Romulan lives as possible. The pair, and all those who help them, really do nothing wrong. Yes, they take some risks. But they never stuff it up. The mission is a failure due to a confluence of events out of their hands. And yet, the failure utterly wrecks their lives. I guess, reflecting on the above quote, they get a solid taste of _life_.
