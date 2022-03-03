@@ -37,6 +37,8 @@ Una McCormack does a stellar job introducing Raffi and building her relationship
 
 This story creates an essential bridge between the optimistic Trek of yore and this newer, darker take. We learn that most people were, in fact, in favour of saving the Romulans. But as the rescue effort dragged out and the costs piled up, support waned. Opportunistic politicians such as Olivia Quest found a way to capitalise on anti-Romulan sentiment. And then the synths went rogue on Mars, which was the final nail in the coffin for the rescue effort.
 
+![How to Watch STAR TREK: PICARD - TREKNEWS.NET | Your daily dose of Star Trek  news and opinion](https://treknews.net/wp-content/uploads/2020/01/how-to-watch-star-trek-picard-episode-dates.jpg)
+
 Bringing Jordie La Forge into the story was a stroke of genius. I didn't know that his character would make an appearance, and the early scenes with him puzzling out the shipyard production issues were outstanding. It was a nice little bonus to have a character from The Next Generation TV series find his way into the book. 
 
 My favourite subplot was the one that focused on Earth scientist and astronomer Doctor Amal Safadi and her Romulan counterpart Doctor Nokim Vritet. Safadi discovers that the Romulan sun is going supernova faster than expected, and the effects will be bigger than expected. However, she can't get this information corroborated by her counterpart, as the Romulan secret police (the Tal Shiar) keep getting in the way. The two characters never meet, and yet they feel connected. Vritet eventually goes full 1984 and buys into the Romulan propaganda, believing everything is fine. It's a horrible, tragic and yet profound moment in the story. 
@@ -46,6 +48,10 @@ Another plotline focuses on Agnes Juradi and Bruce Maddox. They create an army o
 So many themes from today work their way effortlessly into the story. Brexit, for example, was nothing but a thinly veiled manifestation of anti-refugee sentiment in the UK. In this story, a Brexit-like campaign is carried out by Olivia Quest and her cronies. 
 
 Other themes such as climate change, misinformation, the importance of independent media, and independent scientific research litter the pages. In many ways, McCormack wrestles with these big ideas better than the TV show — they're woven into the story by the very nature of the action and events, rather than feeling tacked on and preachy. 
+
+{{< pullout >}}
+In many ways, McCormack wrestles with these big ideas better than the TV show
+{{< /pullout >}}
 
 Interestingly, the book isn't afraid to drop an f-bomb or two. There is quite a bit of coarse language in the book. Those of us who remember the nice, family-friendly Trek of the 80s and 90s might find this a bit jarring. But then, like all things, Trek must move with the times. 
 
