@@ -61,4 +61,4 @@ I understand that the book's theme is that good people can do their best and sti
 
 All that being said, _The Last Best Hope_ still does a fantastic job detailing the events leading up to the show. The book is lovingly crafted, with nice details and an excellent grasp of character. It's balanced and thoughtful, and for me, I appreciate aspects of the TV show more now that I know what happened before. 
 
-In a couple of months, Una McCormack's follow-up novel Star Trek: Picard: Second Self will be hitting the shelves, and I, for one, cannot wait to read it.
+In a couple of months, Una McCormack's follow-up novel _Star Trek: Picard: Second Self_ will be hitting the shelves, and I, for one, cannot wait to read it.
