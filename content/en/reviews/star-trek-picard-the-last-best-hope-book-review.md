@@ -29,9 +29,7 @@ If the book has a theme, I'd say the following quote (which is used in the book)
 
 > It is possible to commit no mistakes and still lose. That is not a weakness. That is life.
 >
->   _— Jean-Luc Picard_
->
->   _— Star Trek: The Next Generation: Episode 2x21_
+>   _— Jean-Luc Picard, Star Trek: The Next Generation_
 
 The main story thread, in which Picard and his new XO Raffi Musiker, tirelessly trying to save as many Romulan lives as possible. The pair, and all those who help them, really do nothing wrong. Yes, they take some risks. But they never stuff it up. The mission is a failure due to a confluence of events out of their hands. And yet, the failure utterly wrecks their lives. I guess, reflecting on the above quote, they get a solid taste of _life_.
 
