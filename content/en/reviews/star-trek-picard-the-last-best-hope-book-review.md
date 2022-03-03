@@ -53,4 +53,6 @@ My one criticism of the book is that the story seems to lose a little oomph in t
 
 I understand that the book's theme is that good people can do their best and still fail. But maybe one last little juicy plot point towards the end of the book would have really wrapped up things nicely. For example, what if Picard ordered Jordie La Forge to give him an in-person report and that Jordie left Mars to visit Picard just before the synth rebellion took place? Starfleet grew suspicious that Picard knew the rebellion would happen and saved his old friend. That would give them an extra reason to cut the mission short... okay, that may not have tied in with the TV show storyline, but you get my point.  
 
-All that being said, _The Last Best Hope_ still does an amazing job detailing the events leading up to the show. 
+All that being said, _The Last Best Hope_ still does a fantastic job detailing the events leading up to the show. The book is lovingly crafted, with nice details and an excellent grasp of character. It's balanced and thoughtful, and for me, I appreciate aspects of the TV show more now that I know what happened before. 
+
+In a couple of months, Una McCormack's follow-up novel Star Trek: Picard: Second Self will be hitting the shelves, and I, for one, cannot wait to read it.
