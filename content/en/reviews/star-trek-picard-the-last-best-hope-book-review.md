@@ -13,10 +13,12 @@ title = "Star Trek: Picard: The Last Best Hope book review"
 weight = 1
 
 +++
-Author Una McCormack was selected to write the first tie-in novel for Star Trek: Picard. One could only imagine the amount of pressure she must have felt to get it right. _Star Trek: Picard: The Last Best Hope_ is the prequel to the TV series and tells the story of how to plan to evacuate Romulus went so wrong.
+Author Una McCormack wrote the first tie-in novel for Star Trek: Picard. One could only imagine the amount of pressure she must have felt to get it right. _Star Trek: Picard: The Last Best Hope_ is the prequel to the TV series and tells the story of how to plan to evacuate Romulus went so wrong.
 
 <!--more-->
 
-For the record, I am a Picard fan. I decided to read _The Last Best Hope_ as I rewatched season 1, in preparation for the upcoming season 2. I acknowledge Picard had its faults (particularly in the last couple of episodes), and it is a much darker Trek than what we've had before. It's not everyone's cup of earl grey — but for me, it was a good show.
+For the record, I am a Picard fan. I decided to read _The Last Best Hope_ as I rewatched season 1 in preparation for the upcoming season 2. I acknowledge Picard had its faults (particularly in the last couple of episodes), and it is a much darker Trek than what we've had before. It's not everyone's cup of earl grey — but for me, it was a good show.
 
-My wife said to me once, "Sometimes you pick up a book, read the first page, and you just know that you're in good hands." That's how I felt picking up this book. The first thing I noted was how lovingly to book was written. The prose is neat and clean, the pace is 
+My wife said to me once, "Sometimes you pick up a book, read the first page, and you just know that you're in good hands." That's how I felt picking up this book. The first thing I noted was how lovingly to book was written. The prose is neat and clean, and the story is nicely paced — not too fast, not too slow.
+
+The book splits into several different plotlines. 
