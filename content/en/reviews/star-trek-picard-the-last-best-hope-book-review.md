@@ -42,3 +42,9 @@ Bringing Jordie La Forge into the story was a stroke of genius. I didn't know th
 My favourite subplot was the one that focused on Earth scientist and astronomer Doctor Amal Safadi and her Romulan counterpart Doctor Nokim Vritet. Safadi discovers that the Romulan sun is going supernova faster than expected, and the effects will be bigger than expected. However, she can't get this information corroborated by her counterpart, as the Romulan secret police (the Tal Shiar) keep getting in the way. The two characters never meet, and yet they feel connected. Vritet eventually goes full 1984 and buys into the Romulan propaganda, believing everything is fine. It's a horrible, tragic and yet profound moment in the story. 
 
 Another plotline focuses on Agnes Juradi and Bruce Maddox. They create an army of non-sentient worker synths who populate the shipbuilding facility on Mars, churning out huge starships for the rescue effort. The _other_ other plotline focuses on Oliva Quest, who leads a campaign to have the rescue efforts reigned in. 
+
+So many themes from today work their way effortlessly into the story. Brexit, for example, was nothing but a thinly veiled manifestation of anti-refugee sentiment in the UK. In this story, a Brexit-like campaign is carried out by Olivia Quest and her cronies. 
+
+Other themes such as climate change, misinformation, the importance of independent media, and independent scientific research litter the pages. In many ways, McCormack wrestles with these big ideas better than the TV show — they're woven into the story by the very nature of the action and events, rather than feeling tacked on and preachy. 
+
+Interestingly, the book isn't afraid to drop an f-bomb or two. There is quite a bit of coarse language in the book. Those of us who remember the nice, family-friendly Trek of the 80s and 90s might find this a bit jarring. But then, like all things, Trek must move with the times. 
