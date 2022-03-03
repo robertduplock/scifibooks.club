@@ -48,3 +48,7 @@ So many themes from today work their way effortlessly into the story. Brexit, fo
 Other themes such as climate change, misinformation, the importance of independent media, and independent scientific research litter the pages. In many ways, McCormack wrestles with these big ideas better than the TV show — they're woven into the story by the very nature of the action and events, rather than feeling tacked on and preachy. 
 
 Interestingly, the book isn't afraid to drop an f-bomb or two. There is quite a bit of coarse language in the book. Those of us who remember the nice, family-friendly Trek of the 80s and 90s might find this a bit jarring. But then, like all things, Trek must move with the times. 
+
+My one criticism of the book is that the story seems to lose a little oomph in the second half. Many storylines peter out, shrinking into themselves rather than resolving satisfyingly. Jordie La Forge, for example, doesn't do much once the shipbuilding plant is up and running. Picard and Raffi continue their mission with varying degrees of success until, finally, an unexpected event cuts their mission short. 
+
+I understand that the book's theme is that good people can do their best and still fail. But maybe one last little juicy plot point towards the end of the book would have really wrapped up things nicely. For example, what if Jordie 
