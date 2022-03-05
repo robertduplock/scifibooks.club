@@ -2,7 +2,7 @@
 book_author = "Una McCormack"
 book_title = "Star Trek: Picard: The Last Best Hope"
 date = 2022-03-03T03:18:44Z
-description = "Book review of Star Trek: Picard: The Last Best Hope by AUTHOR"
+description = "Book review of Star Trek: Picard: The Last Best Hope by Una McCormack"
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581536639l/52617889._SX318_SY475_.jpg"
 rating = 4
 series = []
