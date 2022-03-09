@@ -18,9 +18,9 @@ When Una McCormack was selected to write the first tie-in novel for _Star Trek: 
 
 <!--more-->
 
-For the record, I am a Picard fan. I decided to read _The Last Best Hope_ as I rewatched season 1, in preparation for the upcoming season 2. I acknowledge the show had its faults (particularly in the last couple of episodes), and it is a much darker Trek than what we've had before. It's not everyone's cup of earl grey, and that's okay.
+For the record, I am a Picard fan. I decided to read _The Last Best Hope_ as I rewatched season one, in preparation for the upcoming season two. I acknowledge the show had its faults (particularly in the last couple of episodes), and it is a much darker Trek than what we've had before. It's not everyone's cup of earl grey, and that's okay.
 
-Anyway, back to the book. My wife said to me once, "Sometimes you pick up a book, read the first page, and you just know that you're in good hands." That's how I felt picking up _The Last Best Hope_. The first thing I noticed is how lovingly to book is written. The prose is neat and clean, and the story is nicely paced — not too fast, not too slow.
+Anyway, back to the book. My wife said to me once, "Sometimes you pick up a book, read the first page, and you just know that you're in good hands." That's how I felt picking up _The Last Best Hope_. The first thing I noticed is how lovingly the book is written. The prose is neat and clean, and the story is nicely paced — not too fast, not too slow.
 
 The plot goes like this: the Romulans, long time enemies of the Federation, are facing certain destruction as their sun is set to go supernova. Jean-Luc Picard, now an Admiral, leads a massive rescue effort. However, not everyone thinks Starfleet should burn the candle at both ends saving their old enemy. Furthermore, they face resistance from the Romulans themselves, who have a longstanding culture of fear and paranoia.
 
