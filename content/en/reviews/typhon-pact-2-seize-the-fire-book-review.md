@@ -44,7 +44,7 @@ Weirdly, by the end of the book, suddenly we find out the 'ecosculptor' is a sen
 
 {{< pullout >}} ... the Gorn storylines are a dull distraction from the Titan based chapters {{< /pullout >}}
 
-It's not all bad, though. Michael A. Martin was obviously tasked with expanding the Gorn, who appeared in just one episode of _Sar Trek: The Original Series_. He does a decent job, as we learn that the Gorn are split into castes, and their children are born and raised in carefully produced hatcheries.
+It's not all bad, though. Michael A. Martin was obviously tasked with expanding the Gorn, who appeared in just one episode of _Star Trek: The Original Series_. He does a decent job, as we learn that the Gorn are split into castes, and their children are born and raised in carefully produced hatcheries.
 
 James Swallow's excellent Titan novel _Synthesis_ did a much better job with Titan's diverse cast of characters. Swallow showed us a lot more interaction between sets of characters, giving us a chance to get to know them a little better. But with _Seize The Fire_, most of the characters are reduced to a few quippy one-liners, followed by them lamenting the tricky situation they find themselves in.
 
