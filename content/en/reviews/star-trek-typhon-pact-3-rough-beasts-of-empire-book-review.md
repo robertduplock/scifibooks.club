@@ -8,7 +8,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 rating = 3.5
 series = ["Star Trek: Post-Nemesis Relaunch"]
 show_reading_time = true
-tags = ["Crossover", "Deep Space Nine", "Star Trek"]
+tags = ["David R. George III", "Crossover", "Deep Space Nine", "Star Trek"]
 title = "Star Trek: Typhon Pact #3 Rough Beasts of Empire book review"
 weight = 21
 
