@@ -13,4 +13,4 @@ title = "Star Trek: Typhon Pact #3 Rough Beasts of Empire book review"
 weight = 21
 
 +++
-Review goes here.
+The review goes here.
