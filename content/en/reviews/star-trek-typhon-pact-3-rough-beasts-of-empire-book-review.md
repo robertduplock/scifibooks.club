@@ -41,10 +41,12 @@ The last thing worth mentioning is author David R. George III's writing style. G
 
 > Never use a long word where a short one will do. If it is possible to cut a word out, always cut it out.
 
-It's safe to say David R. George III does not subscribe to this school of writing. Firstly, he uses some pretty obscure words, particularly in the first half of the book. Here are a few examples:
+It's safe to say David R. George III does not subscribe to this school of writing. Firstly, he uses some pretty obscure words, particularly in the book's first half. Here are a few examples:
 
 * A **_surfeit_** of powerful emotions threatened to overwhelm him
 * The grave expression on her young face **_presaged_** her answer
 * The ancient manuscript—it **_antedated_** the city itself
 
-Now, I might just be a bit of a dummy, but I had to look up what each of those words means —  _surfeit, presaged_ and _antedated _are not exactly commonly used in day-to-day language. 
+Now, I might just be a bit of a dummy, but I had to look up what each of those words means —  _surfeit, presaged_ and _antedated _are not exactly words commonly used in everyday language. Furthermore, his prose is verbose. _Very_ verbose. Often there would be a line of dialogue, followed by 2-3 paragraphs outlining that character's inner thoughts and feelings before the next line of dialogue appears. Sometimes I wanted to scream, _Just let the characters speak!_
+
+It's not that he can't write. Far from it, much of the time David R. George III writes beautifully. But he lacks restraint. 
