@@ -43,4 +43,8 @@ The last thing worth mentioning is author David R. George III's writing style. G
 
 It's safe to say David R. George III does not subscribe to this school of writing. Firstly, he uses some pretty obscure words, particularly in the first half of the book. Here are a few examples:
 
-* 
+* A **_surfeit_** of powerful emotions threatened to overwhelm him
+* The grave expression on her young face **_presaged_** her answer
+* The ancient manuscript—it **_antedated_** the city itself
+
+Now, I might just be a bit of a dummy, but I had to look up what each of those words means —  _surfeit, presaged_ and _antedated _are not exactly commonly used in day-to-day language. 
