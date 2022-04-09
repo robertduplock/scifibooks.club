@@ -15,7 +15,7 @@ weight = 21
 +++
 The third book in the Typhon Pact series is here. Rough Beasts of Empire was written by David R. George III back in 2011. It's a book of two parts: the first focuses on Benjamin Sisko (from Deep Space Nine) in the post Destiny era, and the second focuses on Spock and his quest for the reunification of Vulcan and Romulus.
 
-**Spoilers ahead.**
+**Spoilers ahead**
 
 <!--more-->
 
