@@ -49,4 +49,6 @@ It's safe to say David R. George III does not subscribe to this school of writin
 
 Now, I might just be a bit of a dummy, but I had to look up what each of those words means —  _surfeit, presaged_ and _antedated _are not exactly words commonly used in everyday language. Furthermore, his prose is verbose. _Very_ verbose. Often there would be a line of dialogue, followed by 2-3 paragraphs outlining that character's inner thoughts and feelings before the next line of dialogue appears. Sometimes I wanted to scream, _Just let the characters speak!_
 
-It's not that he can't write. Far from it, much of the time David R. George III writes beautifully. But he lacks restraint. 
+It's not that he can't write. Far from it, much of the time David R. George III writes beautifully. But he lacks restraint. It feels at times that his goal is to impress the reader, rather than immerse the reader in the fictional world. If I want literary fiction, I'll read David Foster Wallace. If I want fun escapist fiction, I'll read Star Trek.
+
+Overall, _Rough Beats of Empire_ is probably the best of the three Typhon Pact books thus far, but not by much. It's a shame the Sisko storyline was such a fail because the book's other half is a damned decent read. Pocketbooks (the publisher) was in financial turmoil at the time, and the book has three different managing editors at different points in time, so perhaps that caused some issues. Nevertheless, it's a novel that shows tremendous potential, and while I didn't love it, I am looking forward to reading more David R. George III.
