@@ -35,6 +35,8 @@ However, it's not all bad. I found the Spock/Romulan storyline to be a pleasant 
 
 Essentially, Spock pitches the idea of decriminalising the reunification movement, suggesting that it would help encourage the unification of the fractured Romulan empire — Donatra controls one half while Tal'Aura controls the other. But ultimately, he is used by Tal'Aura, who ultimately takes control of the empire... only to find herself slumped over and drooling on the floor. Because lurking in the background is the Tzenkethi, secretly running the show.
 
+{{< pullout >}} Much of the time David R. George III writes beautifully. But he lacks restraint. {{< /pullout >}}
+
 Perhaps I would have preferred the ending because the Romulans remained in control rather than the Tzenkethi. However, because the Tzenkethi were so easily able to pull the strings, the Romulan's penchant for scheming, plots, and double-crosses aren't as formidable as we're led to believe. Nevertheless, it was nice to see the post-Nemesis/Romulan plot continue from earlier relaunch books such as [_Death In Winter_](https://scifibooks.club/reviews/star-trek-the-next-generation-death-in-winter-book-review/) and [_Taking Wing_](https://scifibooks.club/reviews/star-trek-titan-taking-wing-book-review-i/). 
 
 The last thing worth mentioning is author David R. George III's writing style. George Orwell once said:
