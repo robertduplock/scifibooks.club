@@ -27,6 +27,8 @@ I haven't read the other Deep Space Nine books set after the series finale, so c
 
 But, as other reviews have pointed out, the Sisko we see in _Rough Beasts of Empire_ feels divorced from the character we came to know and love on the show. The Bajoran Prophets have stopped returning his texts and unfriended him on Facebook. And in the wake of the recent Borg destruction, he's convinced himself that if he stays with his Wife (Kassidy Yates) and daughter, he's doomed to a life of misery (because that's what the prophets said would happen in the show).
 
+![](/uploads/typhonpact-german-preliminarycovers.jpeg)
+
 I have stated in earlier reviews that one of my three golden rules of tie-in novels is that no character should behave incongruently with their onscreen counterpart. Unfortunately, the Sisko storyline is an epic fail when held up against this rule. After watching him struggle for seven seasons as a single father, he then abandons his wife and child to the same fate. And I won't even get into the racial aspects of it either. Safe to say, I think Avery Brooks would never have dreamed Sisko could take such a huge step back.
 
 However, it's not all bad. I found the Spock/Romulan storyline to be a pleasant surprise. Spock and his small group of comrades secretly run a movement to unify the Vulcan and Romulan people. For those who don't know, Romulans and Vulcans share a common heritage but developed vastly different cultures. I'm not typically an enthusiast of Romulan stories — and although it was a bit slow to start with, I found myself sucked drawn the Romulan plotting, backstabbing and intrigue. 
