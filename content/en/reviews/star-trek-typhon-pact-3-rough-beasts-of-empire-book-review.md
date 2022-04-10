@@ -3,7 +3,6 @@ book_author = "David R. George III"
 book_title = "Typhon Pact #3 Rough Beasts of Empire"
 date = 2022-04-07T07:40:23Z
 description = "Book review of Typhon Pact #3 Rough Beasts of Empire by David R. George III"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430453778l/7956806.jpg"
 rating = 3.5
 series = ["Star Trek: Post-Nemesis Relaunch"]
@@ -19,7 +18,7 @@ The third book in the Typhon Pact series is here. _Rough Beasts of Empire_ was w
 
 <!--more-->
 
-Before I get into the details of this review, I'm going to get the obvious stuff out of the way first: the Benjamin Sisko storyline sucks, while the Spock storyline is pretty good. If you've read the book or read other reviews, there is a general consensus that _Rough Beasts of Empire_ is about 50% of a good book.
+Before I get into the details of this review, I'm going to get the obvious stuff out of the way first: the Benjamin Sisko storyline sucks, while the Spock storyline is pretty good. In other words, _Rough Beasts of Empire_ is about 50% of a good book.
 
 Okay, now that I've got that out of the way — I will also point out that, despite this book being #3 in the Typhon Pact series, it is chronologically the first. So now it makes a lot of sense why people recommend reading this one before [_Typhon Pact #1 Zero Sum Game_](https://scifibooks.club/reviews/typhon-pact-1-zero-sum-game-book-review/) and [_Typhon Pact #2 Seize The Fire_](https://scifibooks.club/reviews/typhon-pact-2-seize-the-fire-book-review/)_._
 
