@@ -39,4 +39,4 @@ Paula Myo emerged as probably the best character in the book, but one thing that
 
 When it comes to worldbuilding, Peter F Hamilton really goes all-out. Every facet of life is upgraded: e-butlers, OC tattoos, dry coral houses, and trains that transit through wormholes. You name it, in the future, everything has a high-tech upgrade. Not to mention the human memory dumps and body rejuvenations. A big part of the book's enduring popularity is that it's a futuristic world that the reader can really sink into. 
 
-It's no secret that sci-fi and fantasy readers love big books. 
+It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel of Time, The Expanse — all these series comprise door-stopper books. However, coming in at a crazy 350 000 words, is _Pandora's Star_ too long? Honestly, I'd say yes. While it does offer remarkable good value (it's basically the equivalent of an entire book trilogy, which sells on the Kobo store for about ten bucks), I sometimes wished the author had reined it in, just a little.
