@@ -32,3 +32,5 @@ When it comes to _Pandora's Star_, I have one major quibble and a few minor quib
 To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel. The whole thing felt unnecessary and barely connected to the main plot. And I expected it to pay off more by the end – to come back around and give me an _aha_ moment. But it ended with a cliffhanger. 
 
 Minor quibbles: Some of the characters were a bit droll. Probably the most interesting ones were Paula Myo and Adam Elvin. Ozzie could have been a great character if he'd had a more exciting storyline. William Kime was okay, and Mellanie evolved into someone pretty interesting. But many of the characters — Nigel Sheldon, Alessandra Baron, Bradley Johansson, Hoshe Finn, Orion... well, they didn't exactly leap off the page.
+
+Speaking of characters, I had another minor quibble: virtually all the characters were rich and powerful. A more balanced cast would have been nice. So often, the book seemed to be a set of endless dinner parties populated by the rich and famous.
