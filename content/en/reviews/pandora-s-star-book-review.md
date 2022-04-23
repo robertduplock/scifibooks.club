@@ -35,4 +35,4 @@ Minor quibbles: Some of the characters were a bit droll. Probably the most inter
 
 Speaking of characters, I had another minor quibble: virtually all the characters were rich and powerful. A more balanced cast would have been nice. So often, the book seemed to be a set of endless dinner parties populated by the rich and famous.
 
-Paula Myo emerged as probably the best character in the book, but one thing that bugged me a bit was how often she bungled her investigation of Adam Elvin. She is meant to be a supercop. Yet often, Adam Elvin simply spots her in the crowd and aborts a mission. I get that he's meant to be her one unsolved case and something that haunts her from her past. 
+Paula Myo emerged as probably the best character in the book, but one thing that bugged me a bit was how often she bungled her investigation of Adam Elvin. She is meant to be a supercop. Yet often, Adam Elvin simply spots her in the crowd and aborts a mission. I get that he's meant to be her one unsolved case and something that haunts her from her past. But often, I felt as though she'd be better off handing the case over to Hoshe.
