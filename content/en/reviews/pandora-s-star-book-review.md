@@ -36,3 +36,7 @@ Minor quibbles: Some of the characters were a bit droll. Probably the most inter
 Speaking of characters, I had another minor quibble: virtually all the characters were rich and powerful. A more balanced cast would have been nice. So often, the book seemed to be a set of endless dinner parties populated by the rich and famous.
 
 Paula Myo emerged as probably the best character in the book, but one thing that bugged me a bit was how often she bungled her investigation of Adam Elvin. She is meant to be a supercop. Yet often, Adam Elvin simply spots her in the crowd and aborts a mission. I get that he's meant to be her one unsolved case and something that haunts her from her past. But often, I felt as though she'd be better off handing the case over to Hoshe.
+
+When it comes to worldbuilding, Peter F Hamilton really goes all-out. Every facet of life is upgraded: e-butlers, OC tattoos, dry coral houses, and trains that transit through wormholes. You name it, in the future, everything has a high-tech upgrade. Not to mention the human memory dumps and body rejuvenations. A big part of the book's enduring popularity is that it's a futuristic world that the reader can really sink into. 
+
+It's no secret that sci-fi and fantasy readers love big books. 
