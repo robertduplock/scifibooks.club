@@ -35,6 +35,8 @@ When it comes to _Pandora's Star_, I have one major quibble and a few minor quib
 
 To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel. The whole thing felt unnecessary and barely connected to the main plot. And I expected it to pay off more by the end – to come back around and give me an _aha_ moment. But it ended with a cliffhanger. 
 
+![](/uploads/pandora_s_star_characters_part_1_by_kernovy_d7foqgm-pre.jpeg)
+
 Minor quibbles: Some of the characters were a bit droll. Probably the most interesting ones were Paula Myo and Adam Elvin. Ozzie could have been a great character if he'd had a more exciting storyline. William Kime was okay, and Mellanie evolved into someone pretty interesting. But many of the characters — Nigel Sheldon, Alessandra Baron, Bradley Johansson, Hoshe Finn, Orion... well, they didn't exactly leap off the page.
 
 Speaking of characters, I had another minor quibble: virtually all the characters were rich and powerful. A more balanced cast would have been nice. So often, the book seemed to be a set of endless dinner parties populated by the rich and famous.
@@ -47,6 +49,8 @@ Paula Myo emerged as probably the best character in the book, but one thing that
 
 Some have criticised the book for its lack of strong female characters (other than Paula Myo). Most of the other major female characters are sleeping with a more interesting male character. A big problem is when female characters are only relevant by their relationship to male characters — if that makes sense. It's a common problem with space opera, but considering the book was written in 2005, I might have hoped for something a little more.
 
+![](/uploads/pandora_s_star_characters_part2_by_kernovy_d7fosh6-fullview.jpeg)
+
 When it comes to worldbuilding, Peter F Hamilton really goes all-out. Every facet of life is upgraded: e-butlers, OC tattoos, dry coral houses, and trains that transit through wormholes. You name it, in the future, everything has a high-tech upgrade. Not to mention the human memory dumps and body rejuvenations. A big part of the book's enduring popularity is that it's a futuristic world that the reader can really sink into. 
 
 It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel of Time, The Expanse — all these series comprise door-stopper books. However, coming in at a crazy 350 000 words, is _Pandora's Star_ too long? Honestly, I'd say yes. While it does offer remarkable good value (it's basically the equivalent of an entire book trilogy, which sells on the Kobo store for about ten bucks), I sometimes wished the author had reined it in, just a little.
@@ -54,3 +58,7 @@ It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel o
 All that being said, the main story is a gripping one. Things get particularly good when they send a starship out to investigate the Dyson Sphere. I wish we'd got to spend a bit more time with Kime and his crew, but on the whole, it was an intriguing and imaginative story.
 
 _Pandora's Star_ is an example of classy B-grade space opera. Unfortunately for me, it didn't quite live up to the hype. But I still enjoyed it, and I plan to read the sequel, Judas Unchained. After a little break, perhaps. 
+
+***
+
+_Images care of the amazing artist "Kenovy":_ [_https://www.deviantart.com/kernovy_](https://www.deviantart.com/kernovy "https://www.deviantart.com/kernovy")
