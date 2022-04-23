@@ -42,3 +42,5 @@ When it comes to worldbuilding, Peter F Hamilton really goes all-out. Every face
 It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel of Time, The Expanse — all these series comprise door-stopper books. However, coming in at a crazy 350 000 words, is _Pandora's Star_ too long? Honestly, I'd say yes. While it does offer remarkable good value (it's basically the equivalent of an entire book trilogy, which sells on the Kobo store for about ten bucks), I sometimes wished the author had reined it in, just a little.
 
 All that being said, the main story is a gripping one. Things get particularly good when they actually send a starship out to investigate the Dyson Sphere. I wish we'd got to spend a bit more time with Kime and his crew, but on the whole, it was an intriguing and imaginative story.
+
+_Pandora's Star_ is an example of classy B-grade space opera. For me, it didn't quite live up to the hype. But I still enjoyed it, and I do plan on reading the sequel, Judas Unchained. After a little break, perhaps. 
