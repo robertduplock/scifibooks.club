@@ -26,3 +26,9 @@ First and foremost, astronomer Dudley Bose discovers two star systems simultaneo
 Meanwhile, these wacko folks who call themselves the Guardians believe a malevolent alien called the Starflyer secretly manipulates humanity into investigating the Dyson Sphere for its own nefarious purposes.
 
 Thirdly, eccentric bazillionaire Ozzie Isaacs decides he needs to find the Silfen — a mysterious, childlike alien race — and ask them what's up with the Dyson Sphere. However, he gets trapped in a strange, icy world and has to eventually escape.
+
+When it comes to _Pandora's Star_, I have one major quibble and a few minor quibbles. So let's get the big one out of the way: The Ozzie storyline is a boring distraction from the main event. Ozzie's actual motivation in seeking out the Silfen is vague, and as soon as he finds them and asks them, they are of no help — which is precisely what he expected. Then he gets trapped in the Ice Citadel and has to find a way out. 
+
+To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel. The whole thing felt unnecessary and barely connected to the main plot. And I expected it to pay off more by the end – to come back around and give me an _aha_ moment. But it ended with a cliffhanger. 
+
+Minor quibbles: Some of the characters were a bit droll. Probably the most interesting ones were Paula Myo and Adam Elvin. Ozzie could have been a great character if he'd had a more exciting storyline. William Kime was okay, and Mellanie evolved into someone pretty interesting. But many of the characters — Nigel Sheldon, Alessandra Baron, Bradley Johansson, Hoshe Finn, Orion... well, they didn't exactly leap off the page.
