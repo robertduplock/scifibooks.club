@@ -59,4 +59,4 @@ _Pandora's Star_ is an example of classy B-grade space opera. Unfortunately for 
 
 * _Images care of the amazing artist_ [_Kenovy_](https://www.deviantart.com/kernovy)_._
 
-  ***
+***
