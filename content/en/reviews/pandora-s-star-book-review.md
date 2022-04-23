@@ -27,6 +27,10 @@ Meanwhile, these wacko folks who call themselves the Guardians believe a malevol
 
 Thirdly, eccentric bazillionaire Ozzie Isaacs decides he needs to find the Silfen — a mysterious, childlike alien race — and ask them what's up with the Dyson Sphere. However, he gets trapped in a strange, icy world and has to eventually escape.
 
+{{< pullout >}}
+To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel.
+{{< /pullout >}}
+
 When it comes to _Pandora's Star_, I have one major quibble and a few minor quibbles. So let's get the big one out of the way: The Ozzie storyline is a boring distraction from the main event. Ozzie's actual motivation in seeking out the Silfen is vague, and as soon as he finds them and asks them, they are of no help — which is precisely what he expected. Then he gets trapped in the Ice Citadel and has to find a way out. 
 
 To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel. The whole thing felt unnecessary and barely connected to the main plot. And I expected it to pay off more by the end – to come back around and give me an _aha_ moment. But it ended with a cliffhanger. 
@@ -35,12 +39,16 @@ Minor quibbles: Some of the characters were a bit droll. Probably the most inter
 
 Speaking of characters, I had another minor quibble: virtually all the characters were rich and powerful. A more balanced cast would have been nice. So often, the book seemed to be a set of endless dinner parties populated by the rich and famous.
 
+{{< pullout >}}
+When it comes to worldbuilding, Peter F Hamilton really goes all-out
+{{< /pullout >}}
+
 Paula Myo emerged as probably the best character in the book, but one thing that bugged me a bit was how often she bungled her investigation of Adam Elvin. She is meant to be a supercop. Yet often, Adam Elvin simply spots her in the crowd and aborts a mission. I get that he's meant to be her one unsolved case and something that haunts her from her past. But often, I felt as though she'd be better off handing the case over to Hoshe.
 
 When it comes to worldbuilding, Peter F Hamilton really goes all-out. Every facet of life is upgraded: e-butlers, OC tattoos, dry coral houses, and trains that transit through wormholes. You name it, in the future, everything has a high-tech upgrade. Not to mention the human memory dumps and body rejuvenations. A big part of the book's enduring popularity is that it's a futuristic world that the reader can really sink into. 
 
 It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel of Time, The Expanse — all these series comprise door-stopper books. However, coming in at a crazy 350 000 words, is _Pandora's Star_ too long? Honestly, I'd say yes. While it does offer remarkable good value (it's basically the equivalent of an entire book trilogy, which sells on the Kobo store for about ten bucks), I sometimes wished the author had reined it in, just a little.
 
-All that being said, the main story is a gripping one. Things get particularly good when they actually send a starship out to investigate the Dyson Sphere. I wish we'd got to spend a bit more time with Kime and his crew, but on the whole, it was an intriguing and imaginative story.
+All that being said, the main story is a gripping one. Things get particularly good when they send a starship out to investigate the Dyson Sphere. I wish we'd got to spend a bit more time with Kime and his crew, but on the whole, it was an intriguing and imaginative story.
 
-_Pandora's Star_ is an example of classy B-grade space opera. For me, it didn't quite live up to the hype. But I still enjoyed it, and I do plan on reading the sequel, Judas Unchained. After a little break, perhaps. 
+_Pandora's Star_ is an example of classy B-grade space opera. Unfortunately for me, it didn't quite live up to the hype. But I still enjoyed it, and I plan to read the sequel, Judas Unchained. After a little break, perhaps. 
