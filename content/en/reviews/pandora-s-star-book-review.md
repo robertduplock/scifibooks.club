@@ -53,7 +53,7 @@ It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel o
 
 All that being said, the main story is a gripping one. Things get particularly good when they send a starship out to investigate the Dyson Sphere. I wish we'd got to spend a bit more time with Kime and his crew, but on the whole, it was an intriguing and imaginative story.
 
-_Pandora's Star_ is an example of classy B-grade space opera. Unfortunately for me, it didn't quite live up to the hype. But I still enjoyed it, and I plan to read the sequel, _Judas Unchained_. After a little break, perhaps.
+_Pandora's Star_ is an example of classy b-grade space opera. Unfortunately for me, it didn't quite live up to the hype. But I still enjoyed it, and I plan to read the sequel, _Judas Unchained_. After a little break, perhaps.
 
 ***
 
