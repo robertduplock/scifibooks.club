@@ -20,6 +20,11 @@
         <img class="br2" loading="lazy" src="{{ $.Param "inline_image" }}" />
       </div>
       {{ .Summary }}
+      {{ if .Params.rating }}
+        <div class="mt2" style="zoom: 0.8;">
+          {{ partial "star-rating.html" . }}
+        </div>
+      {{ end }}
     </div>
   </div>
 </div>

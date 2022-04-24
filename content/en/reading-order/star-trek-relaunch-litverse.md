@@ -4,6 +4,8 @@ description: "Star Trek Relaunch / Litverse Reading Order"
 draft: false
 ---
 
+### Work in progress - not yet complete
+
 This is a sensible reading order to the Star Trek books set after the finales for The Next Generation, Deep Space Nine & Voyager.
 
 It includes crossovers and various spin-offs such as Titan & Section 31.
