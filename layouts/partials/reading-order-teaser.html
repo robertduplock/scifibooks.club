@@ -1,0 +1,20 @@
+<div class="relative mb3 bg-white nested-copy-line-height pa3 br2 flex w-100 w-49-ns mr2" data-series="{{ .series }}">
+  <div class="w3 mr3 flex items-center">
+    <img class="br2" loading="lazy" src="{{ .image }}" />
+  </div>
+  <div class="black-80">
+    <span class="f6">{{ .series }}</span>
+      {{ if .review }}
+    <a class="link underline black-80" href="{{ .review }}" target="_blank" title="Read our review">
+        {{ end }}
+      <h2 class="f4 mb1">{{ .title }}</h2>
+        {{ if .review }}
+    </a>
+      {{ end }}
+      {{ if .subtitle }}
+        <span class="f6">({{ .subtitle }})</span>
+      {{ end }}
+    <p class="f5">By {{ .author }}, published {{ .year }}</p>
+    <p></p>
+  </div>
+</div>

@@ -73,6 +73,7 @@
     {{ end }}
   
     {{ if eq .Section "reviews" }}
+      {{ if $.Param "rating" }}
       <script type="application/ld+json">
         {
           "@context": "https://schema.org/",
@@ -99,6 +100,7 @@
           }
         }
       </script>
+      {{ end }}
     {{ end }}
   </head>
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">

@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+  <div class="pa3 pa4-ns w-100 w-80-ns center">
+
+    <div class="center tc pb3 mb3 ph3">
+      {{ .Content }}
+    </div>
+
+    {{/* The form to filter the results */}}
+    <form class="reading-order center mb3 flex flex-wrap bg-white ba b--silver pv3 ph4 br3 w-90 w-60-l mb4">
+      <h3 class="db w-100 tc mt0 mb3 pb2 bb b--light-gray">Filter Books</h3>
+      {{ range $type, $fields := $.Site.Data.startrek.readingorder.form }}
+        <fieldset id="sign_up" class="ba b--transparent ph0 mh0 w-100 w-50-l">
+          <legend class="f4 fw6 ph0 mh0 mb2">{{ $type | upper }}</legend>
+          {{ range $field := $fields }}
+            <div class="mr3 bb b--light-gray pb2 mb2">
+              <label class="w-80 dib" for="{{ $field }}">{{ $field }}</label>
+              <input class="pointer facet-{{ $type }}" value="{{ $field }}" type="checkbox" name="{{ $field }}" checked="true" />
+            </div>
+          {{ end }}
+        </fieldset>
+      {{ end }}
+    </form>
+
+    {{ $data := newScratch }}
+    {{ $data.Set "type" "***" }}
+    {{ $data.Set "wrapper" "true" }}
+    {{ range $i, $book := $.Site.Data.startrek.readingorder.books }}
+      {{ if eq .type ($data.Get "type") }}
+        {{ $data.Set "wrapper" "false" }}
+      {{ else }}
+        {{ $data.Set "wrapper" "true" }}
+      {{ end }}
+      {{ if eq ($data.Get "wrapper") "true" }}
+        {{ if gt $i 0 }}
+          </fieldset>
+        {{ end }}
+        <fieldset class="ba b--medium-gray pa3 mb1 br2 flex flex-wrap justify-start mb4" data-type="{{ .type }}">
+          <legend class="f4 fw6 ph0 mh0"> &nbsp; {{ .type | upper }} &nbsp; </legend>
+        {{ $data.Set "wrapper" "false" }}
+        {{ $data.Set "type" .type }}
+      {{ end }}
+      {{ partial "reading-order-teaser.html" . }}
+    {{ end }}
+
+  </div>
+{{ end }}

@@ -1,0 +1,397 @@
+books:
+  # Relaunch #1
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387736954l/278040.jpg"
+    title: A Stitch in Time
+    subtitle: ""
+    series: Deep Space Nine
+    author: Andrew Robinson
+    year: 2000
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347355894l/103188.jpg"
+    title: Avatar
+    subtitle: "Book One"
+    series: Deep Space Nine
+    author: S.D. Perry
+    year: 2001
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387739735l/131631.jpg"
+    title: Avatar
+    subtitle: Book Two
+    series: Deep Space Nine
+    author: S.D. Perry
+    year: 2001
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588252130l/216886.jpg"
+    title: Abyss
+    subtitle: Section 31
+    series: Deep Space Nine
+    author: David Weddle, Jeffrey Lang
+    year: 2001
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388927636l/103191.jpg"
+    title: "Demons of Air and Darkness"
+    subtitle: "Gateways #4"
+    series: Deep Space Nine
+    author: Keith R.A. DeCandido
+    year: 2001
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175797497l/559645.jpg"
+    title: "What Lay Beyond"
+    subtitle: "Anthology - Story: Horn and Ivory"
+    series: Deep Space Nine
+    author: Keith R.A. DeCandido, Multiple
+    year: 2001
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328306204l/5602485.jpg"
+    title: "Twilight"
+    subtitle: "Mission Gamma #1"
+    series: Deep Space Nine
+    author: David R. George III
+    year: 2002
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1180041211l/991277.jpg"
+    title: "This Gray Spirit"
+    subtitle: "Mission Gamma #2"
+    series: Deep Space Nine
+    author: Heather Jarman
+    year: 2002
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1171490706l/103187._SY475_.jpg"
+    title: "Cathedral"
+    subtitle: "Mission Gamma #3"
+    series: Deep Space Nine
+    author: Michael A. Martin
+    year: 2002
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172791965l/217926.jpg"
+    title: "Lesser Evil"
+    subtitle: "Mission Gamma #4"
+    series: Deep Space Nine
+    author: Robert Simpson
+    year: 2002
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385622062l/919578.jpg"
+    title: "The Lives of Dax"
+    subtitle: "Anthology"
+    series: Deep Space Nine
+    author: Marco Palmieri (editor)
+    year: 2002
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387710209l/529141.jpg"
+    title: "Rising Son"
+    subtitle: ""
+    series: Deep Space Nine
+    author: S.D. Perry
+    year: 2003
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387752723l/467304.jpg"
+    title: "The Left Hand of Destiny"
+    subtitle: "Book #1"
+    series: Deep Space Nine
+    author: J.G. Hertzler & Jeffrey Lang
+    year: 2003
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348271335l/571153.jpg"
+    title: "The Left Hand of Destiny"
+    subtitle: "Book #2"
+    series: Deep Space Nine
+    author: J.G. Hertzler & Jeffrey Lang
+    year: 2003
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441837953l/12130._SY475_.jpg"
+    title: "Homecoming"
+    subtitle: "Homecoming #1"
+    series: Voyager
+    author: Christie Golden
+    year: 2003
+    review: "/reviews/star-trek-voyager-homecoming-and-the-farther-shore-book-review/"
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444691563l/40278._SY475_.jpg"
+    title: "The Farther Shore"
+    subtitle: "Homecoming #2"
+    series: Voyager
+    author: Christie Golden
+    year: 2003
+    review: "/reviews/star-trek-voyager-homecoming-and-the-farther-shore-book-review/"
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387712594l/653500.jpg"
+    title: "Unity"
+    subtitle: ""
+    series: Deep Space Nine
+    author: S.D. Perry
+    year: 2003
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348011894l/217950.jpg"
+    title: "Cardassia and Andor"
+    subtitle: "Worlds of Deep Space Nine #1 (Anthology)"
+    series: Deep Space Nine
+    author: Una McCormack & Heather Jarman
+    year: 2004
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394227057l/20141919.jpg"
+    title: "Old Wounds"
+    subtitle: "Spirit Walk, Book #1"
+    series: Voyager
+    author: Christie Golden
+    year: 2004
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923179l/184869.jpg"
+    title: "Enemy of My Enemy"
+    subtitle: "Spirit Walk, Book #2"
+    series: Voyager
+    author: Christie Golden
+    year: 2004
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172792042l/217951._SY475_.jpg"
+    title: "Trill and Bajor"
+    subtitle: "Worlds of Deep Space Nine #2 (Anthology)"
+    series: Deep Space Nine
+    author: Andy Mangels, Michael A. Martin & J. Noah Kym
+    year: 2005
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348015811l/217920.jpg"
+    title: "Ferenginar & The Dominion"
+    subtitle: "Worlds of Deep Space Nine #3 (Anthology)"
+    series: Deep Space Nine
+    author: David R. George III & Keith R.A. DeCandido
+    year: 2005
+    review: ""
+    type: Relaunch
+
+# Litverse starts.
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403347818l/552163.jpg"
+    title: "Death in Winter"
+    subtitle: "The 1st TNG book set after the movie Star Trek: Nemesis"
+    series: The Next Generation
+    author: Michael Jan Friedman
+    year: 2005
+    review: "/reviews/star-trek-the-next-generation-death-in-winter-book-review/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388357417l/64004.jpg"
+    title: "Taking Wing"
+    subtitle: ""
+    series: Titan
+    author: Michael A. Martin & Andy Mangels
+    year: 2005
+    review: "/reviews/star-trek-titan-taking-wing-book-review-i/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328155058l/64003.jpg"
+    title: "The Red King"
+    subtitle: ""
+    series: Titan
+    author: Michael A. Martin & Andy Mangels
+    year: 2005
+    review: "/reviews/star-trek-titan-red-king-book-review-h/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387716925l/217649.jpg"
+    title: "Articles of the Federation"
+    subtitle: ""
+    series: Crossover
+    author: Keith R.A. DeCandido
+    year: 2005
+    review: "/reviews/star-trek-the-next-generation-articles-of-the-federation-book-review-b/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924509l/100724.jpg"
+    title: "Orion's Hounds"
+    subtitle: ""
+    series: Titan
+    author: Christopher L. Bennett
+    year: 2006
+    review: "/reviews/star-trek-titan-orions-hounds-book-review-h/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388697201l/422912.jpg"
+    title: "Resistance"
+    subtitle: ""
+    series: The Next Generation
+    author: J.M. Dillard
+    year: 2007
+    review: "/reviews/star-trek-the-next-generation-resistance-book-review/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388409762l/217901.jpg"
+    title: "Q & A"
+    subtitle: ""
+    series: The Next Generation
+    author: Keith R.A. DeCandido
+    year: 2007
+    review: "/reviews/star-trek-the-next-generation-q-a-book-review-a/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387751407l/19800037.jpg"
+    title: "Before Dishonor"
+    subtitle: ""
+    series: The Next Generation
+    author: Peter David
+    year: 2007
+    review: "/reviews/star-trek-the-next-generation-before-dishonor-book-review-d/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412722465l/22226878.jpg"
+    title: "Q are Cordially Uninvited..."
+    subtitle: "Novella"
+    series: The Next Generation
+    author: Rudy Josephs
+    year: 2014
+    review: ""
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388556924l/227822.jpg"
+    title: "Sword of Damocles"
+    subtitle: ""
+    series: Titan
+    author: Geoffrey Thorne
+    year: 2007
+    review: "/reviews/star-trek-titan-sword-of-damocles-book-review-g/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347516077l/2194489.jpg"
+    title: "Greater Than the Sum"
+    subtitle: ""
+    series: The Next Generation
+    author: Christopher L. Bennett
+    year: 2008
+    review: "/reviews/star-trek-the-next-generation-greater-than-the-sum-book-review-f/"
+    type: Litverse
+# DS9 Relaunch 2
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348734782l/451706.jpg"
+    title: "Warpath"
+    subtitle: ""
+    series: Deep Space Nine
+    author: David Mack
+    year: 2006
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388277038l/2285223.jpg"
+    title: "Fearful Symmetry"
+    subtitle: ""
+    series: Deep Space Nine
+    author: Olivia Woods
+    year: 2008
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348765369l/6058045.jpg"
+    title: "The Soul Key"
+    subtitle: ""
+    series: Deep Space Nine
+    author: Olivia Woods
+    year: 2009
+    review: ""
+    type: Relaunch
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349045847l/5602679.jpg"
+    title: "The Never Ending Sacrifice"
+    subtitle: ""
+    series: Deep Space Nine
+    author: Una McCormack
+    year: 2009
+    review: ""
+    type: Relaunch
+# Everything else is now the litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347604099l/2877224.jpg"
+    title: "Gods of Night"
+    subtitle: "Destiny #1"
+    series: Crossover
+    author: David Mack
+    year: 2008
+    review: "/reviews/star-trek-the-next-generation-destiny-trilogy-book-review-e/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441463881l/3926165._SY475_.jpg"
+    title: "Mere Mortals"
+    subtitle: "Destiny #2"
+    series: Crossover
+    author: David Mack
+    year: 2008
+    review: "/reviews/star-trek-the-next-generation-destiny-trilogy-book-review-e/"
+    type: Litverse
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347610970l/2920815.jpg"
+    title: "Lost Souls"
+    subtitle: "Destiny #3"
+    series: Crossover
+    author: David Mack
+    year: 2008
+    review: "/reviews/star-trek-the-next-generation-destiny-trilogy-book-review-e/"
+    type: Litverse
+
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388347756l/8388235.jpg"
+    title: "Losing the Peace"
+    subtitle: ""
+    series: The Next Generation
+    author: William Leisner
+    year: 2009
+    review: "/reviews/star-trek-the-next-generation-losing-the-peace-book-review/"
+    type: Litverse
+
+  -
+    image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348273413l/3926168.jpg"
+    title: "A Singular Destiny"
+    subtitle: ""
+    series: Crossover
+    author: Keith R.A. DeCandido
+    year: 2009
+    review: "/reviews/star-trek-a-singular-destiny-book-review/"
+    type: Litverse
+
+form:
+  type:
+    - Relaunch
+    - Litverse
+  series:
+    - Deep Space Nine
+    - Voyager
+    - The Next Generation
+    - Titan
+    - Crossover

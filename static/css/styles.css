@@ -23,6 +23,20 @@ body {
   height: 100%;
 }
 
+@media (min-width: 1126px) {
+  .w-49-ns {
+    width: 49%;
+  }
+}
+
+/* Used in the reading orders */
+.hide {
+  display: none !important;
+}
+.hide-children > *:not(legend) {
+  display: none !important;
+}
+
 /* Menu desktop */
 .parent-menu-item:hover > .child-menu-item {
   opacity: 0.9;
