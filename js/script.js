@@ -39,8 +39,44 @@
     }
   }
 
+  /**
+   * Book reading order
+   */
+  app.readingOrder = function() {
+    // Series.
+    document.querySelectorAll('.facet-series').forEach((checkbox) => {
+      checkbox.addEventListener('change', (e) => {
+        if (e.currentTarget.checked) {
+          document.querySelectorAll('[data-series="' + e.target.value + '"]')
+            .forEach((element) => element.classList.remove('hide'))
+        } else {
+          document.querySelectorAll('[data-series="' + e.target.value + '"]')
+            .forEach((element) => element.classList.add('hide'))
+        }
+      })
+    })
+
+    // Type (relaunch, litverse...)
+    document.querySelectorAll('.facet-type').forEach((checkbox) => {
+      checkbox.addEventListener('change', (e) => {
+        if (e.currentTarget.checked) {
+          document.querySelectorAll('[data-type="' + e.target.value + '"]')
+              .forEach((element) => element.classList.remove('hide-children'))
+        } else {
+          document.querySelectorAll('[data-type="' + e.target.value + '"]')
+              .forEach((element) => element.classList.add('hide-children'))
+        }
+      })
+    })
+  }
+
   // Call the methods.
   app.easterEggs(30000);
   app.mobileMenu();
+
+  // Reading order.
+  setTimeout(() => {
+    app.readingOrder();
+  }, 0)
 
 })();
