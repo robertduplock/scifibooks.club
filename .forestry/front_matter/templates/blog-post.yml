@@ -17,5 +17,9 @@ fields:
     max: 
   label: Tags
 pages:
+- content/en/blog/a-review-of-our-reviews.md
+- content/en/blog/ebooks-v-print-books-which-do-you-prefer.md
 - content/en/blog/science-fiction-book-reviews.md
+- content/en/blog/star-trek-deep-space-nine-s01e01-emissary-mini-review.md
 - content/en/blog/star-trek-voyager-complete-series-rewatch-and-review.md
+- content/en/blog/the-wheel-of-time-season-one-mini-review.md

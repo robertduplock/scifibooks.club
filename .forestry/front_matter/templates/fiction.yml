@@ -1,0 +1,21 @@
+---
+label: Fiction
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: Date
+- type: text
+  name: description
+  label: Description
+- type: file
+  name: featured_image
+  label: Featured image
+- type: list
+  name: tags
+  label: Tags
+- type: text
+  name: title
+  label: Title
+pages:
+- content/en/fiction/star-trek-aventine-destiny-s-edge.md
