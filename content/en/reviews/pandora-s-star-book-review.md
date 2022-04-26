@@ -27,7 +27,7 @@ First and foremost, astronomer Dudley Bose discovers two star systems simultaneo
 To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel.
 {{< /pullout >}}
 
-When it comes to _Pandora's Star_, I have one major quibble and a few minor quibbles. So let's get the big one out of the way: the Ozzie storyline is a boring distraction from the main event. Ozzie's actual motivation in seeking out the Silfen is vague, and as soon as he finds them and asks them, they are of no help — which is precisely what he expected. Then he gets trapped in the Ice Citadel and has to find a way out.
+When it comes to _Pandora's Star_, I have one major quibble and a few minor quibbles. So let's get the big one out of the way: the Ozzie storyline is a boring distraction from the main event. Ozzie's actual motivation in seeking out the Silfen is vague, and as soon as he finds them, they are of no help — which is precisely what he expected. Then he gets trapped in the Ice Citadel and has to find a way out.
 
 To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel. The whole thing felt unnecessary and barely connected to the main plot. And I expected it to pay off more by the end – to come back around and give me an _aha_ moment. But it ended with a cliffhanger.
 
