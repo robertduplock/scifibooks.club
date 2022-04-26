@@ -21,11 +21,7 @@ _Pandora's Star_ is a beloved space opera novel by British author Peter F Hamilt
 
 If you google something like "good space opera books", you will find people all over the internet raving about _Pandora's Star._ It's a huge book with a large cast of characters that basically boils down to three main story threads.
 
-First and foremost, astronomer Dudley Bose discovers two star systems simultaneously enclosed by some kind of barrier — which becomes known as a Dyson Sphere. Thus, humans let their dang curiosity get the better of them, and send a starship out to investigate.
-
-Meanwhile, these wacko folks who call themselves the Guardians believe a malevolent alien called the Starflyer is secretly manipulating humanity into investigating the Dyson Sphere for its own nefarious purposes.
-
-Thirdly, eccentric bazillionaire Ozzie Isaacs decides he needs to find the Silfen — a mysterious, childlike alien race — and ask them what's up with the Dyson Sphere. However, he gets trapped in a strange, icy world and has to escape.
+First and foremost, astronomer Dudley Bose discovers two star systems simultaneously enclosed by some kind of barrier — which becomes known as a Dyson Sphere. Thus, humans let their dang curiosity get the better of them, and send a starship out to investigate. Meanwhile, these wacko folks who call themselves the Guardians believe a malevolent alien called the Starflyer is secretly manipulating humanity into investigating the Dyson Sphere for its own nefarious purposes. Thirdly, eccentric bazillionaire Ozzie Isaacs decides he needs to find the Silfen — a mysterious, childlike alien race — and ask them what's up with the Dyson Sphere. However, he gets trapped in a strange, icy world and has to escape.
 
 {{< pullout >}}
 To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel.
