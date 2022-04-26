@@ -3,7 +3,6 @@ book_author = "Peter F Hamilton"
 book_title = "Pandora's Star"
 date = 2022-04-23T05:02:47Z
 description = "Book review of Pandora's Star by Peter F Hamilton"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699949l/45252._SX318_.jpg"
 rating = 3.5
 series = ["Commonwealth"]
@@ -29,7 +28,7 @@ To be honest, I found myself skim-reading some of the long, dull scenes in the I
 
 When it comes to _Pandora's Star_, I have one major quibble and a few minor quibbles. So let's get the big one out of the way: the Ozzie storyline is a boring distraction from the main event. Ozzie's actual motivation in seeking out the Silfen is vague, and as soon as he finds them, they are of no help — which is precisely what he expected. Then he gets trapped in the Ice Citadel and has to find a way out.
 
-To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel. The whole thing felt unnecessary and barely connected to the main plot. And I expected it to pay off more by the end – to come back around and give me an _aha_ moment. But it ended with a cliffhanger.
+To be honest, I found myself skim-reading some of the long, dull scenes in the Ice Citadel. The whole thing felt unnecessary and barely connected to the main plot. And I expected it to pay off more by the end – to come back around and give me an _aha_ moment. But it ended with a cliffhanger rather than a resolution.
 
 ![](/uploads/pandora_s_star_characters_part_1_by_kernovy_d7foqgm-pre.jpeg)
 
@@ -45,7 +44,7 @@ Some have criticised the book for its lack of strong female characters (other th
 
 When it comes to worldbuilding, Peter F Hamilton really goes all-out. Every facet of life is upgraded: e-butlers, OC tattoos, dry coral houses, and trains that transit through wormholes. You name it, in the future, everything has a high-tech upgrade. Not to mention the human memory dumps and body rejuvenations. I think a big part of the book's enduring popularity is that it's a futuristic world that the reader can really sink into.
 
-It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel of Time, The Expanse — all these series comprise of door-stopper novels. However, coming in at a crazy 350 000 words, is _Pandora's Star_ too long? Honestly, I'd say yes. While it does offer remarkable good value (it's basically the equivalent of an entire book trilogy, which sells on the Kobo store for about ten bucks), I sometimes wished the author had reined it in, just a little.
+It's no secret that sci-fi and fantasy readers love big books. Dune, The Wheel of Time, The Expanse — all these series comprise of door-stopper novels. However, coming in at a crazy 350 000 words, is _Pandora's Star_ too long? Honestly, I'd say yes. While it does offer remarkably good value (it's basically the equivalent of an entire book trilogy, which sells on the Kobo store for about ten bucks), I sometimes wished the author had reined it in, just a little.
 
 All that being said, the main story is a gripping one. Things get particularly good when they send a starship out to investigate the Dyson Sphere. I wish we'd got to spend a bit more time with Kime and his crew, but on the whole, it was an intriguing and imaginative story.
 
