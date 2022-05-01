@@ -8,7 +8,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 rating = 3.5
 series = ["Star Trek: The Next Generation"]
 show_reading_time = true
-tags = ["TV-era Trek", "Cassandra Rose Clarke", "Star Trek: The Next Generation"]
+tags = ["Troi", "Crusher", "TV-era Trek", "Cassandra Rose Clarke", "Star Trek: The Next Generation"]
 title = "Shadows Have Offended book review"
 weight = 0
 
@@ -19,17 +19,17 @@ It’s been a while since we’ve had a TV-era Star Trek: The Next Generation no
 
 <!--more-->
 
-_Shadows Have Offended_ is a bit of an odd one. It features two distinct storylines: story A features Picard, Worf and Deanna Troi travelling to Betazed to attend a hoity-toity revealing of ancient artefacts brought together for the first time. Story B features Riker, Data and Crusher travelling to a new world, set to become a new world for some intergalactic refugees, but everyone and everything gets struck down by a mysterious illness.
+_Shadows Have Offended_ features two distinct storylines. Story A features Picard, Worf and Deanna Troi travelling to Betazed to attend a hoity-toity revealing of ancient artefacts brought together for the first time. Story B features Riker, Data and Crusher travelling to a planet which is set to become a new world for intergalactic refugees, but everyone and everything gets struck down by a mysterious illness.
 
-The Betazed storyline is lighthearted, but aside from the artifact theft, it also dives deeper into the Troi/Worf romance that bubbled up from nothing in season 7 of The Next Generation. On-screen, the romance fizzled out as quickly as it came and always felt to me like a weird twist that didn’t need to happen. So I suppose it was ripe for expansion, and it can be fun when a tie-in novel expands on unexplained details from the show.
+The Betazed storyline is lighthearted and fun. Aside from the main story (which involves three priceless artifacts getting stolen), it also dives deeper into the Troi/Worf romance that bubbled up from nothing in season 7 of The Next Generation. On-screen, the romance fizzled out as quickly as it came and always felt to me like a weird twist that didn’t need to happen. So I suppose it was ripe for expansion, and it can be fun when a tie-in novel expands on unexplained details from the show.
 
 {{< pullout >}}
 Cassandra Rose Clarke did a fine job with all the TNG regulars
 {{< /pullout >}}
 
-The romance itself, in the novel, isn’t exactly a huge part of the story. It shows Troi and Worf getting along well, flirting a little and supporting each other. Personally, I would have like to see the book take it a step further and delve into a complete, blossoming romance — perhaps even showing us the exact set of circumstances that lead up to that on-screen kiss. Yes, it would have been risky, but it could have been gratifying.
+The romance itself, in the novel, isn’t exactly a huge part of the story. We see Troi and Worf getting along well, flirting a little and supporting each other. Personally, I would have liked the book to take it a step further and delve into a complete, blossoming romance — perhaps even showing us the exact set of circumstances that led up to that on-screen kiss.
 
-The Crusher focused storyline, in which a mystery illness infects both man and machine, was probably the stronger of the two. I’m a huge Beverly Crusher fan, and I’ve enjoyed seeing her character become more fleshed out in the books (William Leisner’s very decent _Losing the Peace_) comes to mind. Cassandra Rose Clarke did a great job with Crusher, and it was fun to see her science-the-shit out of the mystery illness.
+The Crusher focused storyline, in which a mystery illness infects both man and machine, was probably the stronger of the two. I’m a big Beverly Crusher fan, and I’ve enjoyed seeing her character become more fleshed out in the books (William Leisner’s very decent [Losing the Peace](https://scifibooks.club/reviews/star-trek-the-next-generation-losing-the-peace-book-review/) comes to mind). Cassandra Rose Clarke did a great job with Crusher, and it was fun to see her science-the-shit out of the mystery illness.
 
 ![](/uploads/cassandra_rose_clarke_shadows_offended.jpeg)
 
