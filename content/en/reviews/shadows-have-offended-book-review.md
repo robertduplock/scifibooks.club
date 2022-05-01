@@ -3,7 +3,6 @@ book_author = "Cassandra Rose Clarke"
 book_title = "Shadows Have Offended"
 date = 2022-05-01T02:43:29Z
 description = "Book review of Shadows Have Offended by Cassandra Rose Clarke"
-draft = true
 inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626296738l/55104767._SY475_.jpg"
 rating = 3.5
 series = ["Star Trek: The Next Generation"]
