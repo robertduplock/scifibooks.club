@@ -8,7 +8,7 @@ inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/
 rating = 3.5
 series = ["Star Trek: The Next Generation"]
 show_reading_time = true
-tags = ["Troi", "Crusher", "TV-era Trek", "Cassandra Rose Clarke", "Star Trek: The Next Generation"]
+tags = ["Star Trek", "Troi", "Crusher", "TV-era Trek", "Cassandra Rose Clarke", "Star Trek: The Next Generation"]
 title = "Shadows Have Offended book review"
 weight = 0
 
