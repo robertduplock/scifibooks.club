@@ -4,7 +4,7 @@
     {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
       {{ $tags = $tags | append $name }}
     {{ end }}
-    {{ $tags = shuffle $tags }}
+    {{ $tags = shuffle (first .Site.Params.tag_cloud_limit $tags) }}
 
     {{ range $tag := $tags }}
       {{ $count := len (index $.Site.Taxonomies.tags $tag) }}

@@ -63,6 +63,7 @@ title = "Sci-fi Books Club"
     stackoverflow = ""
     twitter = ""
     youtube = ""
+    tag_cloud_limit = 30
 
 [sitemap]
   changefreq = "monthly"
