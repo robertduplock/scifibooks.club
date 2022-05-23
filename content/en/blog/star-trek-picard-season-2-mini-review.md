@@ -44,3 +44,9 @@ Q was teased as a significant part of the story, but he is barely in it! Fine, t
 ### Play me another Soong
 
 At this point, I'm just tired. I love Brent Spiner, but this Soong iteration winds up being a one-dimensional bad guy, and the story was Kore was a re-hash from season 1. In some ways, this might have been the weakest point in the show. Seriously, you don't need _seven_ plot threads to fill ten episodes. They wanted to cast Spiner and Briones in the show somehow.
+
+***
+
+Did I miss anything? Overall, the season was a real muddle. It really suffered from second-act slump, where it felt like the characters were going around in circles. And it had too many story threads. But there were nice moments and good episodes, and it did end on a fairly strong note. 
+
+Overall, for me, it was just "okay". I thought season 1 was a little better.
