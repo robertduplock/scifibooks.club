@@ -31,6 +31,16 @@ Many folks over at Trek BBS seemed to love this aspect of the show, but for me, 
 
 ### Renee Picard and the Watcher
 
-"Hey, guys look... we're five episodes in and we're running out of story. How about Picard's niece is also an astronaut, and all of future history hinges on her getting on that ship?" The major issue with this story thread is that, basically, nothing happens. Not-Laris sits around in different rooms talking a lot, while Renee gets a pep-talk from Picard. Although the bit at the end where Not-Laris saves her was a neat little twist.
+"Hey, guys, look... we're five episodes in, and we're running out of story. How about Picard's niece is also an astronaut, and all of future history hinges on her getting on that ship?" The primary issue with this story thread is that, basically, nothing happens. Not-Laris sits around in different rooms, talking a lot, while Renee gets a pep-talk from Picard. Although the bit at the end where Not-Laris saves her was a neat little twist.
 
 ### Rios and the Doctor
+
+Somehow, Rios emerged as my favourite character in season 2. Rios never quite fit into the 24th century, a man out of place. I liked how he found his groove in the barbaric past. He and the doctor had good chemistry, and I enjoyed the "heart on sleeve" social commentary regarding the treatment of immigrants and refugees. However, I am bummed they left him behind.
+
+### Q is about to go zzzzzz
+
+Q was teased as a significant part of the story, but he is barely in it! Fine, the final scene with him and Picard was pretty touching. I just wish he (and Guinan, to some extent) played a more pivotal role in the story. John De Lance was great, though.
+
+### Play me another Soong
+
+At this point, I'm just tired. I love Brent Spiner, but this Soong iteration winds up being a one-dimensional bad guy, and the story was Kore was a re-hash from season 1. In some ways, this might have been the weakest point in the show. Seriously, you don't need _seven_ plot threads to fill ten episodes. They wanted to cast Spiner and Briones in the show somehow.
