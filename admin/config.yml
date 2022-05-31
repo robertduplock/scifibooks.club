@@ -9,6 +9,8 @@ publish_mode: editorial_workflow
 media_folder: "static/uploads" # Media files will be stored in the repo under static/uploads
 public_folder: "/uploads" # The src attribute for uploaded media will begin with /uploads
 
+site_url: https://scifibooks.club
+
 collections:
   - name: "review"
     label: "Review"
