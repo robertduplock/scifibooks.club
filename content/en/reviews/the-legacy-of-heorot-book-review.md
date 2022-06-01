@@ -19,6 +19,6 @@ tags:
   - Not Star Trek
 show_reading_time: true
 ---
-
+*The Legacy of Heorot* was published back in 1989. Written by powerhouse duo Larry Niven and Jerry Pournelle (with a little help from Steven Barnes), it tells the tale of a group of humans who endure a ten year frozen trip out to a new planet to start a human colony.
 
 <!-- more -->
