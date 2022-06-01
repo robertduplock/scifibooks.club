@@ -29,3 +29,23 @@ collections:
       - { label: "Series", name: "series", widget: "list"}
       - { label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" }}
       - { label: "Show reading time", name: "show_reading_time", widget: "boolean", default: true }
+  - name: "blog"
+    label: "Blog"
+    folder: "content/en/blog"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" }}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/en/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Featured image", name: "featured_image", widget: "image" }
+          - { label: "Description", name: "description", widget: "string"}
