@@ -11,9 +11,12 @@ rating: 4
 series:
   - Heorot
 tags:
-  - JerryPournelle
-  - LarryNiven
-  - StevenBarnes
+  - Jerry Pournelle
+  - Larry Niven
+  - Steven Barnes
+  - Space opera
+  - Aliens
+  - Not Star Trek
 show_reading_time: true
 ---
 Hello, world.
