@@ -22,3 +22,5 @@ show_reading_time: true
 *The Legacy of Heorot* was published back in 1989. Written by powerhouse duo Larry Niven and Jerry Pournelle (with a little help from Steven Barnes), it tells the tale of a group of humans who endure a ten year frozen trip out to a new planet to start a human colony.
 
 <!-- more -->
+
+*The Legacy of Heorot* is an unashamebly masculine book. The main character, Cadmann Weyland, is a macho soldier with a chip on his shoulder. He's surrounded by big heads and soft bodies, and being the simple army grunt that he is, he feels out of place.
