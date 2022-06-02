@@ -38,3 +38,7 @@ Early on in the story, animals in the colony wind up getting eaten in the dead o
 There is a lot to like about *The Legacy of Heorot.* It has a hard-science edge to it, which adds a nice sense of realism — but the story is firmly in the pulpy B-grade variety. The issues they face are ecological in nature, so it's up to the boffins to figure it out... Except, after being frozen in space for 10 light-years, many of them suffer from hibernation instability and are not quite firing on all cylinders. 
 
 The story is a heady mix of scientific intrigue, romance and good old fashioned monster hunting. It's well-paced, simply written and very accessible. Those seeking strong female representation need not apply though — as with many Niven/Pournelle books, strong, independent female characters are not exactly front and centre. Nearly every character (male and female) is defined by their relationship to the main character, Cadmann Weyland.
+
+One last note: the book is, apparently, very loosely based on Beowulf. I have not read or studied the famous poem, so I cannot say how similar it is. 
+
+Overall, *The Legacy of Heorot* was a fun read that did not shy away from its pulpy B-grade sensibilities. If you have a hankering for macho, monster-hunting space opera with a bit of hard science thrown in for fun, it's hard to go past this one.
