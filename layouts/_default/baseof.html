@@ -104,6 +104,7 @@
     {{ end }}
     {{/* Netlify CMS */}}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {{ partial "netlify-custom-id.html" }}
   </head>
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}

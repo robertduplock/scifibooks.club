@@ -1,0 +1,13 @@
+<script>
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", function () {
+            netlifyIdentity.init({
+                APIUrl: "https://cheerful-blancmange-43fe27.netlify.app/.netlify/identity"
+            });
+        });
+    } else {
+        netlifyIdentity.init({
+            APIUrl: "https://cheerful-blancmange-43fe27.netlify.app/.netlify/git"
+        });
+    }
+</script>
