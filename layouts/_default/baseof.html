@@ -104,7 +104,20 @@
     {{ end }}
     {{/* Netlify CMS */}}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    {{ partial "netlify-custom-id.html" }}
+    <!-- @see admin/index.html -->
+    <script>
+        if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", function () {
+                netlifyIdentity.init({
+                    APIUrl: "https://cheerful-blancmange-43fe27.netlify.app/.netlify/identity"
+                });
+            });
+        } else {
+            netlifyIdentity.init({
+                APIUrl: "https://cheerful-blancmange-43fe27.netlify.app/.netlify/git"
+            });
+        }
+    </script>
   </head>
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}

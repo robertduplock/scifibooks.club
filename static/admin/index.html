@@ -5,7 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {{ partial "netlify-custom-id.html" }}
+  <!-- @see baseof.html -->
+  <script>
+      if (document.readyState === "loading") {
+          document.addEventListener("DOMContentLoaded", function () {
+              netlifyIdentity.init({
+                  APIUrl: "https://cheerful-blancmange-43fe27.netlify.app/.netlify/identity"
+              });
+          });
+      } else {
+          netlifyIdentity.init({
+              APIUrl: "https://cheerful-blancmange-43fe27.netlify.app/.netlify/git"
+          });
+      }
+  </script>
 </head>
 <body>
 <!-- Include the script that builds the page and powers Netlify CMS -->
