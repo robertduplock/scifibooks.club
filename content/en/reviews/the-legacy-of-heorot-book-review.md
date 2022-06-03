@@ -21,6 +21,8 @@ show_reading_time: true
 ---
 The Legacy of Heorot was published back in 1989. Written by powerhouse duo Larry Niven and Jerry Pournelle (with a bit of help from Steven Barnes), it tells the tale of a group of humans who endure a ten-year frozen trip out to a new planet to start a human colony.
 
+**Spoilers ahead**
+
 <!--more-->
 
 The Legacy of Heorot is an unashamedly masculine book. The main character, Cadmann Weyland, is a macho soldier with a chip on his shoulder. He's surrounded by big heads and soft bodies, and being the simple army grunt that he is, he feels out of place.
@@ -32,6 +34,10 @@ At first, the book seems like it's setting up to be an Alien (the movie) type st
 There are some vagueish themes about the value of conservation: in killing off the adult grendels, they then realise that the "samlon" fishies are, in fact, baby grendels, and they've accidentally unleashed a wave of blood-crazed adolescence grendels, now that their only natural predator has been voted off the island.
 
 Early in the story, farm animals in the colony wind up getting eaten in the dead of night, and Cadmann is the only one who seems concerned. He explains that they need to up their defences, but the colonists disagree. It’s only when the grendels come for the humans that they realise he was right.
+
+{{< pullout >}}
+The story evolves into a heady mix of scientific intrigue, romance and good old fashioned monster hunting
+{{< /pullout >}}
 
 The Legacy of Heorot isn't exactly an in-depth character study, but the cast of characters is pleasantly suited to this B-style sci-fi story. There is Sylvia, Cadmann's love interest, who is married to another man. Carlos, Cadmann's bestie, who is there to quip and occasionally ignite grendels with a flame thrower. And Mary Ann, who is in love with Cadmann. Thus, we end up with something of a love square — Cadmann loves Sylvia, who is married to Terry, and Mary Ann loves Cadmann. 
 
