@@ -20,4 +20,16 @@ Intro
 
 <!--more-->
 
-Review
+Review:
+
+* Focuses on Picard
+* Dayton Ward writes a bit verbosely
+* Slow burn
+* Character progression more like what I expected in book series
+* Chen romance surprisingly effective
+* Asked question: Will Picard become an admiral for the sake of his child?
+* Ending with La Forge — Deus ex machina
+
+
+
+![Typhon Pact Paths of Disharmony](/uploads/typhon_pact_paths_disharmony.jpeg)
