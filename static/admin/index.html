@@ -43,7 +43,7 @@
             };
         },
         toBlock: function(obj) {
-            return `{{\{\{< pullout >}} ${obj.text} {{< /pullout >}}}}`;
+            return `{{< pullout >}} ${obj.text} {{< /pullout >}}`;
         },
         toPreview: function(obj) {
             return `{{< pullout >}} ${obj.text} {{< /pullout >}}`;
