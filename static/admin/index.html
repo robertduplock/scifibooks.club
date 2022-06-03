@@ -26,5 +26,29 @@
 <script>
     CMS.registerPreviewStyle("styles.css");
 </script>
+<script>
+    CMS.registerEditorComponent({
+        id: "pullout",
+        label: "Pullout",
+        fields: [{
+            name: "text",
+            label: "Text",
+            widget: "string"
+        }],
+        pattern: /{{< pullout text="([a-zA-Z0-9-_ ]+)" >}}/,
+        fromBlock: function(match) {
+            return {
+                title: match[1],
+                src: match[2],
+            };
+        },
+        toBlock: function(obj) {
+            return `{{\{\{< pullout >}} ${obj.text} {{< /pullout >}}}}`;
+        },
+        toPreview: function(obj) {
+            return `{{< pullout >}} ${obj.text} {{< /pullout >}}`;
+        },
+    });
+</script>
 </body>
 </html>
