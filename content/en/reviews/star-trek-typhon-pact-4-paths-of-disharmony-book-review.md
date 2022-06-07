@@ -26,6 +26,8 @@ Of course, in a Star Trek book, dramatic things have to happen — it can’t al
 
 The Andorians are having trouble having children, and the *Enterprise* is sent to help facilitate a controversial plan to incorporate alien DNA into the Andorian genome to help them be more fertile. However, a conservative group who call themselves the *Treishya* aren’t cool with the idea, and they start causing trouble.
 
+{{< pullout >}} Perhaps the strongest aspect of the story was watching Picard and Crusher wrestle with the idea of raising their child aboard a starship. {{< /pullout >}}
+
 It’s amazing how certain themes in this book (written in 2011) are true today. Primarily misinformation and the mistrust of science amongst conservative-minded people. The *Treishya* use fear of science and fear of change to drive their agenda. 
 
 Crusher eventually joins in with the scientific endeavours, only to find the involved science way beyond her level of knowledge — and Crusher knows her business. It turns out the information was leaked by the Tholians, who use this to drive a wedge between Andor and the Federation. Before we know it, Andor has voted to dump the Federation. *Ouch*.
@@ -36,11 +38,11 @@ Crusher eventually joins in with the scientific endeavours, only to find the inv
 
 Dayton Ward has a writing style that I like to call, ‘taking the long way around.’ By which I mean his writing tends to be a little verbose. I made the same observation of David R. George III. However, Ward’s verbosity is of a very different kind. Let me show a sample:
 
-“The idea of raising his own child was one Picard had pondered at infrequent intervals over the course of his life. His first love had always been space and the unparalleled potential it offered for discovery and the furthering of knowledge. Even after marrying Beverly, he at first had resisted the idea of having a child with her, though his reluctance at the time was not born from common uncertainty at the prospect of fatherhood. Instead, it sprang from the fear of what might happen to such offspring in the face of the renewed Borg threat that ultimately had escalated into an invasion ravaging the Federation during the previous year.”
+> “The idea of raising his own child was one Picard had pondered at infrequent intervals over the course of his life. His first love had always been space and the unparalleled potential it offered for discovery and the furthering of knowledge. Even after marrying Beverly, he at first had resisted the idea of having a child with her, though his reluctance at the time was not born from common uncertainty at the prospect of fatherhood. Instead, it sprang from the fear of what might happen to such offspring in the face of the renewed Borg threat that ultimately had escalated into an invasion ravaging the Federation during the previous year.”
 
 It’s a little waffly, don’t you think? Personally, I might have re-written it like so:
 
-“Picard had pondered the idea of raising a child throughout his life. His first love had always been space, exploring, discovering and furthering knowledge. Even after marrying Beverly, he resisted having a child with her, though his reluctance was not because he feared fatherhood. Instead, he feared what might happen to his child as the Borg threat loomed. Ultimately, the Borg did invade, ravaging the Federation in the process.”
+> “Picard had pondered the idea of raising a child throughout his life. His first love had always been space, exploring, discovering and furthering knowledge. Even after marrying Beverly, he resisted having a child with her, though his reluctance was not because he feared fatherhood. Instead, he feared what might happen to his child as the Borg threat loomed. Ultimately, the Borg did invade, ravaging the Federation in the process.”
 
 It’s not so much that one style is better than the other, but concise prose tends to be punchier and more powerful. Everyone tends to waffle — particularly in a first draft — and I prefer a slightly more concise style, as long as it doesn’t feel rushed.
 
