@@ -48,7 +48,7 @@ It’s not so much that one style is better than the other, but concise prose te
 
 My one minor quibble with the story was towards the end when the Treishya stormed the conference and the Starfleet personnel found their weapons rendered useless. Geordi is trying to wrestle back control of the A7 computer system, and Regnis waltzes in and magically fixes the computer. 
 
-> “Nodding, Regnis reached into the console and removed the first, second, eleventh, and twelfth chips from their respective slots. \[…] On La Forge’s console, the primary computer display now offered a new message in simple text: SYSTEM RESET COMPLETE. ENTER CUSTOMIZATION PARAMETERS.”
+> “Nodding, Regnis reached into the console and removed the first, second, eleventh, and twelfth chips from their respective slots. \[…] On La Forge’s console, the primary computer display now offered a new message in simple text: SYSTEM RESET COMPLETE. ENTER CUSTOMIZATION PARAMETERS”
 
 This felt like a *deus ex machina*, which is an unexpected power or event saving a seemingly hopeless situation, especially as a contrived plot device in a play or novel. It would have been a lot more effective to see La Forge puzzle out the problem himself, maybe drawing on some knowledge from earlier in the story.
 
