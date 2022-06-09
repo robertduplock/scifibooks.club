@@ -22,4 +22,10 @@ A year is a long time. That's how long Michael Burnham was trapped in the 32nd c
 
 <!--more-->
 
-It's easy to feel as though a whole year has slinked by, and often I find myself looking back at years end and thinking, *where did the time go?* Apparenlty this is not the case if you're name is Michael Burnham.
+It's easy to feel as though a whole year has slinked by, and often I find myself looking back at years end and thinking, *where did the time go?* Apparenlty this is not the case if you're name is Michael Burnham. In *Wonderlands*, Michael burns as brightly as ever, always trying to help and always putting her nose into places and sniffing around — whether she is welcome to or not.
+
+After Michael is saved (well, sort of) by Cleveland "Book" Booker, she finds herself catching up with Sahil, who has been keeping a remote federation outpost alive almost singlehandedly. There, she meets Jeremiah, who agrees to help her retrieve some info from her broken tricorder. In the meantime, Michael needs something to do, so Book agrees to help her get into the courier trade.
+
+There is some tension between the trio of Michael, Sahil and Book. Sahil represents the old way of doing things, while Book represents the new — and Michael finds herself pulled in both directions. She has fallen down the rabbit hole, and she struggles to understand her role in this brave new world.
+
+The books title, *Wonderlands*, is a reference to Alice in Wonderland. Michael names her small courier ship *Alice,* and there are several other references dotted throughout the book. Like Alice in Alice in Wonderland, Michael finds herself overwhelmed by a strange new world that she doesn't understand. No Federation, no Starfleet, no dilithium to power the warp drives — and so she turns to the people around her to provive guidance.
