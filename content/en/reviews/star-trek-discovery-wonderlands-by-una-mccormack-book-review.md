@@ -18,11 +18,11 @@ tags:
   - DISCO
 show_reading_time: true
 ---
-A year is a long time. That's how long Michael Burnham was trapped in the 32nd century before Discovery and her crew finally emerged from the cosmic soup of space & time. So, what did Michael get up to during that year — E.g. the gap between season 3 episode 1 and season 3 episode 2? 
+A year is a long time. That's how long Michael Burnham was trapped in the 32nd century before Discovery and her crew finally emerged from the cosmic soup of space/time. So, what did Michael get up between season 3 episode 1 and season 3 episode 2 of *Star Trek: Discovery*? Let's find out. 
 
 <!--more-->
 
-It's easy to feel as though a whole year has slinked by, and often I find myself looking back at years end and thinking, *where did the time go?* This is not the case if you're name is Michael Burnham. In *Wonderlands*, Michael burns as brightly as ever, always trying to help, putting her nose into places, and sniffing around — whether she is welcome to or not.
+It's easy to feel as though a whole year can just slip by, and often I find myself looking back at years end and thinking, *where did the time go?* This is not the case if you're name is Michael Burnham. In *Wonderlands*, Michael burns as brightly as ever, always trying to help, putting her nose into places, and sniffing around — whether she is welcome to or not.
 
 After Michael is saved (well, sort of) by Cleveland "Book" Booker, she finds herself catching up with Sahil, who has been keeping a remote federation outpost alive almost singlehandedly. There, she meets Jeremiah, who agrees to help her retrieve some info from her broken tricorder. In the meantime, Michael needs something to do, so Book agrees to help her get into the courier trade.
 
