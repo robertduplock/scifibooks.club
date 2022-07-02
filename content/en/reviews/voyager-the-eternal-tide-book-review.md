@@ -33,11 +33,11 @@ You see, Janeway (and Voyager) did something on their original trip home (the ti
 
 Confused yet? Well, it's a bit hard to summarise, but it makes sense if you read the book.
 
-The point is that a sacrifice must be made. Janeway doesn't get a free pass back into the land of the living. With a bit of help from Kes (Yes! Kes is in it — thanks, Kirsten), Janeway returns. As you can imagine, Chakotay is pretty happy to see her — once the terrible shock and horror of her sudden return has worn off, of course.
-
-*One breath, one moment, one day at a time.*\
+The point is that a sacrifice must be made. Janeway doesn't get a free pass back into the land of the living. With a bit of help from Kes (Yes! Kes is in it — thanks, Kirsten), Janeway returns. As you can imagine, Chakotay is pretty happy to see her — once the terrible shock and horror of her sudden return has worn off, of course\
 \
 The price to be paid is terrible. Q Junior, Amanda Rogers, Asfarah Eden and a good part of the fleet sacrifice their lives to save the Omega Continuum from resetting the timeline and wiping out all life as we know it. The story of Asfarah Eden's origins is satisfying, as we learn that she is a child of Omega and must return there by the book's end. 
+
+{{< pullout >}} I think I have finally made my peace with Beyer's writing style {{< /pullout >}}
 
 I think I have finally made my peace with Beyer's writing style. Perhaps her style has matured with each book (I think it has) — but also, I can read her books with a less analytical eye and simply go along for the ride. Yes, she still spells out characters' thoughts and feelings to the nth degree. Yes, her writing lacks subtlety. But she understands the characters and uses them to drive the story forward. 
 
