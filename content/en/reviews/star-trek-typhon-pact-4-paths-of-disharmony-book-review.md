@@ -14,13 +14,13 @@ tags:
   - Typhon Pact
 show_reading_time: true
 ---
-In many ways, *Paths of Disharmony* is exactly the kind of book I imagined the relaunch titles to be; a steady, measured continuation of the characters and their relationships set against a standalone story. 
+The Typhon Pact saga continues! Published in 2011, *Paths of Disharmony* explores the complex political machinations on Andor, a founding member of The Federation.
 
 **Spoilers ahead**
 
 <!--more-->
 
-I hadn’t expected it to be such a rare pleasure to see Jean-Luc Picard written so well, as he appears in the early chapters with his wife, Beverly Crusher and his son, Renee. I’ve read over twenty books in the post-Nemesis litverse. Only a handful of times have I been able to relax with these beloved characters — reading about them visiting Picard’s family home, having lunch and walking amongst the grapevines.
+In many ways, *Paths of Disharmony* is exactly the kind of book I imagined the relaunch titles to be; a steady, measured continuation of the characters and their relationships set against a standalone story. I hadn’t expected it to be such a rare pleasure to see Jean-Luc Picard written so well, as he appears in the early chapters with his wife, Beverly Crusher and his son, Renee. I’ve read over twenty books in the post-Nemesis litverse. Only a handful of times have I been able to relax with these beloved characters — reading about them visiting Picard’s family home, having lunch and walking amongst the grapevines.
 
 Of course, in a Star Trek book, dramatic things have to happen — it can’t all be characters getting along and having a pleasant time. Thus, the story’s main thrust soon interrupts Picard and Crusher’s shore leave. 
 
