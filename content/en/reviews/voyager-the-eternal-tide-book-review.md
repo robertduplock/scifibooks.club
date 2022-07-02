@@ -45,4 +45,4 @@ My only issue with the book was that the carnage and destruction were too high. 
 
 The Eternal Tide represents a turning point for Beyer as she details the Full Circle fleet's journey back through the alpha quadrant. This was one of the few Trek books I truly wanted to keep reading until late in the night, and I felt genuinely excited to pick the book back up again the next day. 
 
-`Image courtesy of unusualsuspex @Image curtesy of unusualsuspex @ deviantart.com/unusualsuspex/art/The-Eternal-Tide-406004665`
+###### Image courtesy of unusualsuspex @Image curtesy of unusualsuspex @ deviantart.com/unusualsuspex/art/The-Eternal-Tide-406004665
