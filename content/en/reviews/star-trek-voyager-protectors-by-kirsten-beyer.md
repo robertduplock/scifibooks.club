@@ -29,13 +29,15 @@ So I was curious and excited for the crew to revisit the source of the mysteriou
 
 As it turns out, the life form from *Twisted* is a kind of semi-sentient, programmable thing that was created by another race. That race ruthlessly mined the local planets for their resources, killing whoever happened to be living there in the process. But in a last minute act of defiance, these *proctors* (as they are now called in the book) attempt to assuage their guilty consciences by transporting some of the surviving, living beings onto an ark planet. 
 
-I have to admit... I felt a little let down. Although it was an interesting story in and of itself, it didn't really feel connected to the episode that inspired it. In fact, it felt as though Beyer had a cool idea for a story, and retrospectively shoehorned in the *Twisted* connection. 
-
 {{< pullout >}} Although it was an interesting story in and of itself, it didn't really feel connected to the episode that inspired it {{< /pullout >}}
+
+I have to admit... I felt a little let down. Although it was an interesting story in and of itself, it didn't really feel connected to the episode that inspired it. In fact, it felt as though Beyer had a cool idea for a story, and retrospectively shoehorned in the *Twisted* connection. 
 
 Following on from the previous novel, I expected Admiral Janeway to be in charge of the fleet at this point. However, she is called back to Earth to seek counselling and deal with some tricky politics. Ok, sure — she was assimilated by the Borg, and then she was dead, and then the moment breath returned to her recombobulated body, she saw hundreds die and the world nearly end. So fair enough, maybe she needed a minute to catch her breath before being given command.
 
 I get that Kirsten Beyer never gives us an easy win. After all this waiting, we *still* don't get to see Janeway in command. Instead, she reconnects with her mother and discovers the joys of gardening. Yes, really. In truth, I still enjoyed many of the Janeway scenes (the Picard cameo was fun) — but the whole thing did feel a bit transitionary. Almost like *Protectors* is a book between books, designed to tie two bigger story arcs together.
+
+![](https://i0.wp.com/www.tor.com/wp-content/uploads/2021/07/Trek-Voyager-Unimatrix-Zero-Pt-2-02.jpg?w=800&type=vertical&quality=100&ssl=1)
 
 Anyway, it's not that Protectors was bad — far from it. Despite the slow plot, it was still a lot of fun to revisit an old TV storyline, and the set up for the new civilisation known as the The Confederacy is an intriguing one. The general alien-of-the-week style was well executed, and it all felt very Trekky. Which is a good thing! 
 
