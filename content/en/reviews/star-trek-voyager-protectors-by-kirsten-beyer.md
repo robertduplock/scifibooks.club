@@ -1,5 +1,5 @@
 ---
-title: "Star Trek: Voyager: Protectors by Kirsten Beyer"
+title: "Star Trek: Voyager: Protectors by Kirsten Beyer book review"
 book_author: Kirsten Beyer
 book_title: "Star Trek: Voyager: Protectors"
 date: 2022-07-21T07:13:11.872Z
