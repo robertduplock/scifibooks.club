@@ -31,6 +31,8 @@ As it turns out, the life form from *Twisted* is a kind of semi-sentient, progra
 
 I have to admit... I felt a little let down. Although it was an interesting story in and of itself, it didn't really feel connected to the episode that inspired it. In fact, it felt as though Beyer had a cool idea for a story, and retrospectively shoehorned in the *Twisted* connection. 
 
+{{< pullout >}} Although it was an interesting story in and of itself, it didn't really feel connected to the episode that inspired it {{< /pullout >}}
+
 Following on from the previous novel, I expected Admiral Janeway to be in charge of the fleet at this point. However, she is called back to Earth to seek counselling and deal with some tricky politics. Ok, sure — she was assimilated by the Borg, and then she was dead, and then the moment breath returned to her recombobulated body, she saw hundreds die and the world nearly end. So fair enough, maybe she needed a minute to catch her breath before being given command.
 
 I get that Kirsten Beyer never gives us an easy win. After all this waiting, we *still* don't get to see Janeway in command. Instead, she reconnects with her mother and discovers the joys of gardening. Yes, really. In truth, I still enjoyed many of the Janeway scenes (the Picard cameo was fun) — but the whole thing did feel a bit transitionary. Almost like *Protectors* is a book between books, designed to tie two bigger story arcs together.
