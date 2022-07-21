@@ -8,7 +8,7 @@ weight: 23
 inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344662231l/13106916.jpg
 rating: 5
 series:
-  - Relaunch
+  - "Star Trek: Post-Nemesis Relaunch"
 tags:
   - Star Trek
   - Voyager
