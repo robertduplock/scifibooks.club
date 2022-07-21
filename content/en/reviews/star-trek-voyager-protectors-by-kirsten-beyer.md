@@ -17,4 +17,12 @@ tags:
   - Star Trek
 show_reading_time: true
 ---
-Foo bar wee
+Kirsten Beyer is back with yet another *Star Trek: Voyager* novel. Protectors finds Admiral Janeway sent back to Earth for psych evaluations as Chakotay and crew head out to re-investigate the spatial anomaly from the second season episode *Twisted*, in which Voyager encounters an anomaly which twists and distorts the ship's internal layout.
+
+**Spoilers ahead**
+
+<!--more-->
+
+Believe it or not, the aforementioned *Twisted* is actually one of my favourite *Voyager* episodes. And yes, I realise I am in the minority on this one. *Twisted*, for me, exemplifies the goofy charm of the early *Voyager* episodes. Maybe it's just the nostalgia speaking, but I really enjoyed that particular episode.
+
+So I was curious and excited to see the crew revisit the source of the spatial anomaly/life form — as Harry has finally decoded all that info it dumped into *Voyager's* main computer.
