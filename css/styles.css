@@ -70,7 +70,7 @@ body {
 }
 @media screen and (min-width: 960px) {
   #hamburger {
-      display: none;
+    display: none;
   }
 }
 .mobile-menu.open {
@@ -92,4 +92,17 @@ body {
 /* Fix the height of the first paragraph in a review or post */
 .nested-copy-line-height.lh-copy.nested-links.nested-img > p:first-of-type {
   margin-top: 0;
+}
+
+.home-banner {
+  padding: 2rem;
+  background-color: #357edd;
+  border-radius: 0.5rem;
+}
+
+.home-banner a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
 }
