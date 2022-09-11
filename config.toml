@@ -64,6 +64,8 @@ title = "Sci-fi Books Club"
     twitter = ""
     youtube = ""
     tag_cloud_limit = 30
+    home_banner_text = "New! Check out our interview with Una McCormack as she discusses her new Star Trek: Picard novel, Second Self."
+    home_banner_link = "https://scifibooks.club/blog/interview-with-una-mccormack/"
 
 [sitemap]
   changefreq = "monthly"

@@ -1,79 +1,79 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy dark-gray">
-    {{ .Content }}
-  </article>
-  {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
-  {{ $mainSections := .Site.Params.mainSections | default (slice "reviews") }}
-  {{/* Create a variable with that section to use in multiple places. */}}
-  {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-  {{/* Check to see if the section is defined for ranging through it */}}
-  {{ $section_count := len $section }}
-  {{ if ge $section_count 1 }}
-    {{/* Derive the section name  */}}
-    {{ $section_name := index (.Site.Params.mainSections) 0 }}
-
-    <div class="pa3 pa4-ns w-100 w-60-ns center">
-      {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
-       {{ with .Site.GetPage "section" $section_name }}
-          <h2 class="flex-none">
-            {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
-          </h2>
-        {{ end }}
-
-      {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
-
-      <section class="w-100">
-        {{/* Range through the first $n_posts items of the section */}}
-        {{ range (sort $section ".Params.date" "desc") | first $n_posts }}
-        <div class="relative w-100 mb4">
-            {{ partial "summary.html" . }}
-          </div>
-        {{ end }}
-      </section>
-
-      {{ if ge $section_count (add $n_posts 1) }}
-      <section class="w-100">
-        <h2 class="f3">{{ i18n "more" }}</h2>
-       {{/* Show four random posts not in the last $n_posts */}}
-        {{ range (first 4 (shuffle (first (sub $section_count $n_posts) $section))) }}
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="{{ .Permalink }}" class="link black dim">
-              {{ .Title }}
-            </a>
-          </h2>
-        {{ end }}
-
-        {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
-        {{ with .Site.GetPage "section" $section_name }}
-          <a href="{{ .Permalink }}" class="link db f6 pa2 br3 bg-dark-gray white dim w4 tc">All reviews</a>
-        {{ end }}
-        </section>
-      {{ end }}
-
-      {{/* Blog section */}}
-      <section class="w-100 mt5">
-        <h2><a class="link black dim" href="/blog">From the blog</a></h2>
-        {{ range first 3 (where .Site.RegularPages "Section" "==" "blog") }}
-          <div class="relative w-100 mb4 bg-white pa3">
-            <h2 class="f3 near-black">
-              <a href="{{ .Permalink }}" class="link black dim">
-                {{ .Title }}
-              </a>
-            </h2>
-            <div class="nested-links f5 lh-copy nested-copy-line-height">
-              {{ .Summary  }}
-            </div>
-          </div>
-        {{ end }}
-        <a href="/blog" class="link db f6 pa2 br3 bg-dark-gray white dim w4 tc">All blog posts</a>
-      </section>
-
-      <section class="w-100 mt5">
-        <h2>Tag cloud</h2>
-        {{- partial "tag-cloud.html" . -}}
-      </section>
-
-    </div>
-  {{ end }}
-
+<article
+  class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy dark-gray"
+>
+  {{ .Content }}
+</article>
+{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default
+to the section with the most number of pages. */}} {{ $mainSections :=
+.Site.Params.mainSections | default (slice "reviews") }} {{/* Create a variable
+with that section to use in multiple places. */}} {{ $section := where
+.Site.RegularPages "Section" "in" $mainSections }} {{/* Check to see if the
+section is defined for ranging through it */}} {{ $section_count := len $section
+}} {{ if ge $section_count 1 }} {{/* Derive the section name */}} {{
+$section_name := index (.Site.Params.mainSections) 0 }} {{ if $.Param
+"home_banner_text" }}
+<div class="pa3 pa4-ns w-100 w-60-ns center home-banner">
+  <a href="{{ $.Param "home_banner_link" }}"
+    >{{ $.Param "home_banner_text" }}
+  </a>
+</div>
 {{ end }}
+
+<div class="pa3 pa4-ns w-100 w-60-ns center">
+  {{/* Use $section_name to get the section title. Use "with" to only show it if
+  it exists */}} {{ with .Site.GetPage "section" $section_name }}
+  <h2 class="flex-none">
+    {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
+  </h2>
+  {{ end }} {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+
+  <section class="w-100">
+    {{/* Range through the first $n_posts items of the section */}} {{ range
+    (sort $section ".Params.date" "desc") | first $n_posts }}
+    <div class="relative w-100 mb4">{{ partial "summary.html" . }}</div>
+    {{ end }}
+  </section>
+
+  {{ if ge $section_count (add $n_posts 1) }}
+  <section class="w-100">
+    <h2 class="f3">{{ i18n "more" }}</h2>
+    {{/* Show four random posts not in the last $n_posts */}} {{ range (first 4
+    (shuffle (first (sub $section_count $n_posts) $section))) }}
+    <h2 class="f5 fw4 mb4 dib mr3">
+      <a href="{{ .Permalink }}" class="link black dim"> {{ .Title }} </a>
+    </h2>
+    {{ end }} {{/* As above, Use $section_name to get the section title, and
+    URL. Use "with" to only show it if it exists */}} {{ with .Site.GetPage
+    "section" $section_name }}
+    <a
+      href="{{ .Permalink }}"
+      class="link db f6 pa2 br3 bg-dark-gray white dim w4 tc"
+      >All reviews</a
+    >
+    {{ end }}
+  </section>
+  {{ end }} {{/* Blog section */}}
+  <section class="w-100 mt5">
+    <h2><a class="link black dim" href="/blog">From the blog</a></h2>
+    {{ range first 3 (where .Site.RegularPages "Section" "==" "blog") }}
+    <div class="relative w-100 mb4 bg-white pa3">
+      <h2 class="f3 near-black">
+        <a href="{{ .Permalink }}" class="link black dim"> {{ .Title }} </a>
+      </h2>
+      <div class="nested-links f5 lh-copy nested-copy-line-height">
+        {{ .Summary }}
+      </div>
+    </div>
+    {{ end }}
+    <a href="/blog" class="link db f6 pa2 br3 bg-dark-gray white dim w4 tc"
+      >All blog posts</a
+    >
+  </section>
+
+  <section class="w-100 mt5">
+    <h2>Tag cloud</h2>
+    {{- partial "tag-cloud.html" . -}}
+  </section>
+</div>
+{{ end }} {{ end }}
