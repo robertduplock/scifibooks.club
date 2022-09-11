@@ -1,5 +1,5 @@
 ---
-title: Interview with Una McCormack - discussing Second Self
+title: Interview with Una McCormack - Second Self
 date: 2022-09-11T06:31:47.977Z
 tags:
   - Interview
