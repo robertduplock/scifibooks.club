@@ -31,6 +31,8 @@ The storyline involving the alien races on the doomed planet was a bit *been-the
 
 The main criticism levelled at the book is that the A and B stories don't really connect. I suppose that's true, but somehow it didn't bother me too much. Martin continues to give many of the alien characters long, obscure and difficult to remember names, that can be a bit annoying — but again that problem was much worse in this book's predecessor.
 
+{{< pullout >}} I have grown somewhat weary of a Starfleet crew saving yet another alien race from complete planetary destruction {{< /pullout >}}
+
 Although the Typhon Pact series hasn't been great, there is a definite sense of continuity between the novels, and Martin does a good job of keeping the general multi-book arc going. It feels very settled in the shared litverse. 
 
 Michael A Martin co-wrote the first two Titan books, and in those novels he helped give many of the characters a back story. However, I have to say, it would be best now if we left some of the back stories, well, in the past. I'm so sick of reading about Xin Ra-Havreii's guilt around a starship of his design that blew up. It's boring, but worse of all, it has little to do with the actual story. 
