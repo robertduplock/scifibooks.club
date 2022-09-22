@@ -17,4 +17,10 @@ tags:
   - Treklit
 show_reading_time: true
 ---
+A﻿uthor Michael A. Martin returns to pen another Star Trek: Titan novel, *Fallen Gods*. The book acts as a direct sequel to his previous novel, *Typhon Pact:* *Seize The Fire*. 
+
 <﻿!--more-->
+
+After the faintly disastrous Typhon Pact novel *Seize The Fire,* I admit I felt some trepidation in picking up this novel. Luckily, *Fallen Gods* — while not a perfect novel — vastly improves on the book before it. 
+
+T﻿he story centres around two main arcs — one involves an warring alien race, and the other involves Riker being caught in the middle of an internal Starfleet dispute, in which the Andorian members of his crew are due to be reassigned, thanks to Andoria succeeding from the Federation.
