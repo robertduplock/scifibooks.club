@@ -25,6 +25,8 @@ After the faintly disastrous *Seize The Fire,* I admit I felt some trepidation i
 
 T﻿he story centres has two main component — one involves an warring alien race, on a doomed planet, who once commanded advanced technology — while the other involves Riker caught in an ethical dilemma, as the Andorian members of his crew are due to be reassigned, due to Andoria succeeding from the Federation.
 
+![](https://2.bp.blogspot.com/-AaPhTKdiktE/UBNmwuDpelI/AAAAAAAAHtg/xK7YYXLfLpE/s1600/ElleryTitanMag5.jpg)
+
 It's all pretty classic Trek, which is never a bad thing. And while Martin's previous novel, *Seize The Fire*, felt both overly long and yet rushed, *Fallen Gods* is a quicker, sharper and more focused tale. Its punchy and full of good scenes featuring the many diverse members of Titan's crew.
 
 The storyline involving the alien race(s) on the doomed planet was a bit *been-there-done-that*, and I have grown somewhat weary of a Starfleet crew saving yet another alien race from complete planetary destruction. 
