@@ -19,7 +19,7 @@ show_reading_time: true
 ---
 Author Michael A. Martin returns to pen another Star Trek: Titan novel, *Fallen Gods*. The book is a direct sequel to his previous novel, *Typhon Pact:* *Seize The Fire*, and continues overall Typhon Pact arc.
 
-<﻿!--more-->
+<!-- more -->
 
 After the faintly disastrous *Seize The Fire,* I admit I felt some trepidation in picking up this novel. Luckily, *Fallen Gods* — while not a perfect novel — vastly improves on it's predecessor. 
 
