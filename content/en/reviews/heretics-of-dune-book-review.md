@@ -20,6 +20,12 @@ show_reading_time: true
 ---
 *Heretics of Dune* continues to long and bizarre Dune saga, which began with Frank Herbert's original Dune, written in 1966. After the lacklustre snoozefest that was God Emperor of Dune, I was hoping this book would lift the franchise back up to somewhere near its potential.
 
+**Spoilers ahead!**
+
 <!-- more -->
 
-The book does indeed suffer from some of the foibles common amongst Dune sequels — it's overly long, and over-written; often reaching for a kind of literary mastery that belies a very talented writer who is stuck writing crummy sci-fi and space opera.
+The book does indeed suffer from some of the foibles common amongst Dune sequels — it's overly long, and over-written; often reaching for a kind of literary mastery that belies a very talented writer who is stuck writing crummy sci-fi and space opera. Maybe that's a little harsh, but it is difficult to shake the feeling that Frank Herbert didn't want to write any Dune books after the first one.
+
+However, once the book reaches roughly the 1/3 mark, things do pick up  — and lo and behold, the book is actually pretty good! The story is complicated, so I won't try to summarise it, other than to say that it focuses on the inner working of the Bene Gesserit and, of course, poor old Duncan is back again in ghola form.
+
+But the stand out character that emerges in *Heretics of Dune* is definitely Miles Teg, the retired military commander and mentat who is brought back into service and given the unenviable task of escorting the latest Duncan safely to Arrakis.
