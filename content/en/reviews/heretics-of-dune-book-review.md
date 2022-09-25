@@ -6,7 +6,7 @@ date: 2022-09-24T03:09:14.760Z
 description: Book review of Heretics of Dune by Frank Herbert
 weight: 5
 inline_image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564027750i/44492287.jpg
-rating: -7
+rating: 4
 series:
   - Dune
 tags:
