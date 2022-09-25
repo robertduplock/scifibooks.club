@@ -36,4 +36,6 @@ The introduction of the scattered people is another interesting aspect to the bo
 
 All their plans ultimately come to nought, as the complex machinations of various plots-within-plots end up with the dusty planet being bombed. The plan to mate Sheeana and Duncan never happens, but they do manage to escape with the only sandworm left alive. Unfortunately, Miles Teg must give his life to ensure that happens.
 
-*Heretics of Dune* is a welcome return to form for Herbert, who thankfully ditched the dull diatribes of *God Emperor* and replaced them with some genuinely exciting scenes. We get new locations, new characters — and all throughout the story, the ramifications of the earlier novels are felt. There is a nice sense of continuation. Yes, Dune could have been a mainstream, blockbuster franchise.
+*Heretics of Dune* is a welcome return to form for Herbert, who thankfully ditched the dull diatribes of *God Emperor* and replaced them with some genuinely exciting scenes. We get new locations, new characters — and all throughout the story, the ramifications of the earlier novels are felt. There is a nice sense of continuation. Yes, Dune could have been a mainstream, blockbuster franchise, with brave Paul Atreides leading the charge. But Herbert wasn't interested in such things. Instead, he gave us something complex, flawed and occasionally brilliant. 
+
+And hey, if you've ready the first four, why not read all six?
