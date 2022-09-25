@@ -18,4 +18,8 @@ tags:
   - Space opera
 show_reading_time: true
 ---
-Heretics of Dune continues to long and bizarre Dune saga, which began with Frank Herbert's original Dune, written in 1966. After the lacklustre snoozefest that was God Emperor of Dune, I was hoping this book would lift the franchise back up to somewhere near it's potential.
+*Heretics of Dune* continues to long and bizarre Dune saga, which began with Frank Herbert's original Dune, written in 1966. After the lacklustre snoozefest that was God Emperor of Dune, I was hoping this book would lift the franchise back up to somewhere near its potential.
+
+<!-- more -->
+
+The book does indeed suffer from some of the foibles common amongst Dune sequels — it's overly long, and over-written; often reaching for a kind of literary mastery that belies a very talented writer who is stuck writing crummy sci-fi and space opera.
