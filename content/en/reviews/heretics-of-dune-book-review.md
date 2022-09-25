@@ -28,4 +28,4 @@ The book does indeed suffer from some of the foibles common amongst Dune sequels
 
 However, once the book reaches roughly the 1/3 mark, things do pick up  — and lo and behold, the book is actually pretty good! The story is complicated, so I won't try to summarise it, other than to say that it focuses on the inner working of the Bene Gesserit and, of course, poor old Duncan is back again in ghola form.
 
-But the stand out character that emerges in *Heretics of Dune* is definitely Miles Teg, the retired military commander and mentat who is brought back into service and given the unenviable task of escorting the latest Duncan safely to Arrakis.
+But the stand out character that emerges in *Heretics of Dune* is definitely Miles Teg, the retired military commander and mentat who is brought back into service and given the unenviable task of escorting the latest Duncan safely to Arrakis. Along for the ride is Lucilla, a Bene Gesserit Reverend Mother who is tasked with making sure Duncan is fighting for the right team. Her weapon of choice is the ecstasy that, er, only a woman of certain experience can provide to a heterosexual man.
