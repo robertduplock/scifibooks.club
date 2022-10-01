@@ -26,7 +26,7 @@ Following on from the success of her season 1 prequel novel, *The Last Best Hope
 
 <!--more-->
 
-With ten Trek books behind her (and numerous other works), Una McCormack knows her way around the Treklit space. Naturally, I was looking forward to reading reading this one, and I'm happy to say the book did not disappoint. 
+With ten Trek books behind her (and numerous other works), Una McCormack knows her way around the Treklit space. Naturally, I was looking forward to reading this one, and I'm happy to say the book did not disappoint. 
 
 *Second Self* starts with Raffi struggling to figure out her next step — her career and personal life are both at a crossroads. Picard suggests she might try teaching at Starfleet Academy, but Raffi isn't sure. While she ponders her choices, Starfleet Intelligence needs an off-the-books agent to help find an old Cardassian war criminal. With some reluctance, she agrees to the mission, and brings Elnor along for the ride.
 
