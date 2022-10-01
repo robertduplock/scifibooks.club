@@ -1,29 +1,28 @@
 <div class="relative w-100 mb3 bg-white nested-copy-line-height">
   <div class="bg-white mb2 pa4 dark-gray overflow-hidden">
-    <span class="f6">{{ humanize .Section }}</span> 
-    {{ if and (isset .Params "weight") (ne .Params.weight 0) }}
-      {{/* Takes the first series to generate the series link */}}
-      {{ with .Params.series }}
-        <span class="f7 ml1 mr1">|</span>
-        {{ range first 1 . }}
-          <a class="link dark-gray f6" href="/series/{{ . | urlize }}"><span>#{{ $.Param "weight" }} in {{ . }}</span></a>
-        {{ end }}
-      {{ end }}
-    {{ end }}
+    <span class="f6">{{ humanize .Section }}</span>
+    {{ if and (isset .Params "weight") (ne .Params.weight 0) }} {{/* Takes the
+    first series to generate the series link */}} {{ with .Params.series }}
+    <span class="f7 ml1 mr1">|</span>
+    {{ range first 1 . }}
+    <a class="link dark-gray f6" href="/series/{{ . | urlize }}">
+      <span>#{{ $.Param "weight" }} in {{ . }}</span>
+    </a>
+    <span class="f6 db dib-ns fr-ns mt1 mt0-ns">
+      {{ ($.Param "date").Format "January 2, 2006" }}
+    </span>
+    {{ end }} {{ end }} {{ end }}
     <h2 class="f3 near-black">
-      <a href="{{ .RelPermalink }}" class="link black dim">
-        {{ .Title }}
-      </a>
+      <a href="{{ .RelPermalink }}" class="link black dim"> {{ .Title }} </a>
     </h2>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       <div class="w4 overflow-hidden fl mr3">
         <img class="br2" loading="lazy" src="{{ $.Param "inline_image" }}" />
       </div>
-      {{ .Summary }}
-      {{ if .Params.rating }}
-        <div class="mt2" style="zoom: 0.8;">
-          {{ partial "star-rating.html" . }}
-        </div>
+      {{ .Summary }} {{ if .Params.rating }}
+      <div class="mt2" style="zoom: 0.8">
+        {{ partial "star-rating.html" . }}
+      </div>
       {{ end }}
     </div>
   </div>

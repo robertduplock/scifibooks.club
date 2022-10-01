@@ -12,6 +12,7 @@ title = "Star Trek: Picard: The Last Best Hope book review"
 weight = 1
 
 +++
+
 When Una McCormack was selected to write the first tie-in novel for _Star Trek: Picard_, one could only imagine the pressure she must have felt. _The Last Best Hope_ is a prequel to the TV series and tells the story of how the plan to evacuate Romulus went so wrong.
 
 **Spoilers ahead!**

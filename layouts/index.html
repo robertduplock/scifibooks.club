@@ -14,9 +14,13 @@ section is defined for ranging through it */}} {{ $section_count := len $section
 $section_name := index (.Site.Params.mainSections) 0 }} {{ if $.Param
 "home_banner_text" }}
 <div class="pa3 pa4-ns w-100 w-60-ns center home-banner">
-  <a href="{{ $.Param "home_banner_link" }}"
-    >{{ $.Param "home_banner_text" }}
-  </a>
+  <div>
+
+    <a href="{{ $.Param "home_banner_link" }}">
+      <i class="fa fa-hand-pointer-o f5 fl mr2" aria-hidden="true"></i>
+      {{ $.Param "home_banner_text" }}
+    </a>
+  </div>
 </div>
 {{ end }}
 
