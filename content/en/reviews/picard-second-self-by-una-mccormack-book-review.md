@@ -20,7 +20,7 @@ tags:
   - TrekLit
 show_reading_time: true
 ---
-Following on from the success of her season 1 prequel novel, *The Last Best Hope*, author Una McCormack returns to the world of Picard with *Second Self* — a new novel set between seasons 1 & 2 of the TV show. After several delays, the novel has finally seen the light of day. So, was it worth the wait?
+Following on from the success of her season 1 prequel novel, *The Last Best Hope*, author Una McCormack returns to the world of Picard with *Second Self* — a new novel set between seasons 1 & 2 of the TV show. After several delays the novel has finally seen the light of day. So, was it worth the wait?
 
 **Spoilers ahead!**
 
