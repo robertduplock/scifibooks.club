@@ -55,3 +55,5 @@ Okay, let's talk about the book's ending — yes, *that* ending. The fate of Ga
 Before reading it, I wondered if this book would tie up some of the loose ends between season 1 and 2. In a sense, it did. It explains how Raffi and Elnor both end up at Starfleet Academy, and why the pair had grown so close by the time season 2 starts.
 
 Overall, I really enjoyed *Second Self*. It's a character driven story, with Raffi and Garak providing the heart and soul. There are plenty of twists and turns. I highly recommend giving this one a read, even if you aren't a huge Picard fan.
+
+[Don't miss our interview with Una McCormack discussing this very book!](https://scifibooks.club/blog/interview-with-una-mccormack/)
