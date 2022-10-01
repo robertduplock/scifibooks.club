@@ -54,4 +54,4 @@ Okay, let's talk about the ending. In particular, fate of Garak. Firstly, I shou
 
 I wondered if this book would tie up some of the loose ends between season 1 and 2. In a sense, it did. It explains how Raffi and Elnor both end up at the academy, and why the pair had grown so close by the time season 2 starts.
 
-Overall, I really enjoyed Second Self. It's a character driven story, with Raffi and Garak providing the heard and soul of the story. This is one not to be missed.
+Overall, I really enjoyed Second Self. It's a character driven story, with Raffi and Garak providing the heart and soul. This is one not to be missed.
