@@ -42,6 +42,8 @@ Which brings me to my next point: is this a Picard novel, or a Deep Space Nine n
 
 It will really depend on your perspective, but I reckon the book does an amazing job of sewing the Picard timeline in with DS9 and, in particular, the aftermath of the Dominion War. I didn't mind that, at times, it felt a bit more like a DS9 book than a Picard story. Because Una McCormack did a great job of letting the book exist in both worlds. After all, it's all Trek... right?
 
+{{< pullout >}} I reckon the book does an amazing job of sewing the Picard timeline in with DS9 {{< /pullout >}}
+
 Speaking of the author: Una McCormack obviously has a real affinity with the character of Raffi Musiker. And just as I said in my review of The Last Best Hope, McCormack does a wonderful job in fleshing out Raffi's character. I never felt much of a connection with her on-screen character, but in book form, I really enjoy spending time with her. 
 
 I have a couple of small nitpicks with the book. Firstly, it's a bit vague as to why Elnor should come along for the mission. Picard just sort of says, "I think it'd be good for him," even though it's a delicate and probably dangerous mission. Sure, Elnor can obviously take care of himself, but he's not even in Starfleet!
