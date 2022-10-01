@@ -50,8 +50,8 @@ I have a couple of small nitpicks. Firstly, it's a bit vague as to why Elnor sho
 
 Secondly, some may feel like the book is too deeply rooted in Deep Space Nine lore. Few of the cast other than Raffi really get any time to shine. What about Agnes, or Seven, or even plucking out a minor character from season 1? 
 
-Okay, let's talk about the book's ending — yes, *that* ending. The fate of Garak. Firstly, I should mention I am not a huge DS9 fan, and I find some of the stuff to do with the Orbs and the Prophets a bit silly. In that sense, I'm pretty easy going about where Garak ends up. Interested, yes — but it's not like I have an extensive head-canon in which Garak gets his comeuppance. But, overall, I liked the idea that Garak would travel back in time to atone for his terrible sins, with a little help from the Orb of Restitution.
+Okay, let's talk about the book's ending — yes, *that* ending. The fate of Garak. Firstly, I should mention I am not a huge DS9 fan, and I find some of the stuff to do with the Orbs and the Prophets a bit silly. In that sense, I'm pretty easy going about where Garak ends up. Interested, yes — but it's not like I have an extensive head-canon in which Garak gets his comeuppance. Overall, I liked the idea that Garak would travel back in time to atone for his terrible sins, with a little help from the Orb of Restitution. So a thumbs up from me.
 
-I wondered if this book would tie up some of the loose ends between season 1 and 2. In a sense, it did. It explains how Raffi and Elnor both end up at the academy, and why the pair had grown so close by the time season 2 starts.
+Before reading it, I wondered if this book would tie up some of the loose ends between season 1 and 2. In a sense, it did. It explains how Raffi and Elnor both end up at Starfleet Academy, and why the pair had grown so close by the time season 2 starts.
 
-Overall, I really enjoyed Second Self. It's a character driven story, with Raffi and Garak providing the heart and soul. This is one not to be missed.
+Overall, I really enjoyed *Second Self*. It's a character driven story, with Raffi and Garak providing the heart and soul. There are plenty of twists and turns. I highly recommend giving this one a read, even if you aren't a huge Picard fan.
