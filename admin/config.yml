@@ -19,27 +19,45 @@ collections:
     folder: "content/en/reviews"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Book author", name: "book_author", widget: "string" }
       - { label: "Book title", name: "book_title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Description", name: "description", widget: "string"}
-      - { label: "Weight", name: "weight", widget: "number"}
-      - { label: "Inline image", name: "inline_image", widget: "string"}
-      - { label: "Rating", name: "rating", widget: "number"}
-      - { label: "Series", name: "series", widget: "taxonomy"}
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Weight", name: "weight", widget: "number" }
+      - { label: "Inline image", name: "inline_image", widget: "string" }
+      - {
+          label: "Rating",
+          name: "rating",
+          widget: "number",
+          value_type: "float",
+          min: 1,
+          max: 5,
+        }
+      - { label: "Series", name: "series", widget: "taxonomy" }
       - { label: "Tags", name: "tags", widget: "taxonomy" }
-      - { label: "Show reading time", name: "show_reading_time", widget: "boolean", default: true }
+      - {
+          label: "Show reading time",
+          name: "show_reading_time",
+          widget: "boolean",
+          default: true,
+        }
   - name: "blog"
     label: "Blog"
     folder: "content/en/blog"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Tags", name: "tags", widget: "taxonomy", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" }}
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "taxonomy",
+          summary: "{{fields.tag}}",
+          field: { label: "Tag", name: "tag", widget: "string" },
+        }
   - name: "pages"
     label: "Pages"
     files:
@@ -49,5 +67,5 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Description", name: "description", widget: "string"}
+          - { label: "Description", name: "description", widget: "string" }
           - { label: "Featured image", name: "featured_image", widget: "image" }
