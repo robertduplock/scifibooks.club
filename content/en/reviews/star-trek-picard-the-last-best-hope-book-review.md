@@ -1,17 +1,23 @@
-+++
-book_author = "Una McCormack"
-book_title = "Star Trek: Picard: The Last Best Hope"
-date = 2022-03-03T03:18:44Z
-description = "Book review of Star Trek: Picard: The Last Best Hope by Una McCormack"
-inline_image = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581536639l/52617889._SX318_SY475_.jpg"
-rating = 4.5
-series = ["Picard"]
-show_reading_time = true
-tags = ["Una McCormack", "Star Trek: Picard", "Picard"]
-title = "Star Trek: Picard: The Last Best Hope book review"
-weight = 1
-
-+++
+---
+title: "Star Trek: Picard: The Last Best Hope book review"
+book_author: Una McCormack
+book_title: "Star Trek: Picard: The Last Best Hope"
+date: 2022-03-03T03:18:44.000Z
+description: "Book review of Star Trek: Picard: The Last Best Hope by Una McCormack"
+weight: 1
+inline_image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581536639l/52617889._SX318_SY475_.jpg
+rating: 4.5
+series:
+  - Picard
+tags:
+  - Una McCormack
+  - "Star Trek: Picard"
+  - Picard
+  - Star Trek
+  - TrekLit
+  - "tie-in "
+show_reading_time: true
+---
 
 When Una McCormack was selected to write the first tie-in novel for _Star Trek: Picard_, one could only imagine the pressure she must have felt. _The Last Best Hope_ is a prequel to the TV series and tells the story of how the plan to evacuate Romulus went so wrong.
 
