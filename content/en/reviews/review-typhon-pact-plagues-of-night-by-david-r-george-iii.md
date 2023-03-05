@@ -21,3 +21,9 @@ David R George III returned to treklit and the Typhon Pact crossover series with
 **Spoilers ahead**
 
 <!--more-->
+
+I won't lie — the Typhon Pact has not been my favourite Treklit series. The books have been disjointed, and the overall arc rather vague. A couple of the early books were pretty awful, but I developed a soft spot for David R. George III's earlier Typhon Pact entry, *Rough Beasts Of Empire*.
+
+Firstly, David R. George III manages to do something few writers can boast — he manages to make the Romulans interesting. At least to me. I think his over-the-top (perhaps melodramatic) writing style suits the Romulan characters really well. I found the post-Nemesis world of Romulan politics a bit dull in earlier relaunch novels, but these latest twists and turns have been quite enjoyable.
+
+In short, David R. George III has a unique style, which suits some aspects of Trek but not others. A lot of the quibbles I had with his previous novel (*Rough Beasts Of Empire*) are present here. So, at the risk of retredding old tyres, here goes:
