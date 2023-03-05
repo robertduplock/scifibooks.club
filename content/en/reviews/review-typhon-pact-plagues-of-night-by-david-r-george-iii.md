@@ -16,15 +16,15 @@ tags:
   - David R George III
 show_reading_time: true
 ---
-David R George III returned to Treklit and the Typhon Pact crossover series with the first book in the Khitomer Accords trilogy, which rounded out the entire Typhon Pact story. *Plagues of Night* focuses mainly on Ben Sisko's post-emissary life and the Romulans.
+David R George III returns to Treklit and the Typhon Pact crossover series with the first book in the Khitomer Accords trilogy, which rounds out the entire Typhon Pact saga. *Plagues of Night* focuses mainly on Ben Sisko's post-emissary life, and the Romulans quest to recreate the slipstream drive.
 
 **Spoilers ahead**
 
 <!--more-->
 
-I won't lie — the Typhon Pact has not been my favourite Treklit series. The books have been disjointed, and the overall arc is rather vague. A couple of the early books were pretty awful. Still, I developed a soft spot for David R. George III's earlier Typhon Pact entry, *Rough Beasts Of Empire*.
+I won't lie — the Typhon Pact has not been my favourite Treklit series. The books have been disjointed and without a clear arc or sense of direction. A couple of the early books were downright awful. Still, I developed a soft spot for David R. George III's earlier Typhon Pact entry, *Rough Beasts Of Empire,* so I was cautiously optimistic I might like this one.
 
-The storyline is partially about Ben Sisko and his struggles with his family. First, he ditched his wife and daughter because the Bajoran prophets told him life would be miserable if he stayed with them. Secondly, the Romulans are trying to even up the technological score with the Federation and their dang slipstream drive. They score some schematics but need some serious tech to bring it all together.
+The storyline is partially about Ben Sisko and his struggles with his family. He's ditched his wife and daughter because the Bajoran prophets told him life would be miserable if he hung around. Secondly, the Romulans are trying to even up the technological score with the Federation and their dang slipstream drive. They score some schematics but need some serious tech to bring it all together.
 
 Firstly, David R. George III manages to do something few writers can boast — he makes the Romulans interesting, at least to me. His over-the-top (perhaps melodramatic) writing style suits the Romulan characters well. I found the post-Nemesis world of Romulan politics a bit dull in earlier relaunch novels. Still, these latest twists and turns have been quite enjoyable.
 
@@ -39,5 +39,7 @@ Honestly, how many people would know what these obscure words mean without turni
 Also, the storyline regarding Ben S leaving his wife and kid sucks. Period. I know DRGIII probably had his reasons (maybe the story came from above), but it still sucks.
 
 But all that being said, I found myself really enjoying this book. In particular, the scenes involving the Enterprise and Captain Picard were very well done, and (unlike Sisko) I really enjoyed seeing the progress Picard has made as a character throughout the books. *Plagues of Night* had the courage to work Picard into some meaty scenes, which really paid off.
+
+And how about the ending — things certainly end with a bang. In this case, I mean that literally, as Deep Space Nine is torn asunder. I was a little unclear as to why the Typhon Pact had to resort to such destruction. My understanding is they were trying to get their stolen Changeling tech safety through Federation customs, but when their cloaked ship was discovered, they went with plan B and blew up everything in sight.
 
 Although it does seem like the Typhon Pact saga is limping to a bit of a lame conclusion, at least it's going out with a certain degree of charm and style. While I'll never truly love DRGIII's writing style, I've come to appreciate his unique take on Trek. I can see he's very well suited to DS9 and Romulan worlds.
