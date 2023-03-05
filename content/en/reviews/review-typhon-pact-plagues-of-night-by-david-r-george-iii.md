@@ -42,4 +42,4 @@ But all that being said, I found myself really enjoying this book. In particular
 
 And how about the ending — things certainly end with a bang. In this case, I mean that literally, as Deep Space Nine is torn asunder. I was a little unclear as to why the Typhon Pact had to resort to such destruction. My understanding is they were trying to get their stolen Changeling tech safety through Federation customs, but when their cloaked ship was discovered, they went with plan B and blew up everything in sight.
 
-Although it does seem like the Typhon Pact saga is limping to a bit of a lame conclusion, at least it's going out with a certain degree of charm and style. While I'll never truly love DRGIII's writing style, I've come to appreciate his unique take on Trek. I can see he's very well suited to DS9 and Romulan worlds.
+Although it does seem like the Typhon Pact saga is limping to a bit of a lame conclusion overall, at least it's going out with a certain amount of charm. While I'll never truly love DRGIII's writing style, I've come to appreciate his unique take on Trek. I can see he's very well suited to DS9 and Romulan worlds.
